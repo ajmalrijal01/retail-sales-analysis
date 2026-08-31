@@ -1,0 +1,2016 @@
+order_id,order_date,region,customer_segment,category,sub_category,ship_mode,quantity,unit_price,discount,sales,profit
+ORD-1000,2023-04-13,East,Corporate,Groceries,Snacks,Standard,3,13.95,0.05,39.76,14.65
+ORD-1001,2024-01-08,West,Corporate,Groceries,Bakery,Standard,4,13.95,0.15,47.43,13.95
+ORD-1002,2024-01-21,North,Consumer,Groceries,Snacks,Standard,3,7.24,0.0,21.72,8.69
+ORD-1003,2024-04-20,East,Consumer,Groceries,Bakery,Express,3,12.47,0.0,37.41,14.96
+ORD-1004,2023-09-01,North,Corporate,Electronics,Headphones,Standard,4,204.95,0.0,819.8,327.92
+ORD-1005,2024-03-30,West,Consumer,Groceries,Snacks,Same Day,4,13.69,0.0,54.76,21.9
+ORD-1006,2024-01-23,South,Consumer,Furniture,Tables,Standard,4,62.37,0.05,237.01,87.32
+ORD-1007,2023-09-28,South,Consumer,Groceries,Snacks,Standard,2,10.3,0.05,19.57,7.21
+ORD-1008,2023-08-05,West,Consumer,Groceries,Bakery,Standard,7,6.56,0.1,41.33,13.78
+ORD-1009,2024-08-15,North,Corporate,Clothing,Jackets,Same Day,2,23.6,0.0,47.2,18.88
+ORD-1010,2023-05-15,West,Consumer,Electronics,Cameras,Standard,3,167.02,0.05,476.01,175.37
+ORD-1011,2024-12-26,North,Consumer,Clothing,Jackets,Same Day,3,25.65,0.1,69.26,23.09
+ORD-1012,2023-08-06,East,Consumer,Clothing,Shirts,Standard,4,22.97,0.15,78.1,22.97
+ORD-1013,2024-02-11,East,Consumer,Toys,Puzzles,Same Day,7,39.38,0.0,275.66,110.26
+ORD-1014,2023-03-27,South,Corporate,Groceries,Beverages,Express,4,16.16,0.05,61.41,22.63
+ORD-1015,2023-11-27,West,Consumer,Furniture,Sofas,Same Day,1,196.98,0.0,196.98,78.79
+ORD-1016,2024-09-24,North,Consumer,Groceries,Snacks,Standard,1,9.11,0.0,9.11,3.64
+ORD-1017,2024-11-14,West,Consumer,Clothing,Shoes,Express,1,75.32,0.0,75.32,30.13
+ORD-1018,2024-03-17,South,Corporate,Groceries,Bakery,Express,1,13.01,0.05,12.36,4.55
+ORD-1019,2024-09-29,West,Consumer,Furniture,Chairs,Standard,7,175.46,0.1,1105.4,368.47
+ORD-1020,2023-07-22,East,Corporate,Clothing,Shirts,Standard,7,39.46,0.0,276.22,110.49
+ORD-1021,2024-08-31,East,Consumer,Electronics,Cameras,Standard,4,266.27,0.0,1065.08,426.03
+ORD-1022,2024-02-07,East,Consumer,Furniture,Sofas,Express,7,208.96,0.15,1243.31,365.68
+ORD-1023,2024-10-02,North,Consumer,Clothing,Trousers,Same Day,6,29.02,0.1,156.71,52.24
+ORD-1024,2023-09-20,South,Small Business,Groceries,Bakery,Standard,3,15.28,0.0,45.84,18.34
+ORD-1025,2023-08-21,West,Corporate,Clothing,Jackets,Express,6,46.02,0.1,248.51,82.84
+ORD-1026,2024-09-19,West,Corporate,Clothing,Shirts,Express,1,17.8,0.1,16.02,5.34
+ORD-1027,2023-12-04,East,Corporate,Furniture,Tables,Standard,1,243.11,0.0,243.11,97.24
+ORD-1028,2024-02-02,West,Consumer,Toys,Dolls,Express,4,21.36,0.05,81.17,29.91
+ORD-1029,2024-04-14,South,Small Business,Toys,Puzzles,Standard,5,39.94,0.05,189.71,69.89
+ORD-1030,2023-10-11,West,Corporate,Electronics,Phones,Standard,1,253.15,0.2,202.52,50.63
+ORD-1031,2023-06-07,North,Small Business,Toys,Board Games,Express,5,28.76,0.15,122.23,35.95
+ORD-1032,2024-05-11,East,Small Business,Toys,Puzzles,Standard,1,21.45,0.0,21.45,8.58
+ORD-1033,2023-05-08,South,Small Business,Furniture,Chairs,Express,6,147.77,0.0,886.62,354.65
+ORD-1034,2023-10-15,East,Consumer,Furniture,Sofas,Standard,2,204.29,0.1,367.72,122.57
+ORD-1035,2024-02-12,South,Consumer,Toys,Dolls,Express,4,46.01,0.05,174.84,64.42
+ORD-1036,2024-05-26,East,Consumer,Groceries,Dairy,Standard,3,23.5,0.05,66.97,24.67
+ORD-1037,2024-07-28,South,Small Business,Toys,Board Games,Standard,2,23.92,0.1,43.06,14.36
+ORD-1038,2023-02-23,North,Consumer,Clothing,Trousers,Express,4,46.59,0.1,167.72,55.9
+ORD-1039,2023-12-16,West,Corporate,Clothing,Jackets,Same Day,4,24.75,0.1,89.1,29.7
+ORD-1040,2024-10-20,East,Consumer,Electronics,Cameras,Express,6,195.05,0.1,1053.27,351.09
+ORD-1041,2024-01-28,North,Consumer,Groceries,Snacks,Standard,2,12.4,0.0,24.8,9.92
+ORD-1042,2023-04-28,North,Consumer,Electronics,Cameras,Same Day,6,278.3,0.1,1502.82,500.94
+ORD-1043,2023-03-17,East,Corporate,Furniture,Beds,Standard,6,269.17,0.0,1615.02,646.01
+ORD-1044,2023-02-16,South,Small Business,Electronics,Laptops,Standard,6,208.81,0.05,1190.22,438.5
+ORD-1045,2023-01-23,South,Corporate,Furniture,Tables,Standard,7,239.23,0.0,1674.61,669.84
+ORD-1046,2024-10-20,North,Consumer,Furniture,Beds,Express,2,210.66,0.0,421.32,168.53
+ORD-1047,2023-06-09,West,Corporate,Clothing,Trousers,Standard,1,41.78,0.05,39.69,14.62
+ORD-1048,2024-11-21,West,Consumer,Clothing,Shirts,Same Day,5,34.16,0.1,153.72,51.24
+ORD-1049,2024-08-24,North,Consumer,Furniture,Sofas,Express,2,191.21,0.05,363.3,133.85
+ORD-1050,2024-02-17,North,Small Business,Groceries,Snacks,Standard,3,22.55,0.2,54.12,13.53
+ORD-1051,2024-07-01,East,Consumer,Furniture,Chairs,Express,5,78.78,0.0,393.9,157.56
+ORD-1052,2024-11-25,North,Consumer,Toys,Puzzles,Standard,1,27.07,0.0,27.07,10.83
+ORD-1053,2024-11-29,West,Consumer,Clothing,Shirts,Same Day,4,79.05,0.0,316.2,126.48
+ORD-1054,2024-12-18,South,Corporate,Groceries,Dairy,Standard,3,10.47,0.0,31.41,12.56
+ORD-1055,2024-07-18,North,Small Business,Electronics,Headphones,Same Day,6,158.94,0.05,905.96,333.78
+ORD-1056,2023-05-13,North,Consumer,Clothing,Jackets,Standard,4,44.96,0.15,152.86,44.96
+ORD-1057,2023-08-18,South,Consumer,Toys,Dolls,Express,2,24.93,0.0,49.86,19.94
+ORD-1058,2023-06-14,West,Small Business,Clothing,Trousers,Express,5,43.48,0.1,195.66,65.22
+ORD-1059,2023-03-11,East,Corporate,Groceries,Dairy,Standard,3,14.16,0.0,42.48,16.99
+ORD-1060,2024-06-14,North,Consumer,Clothing,Shirts,Standard,7,50.22,0.05,333.96,123.04
+ORD-1061,2023-01-01,West,Small Business,Clothing,Shirts,Standard,1,49.22,0.0,49.22,19.69
+ORD-1062,2023-04-27,North,Small Business,Furniture,Beds,Standard,3,183.76,0.15,468.59,137.82
+ORD-1063,2024-11-06,west,Consumer,Clothing,Jackets,Standard,1,51.8,0.1,46.62,15.54
+ORD-1064,2024-02-19,South,Consumer,Electronics,Phones,Same Day,2,414.24,0.0,828.48,331.39
+ORD-1065,2023-03-31,South,Consumer,Furniture,Beds,Standard,4,136.35,0.2,436.32,109.08
+ORD-1066,2024-05-16,North,Consumer,Electronics,Phones,Express,3,201.53,0.1,544.13,181.38
+ORD-1067,2024-08-16,North,Corporate,Clothing,Trousers,Standard,6,35.16,0.15,179.32,52.74
+ORD-1068,2023-01-05,North,Consumer,Electronics,Laptops,Same Day,1,352.93,0.2,282.34,70.58
+ORD-1069,2024-11-19,South,Consumer,Toys,Action Figures,Standard,5,23.9,0.0,119.5,47.8
+ORD-1070,2024-06-01,North,Small Business,Groceries,Snacks,Same Day,5,21.82,0.1,98.19,32.73
+ORD-1071,2023-03-24,South,Consumer,Electronics,Phones,Standard,5,273.43,0.05,1298.79,478.5
+ORD-1072,2024-03-21,West,Corporate,Electronics,Phones,Standard,2,274.92,0.05,522.35,192.45
+ORD-1073,2023-11-02,South,Small Business,Groceries,Snacks,Standard,3,11.63,0.05,33.15,12.22
+ORD-1074,2024-09-15,South,Corporate,Toys,Action Figures,Standard,6,39.53,0.05,225.32,83.01
+ORD-1075,2024-03-10,North,Consumer,Furniture,Beds,Express,4,85.03,0.0,340.12,136.05
+ORD-1076,2023-04-16,North,Corporate,Clothing,Shirts,Standard,4,45.53,0.05,173.01,63.74
+ORD-1077,2024-06-29,North,Consumer,Toys,Board Games,Standard,3,35.27,0.0,105.81,42.32
+ORD-1078,2024-10-24,West,Corporate,Clothing,Shoes,Standard,3,48.97,0.05,139.56,51.41
+ORD-1079,2024-11-02,South,Consumer,Furniture,Chairs,Express,2,164.3,0.0,328.6,131.44
+ORD-1080,2024-06-17,North,Consumer,Toys,Board Games,Standard,2,19.03,0.1,34.25,11.41
+ORD-1081,2023-05-01,West,Consumer,Clothing,Jackets,Standard,1,26.08,0.0,26.08,10.43
+ORD-1082,2023-09-10,East,Consumer,Groceries,Dairy,Standard,2,8.18,0.1,14.72,4.9
+ORD-1083,2024-06-09,East,Corporate,Clothing,Trousers,Express,6,56.4,0.1,304.56,101.52
+ORD-1084,2024-05-22,South,Consumer,Toys,Board Games,Standard,4,32.64,0.0,130.56,52.22
+ORD-1085,2023-09-30,West,Consumer,Furniture,Tables,Standard,1,153.61,0.1,138.25,46.08
+ORD-1086,2023-03-08,South,Consumer,Electronics,Phones,Standard,1,364.23,0.05,346.02,127.48
+ORD-1087,2024-07-07,South,Small Business,Electronics,Phones,Express,3,290.42,0.0,871.26,348.5
+ORD-1088,2024-01-12,South,Consumer,Electronics,Phones,Standard,6,339.16,0.0,2034.96,813.98
+ORD-1089,2024-08-29,East,Consumer,Electronics,Headphones,Standard,4,246.9,0.2,790.08,197.52
+ORD-1090,2023-01-06,west,Small Business,Furniture,Beds,Standard,6,179.53,0.1,969.46,323.15
+ORD-1091,2024-03-16,East,Consumer,Furniture,Sofas,Standard,4,204.38,0.0,817.52,327.01
+ORD-1092,2024-02-14,West,Consumer,Groceries,Dairy,Standard,6,16.17,0.05,92.17,33.96
+ORD-1093,2023-05-19,East,Consumer,Groceries,Snacks,Standard,2,10.93,0.05,20.77,7.65
+ORD-1094,2024-10-11,North,Corporate,Groceries,Beverages,Standard,6,14.68,0.05,83.68,30.83
+ORD-1095,2024-08-28,South,Corporate,Electronics,Phones,Standard,5,173.21,0.1,779.44,259.81
+ORD-1096,2023-05-17,East,Consumer,Furniture,Beds,Express,3,243.06,0.1,656.26,218.75
+ORD-1097,2023-09-27,East,Consumer,Groceries,Beverages,Express,3,16.14,0.05,46.0,16.95
+ORD-1098,2024-07-27,North,Consumer,Groceries,Snacks,,3,22.98,0.05,65.49,24.13
+ORD-1099,2023-01-23,North,Small Business,Electronics,Phones,Standard,6,220.12,0.0,1320.72,528.29
+ORD-1100,2023-04-14,East,Consumer,Clothing,Jackets,Standard,4,50.99,0.1,183.56,61.18
+ORD-1101,2024-10-30,South,Small Business,Electronics,Cameras,Express,6,331.78,0.1,1791.61,597.2
+ORD-1102,2024-02-15,West,Consumer,Electronics,Laptops,Express,6,223.94,0.05,1276.46,470.28
+ORD-1103,2023-08-16,West,Consumer,Toys,Dolls,Express,5,37.46,0.05,177.94,65.56
+ORD-1104,2023-11-20,South,Consumer,Groceries,Snacks,Standard,3,22.68,0.0,68.04,27.22
+ORD-1105,2023-01-11,South,Consumer,Furniture,Beds,Standard,2,207.92,0.15,353.46,103.96
+ORD-1106,2024-01-31,West,Consumer,Furniture,Chairs,Express,4,185.91,0.1,669.28,223.1
+ORD-1107,2023-05-07,West,Consumer,Furniture,Chairs,Standard,3,219.19,0.1,591.81,197.27
+ORD-1108,2023-10-23,East,Consumer,Electronics,Laptops,,7,254.18,0.0,1779.26,711.7
+ORD-1109,2023-11-05,West,Corporate,Electronics,Laptops,Express,3,332.06,0.0,996.18,398.47
+ORD-1110,2024-06-20,South,Consumer,Furniture,Sofas,Standard,3,161.87,0.0,485.61,194.24
+ORD-1111,2023-06-28,West,Consumer,Electronics,Headphones,Same Day,1,375.18,0.1,337.66,112.55
+ORD-1112,2024-10-23,South,Corporate,Furniture,Beds,Standard,5,136.85,0.0,684.25,273.7
+ORD-1113,2023-11-23,North,Consumer,Electronics,Cameras,Standard,3,237.66,0.0,712.98,285.19
+ORD-1114,2024-10-31,North,Consumer,Toys,Action Figures,,3,15.14,0.05,43.15,15.9
+ORD-1115,2023-07-13,South,Consumer,Groceries,Snacks,Express,4,18.15,0.0,72.6,29.04
+ORD-1116,2023-02-24,South,Consumer,Clothing,Trousers,Express,4,35.66,0.1,128.38,42.8
+ORD-1117,2024-01-26,North,Consumer,Toys,Dolls,Standard,7,29.37,0.1,185.03,61.68
+ORD-1118,2023-11-24,North,Consumer,Electronics,Headphones,Express,6,223.7,0.05,1275.09,469.77
+ORD-1119,2024-05-05,North,Consumer,Groceries,Bakery,Standard,7,13.97,0.15,83.12,24.45
+ORD-1120,2023-01-07,North,Consumer,Furniture,Sofas,Standard,4,197.61,0.1,711.4,237.14
+ORD-1121,2024-12-09,South,Corporate,Groceries,Dairy,Standard,7,9.37,0.0,65.59,26.24
+ORD-1122,2023-09-18,West,Consumer,Toys,Board Games,Standard,6,31.9,0.1,172.26,57.42
+ORD-1123,2024-08-15,West,Small Business,Furniture,Tables,Standard,1,174.78,0.05,166.04,61.17
+ORD-1124,2023-07-28,South,Corporate,Electronics,Cameras,Standard,4,262.81,0.0,1051.24,420.5
+ORD-1125,2023-01-29,East,Corporate,Toys,Board Games,Express,5,28.34,0.1,127.53,42.51
+ORD-1126,2023-02-10,North,Corporate,Furniture,Chairs,Express,4,193.83,0.05,736.55,271.36
+ORD-1127,2024-03-30,North,Consumer,Furniture,Chairs,Standard,2,233.07,0.05,442.83,163.15
+ORD-1128,2023-05-10,East,Consumer,Groceries,Beverages,Standard,4,13.99,0.1,50.36,16.78
+ORD-1129,2023-08-15,East,Small Business,Furniture,Sofas,Standard,1,245.21,0.0,245.21,98.08
+ORD-1130,2023-05-28,West,Consumer,Clothing,Jackets,Standard,2,19.73,0.05,37.49,13.81
+ORD-1131,2023-03-14,North,Consumer,Electronics,Cameras,Express,2,324.03,0.05,615.66,226.82
+ORD-1132,2023-05-11,West,Corporate,Furniture,Chairs,Standard,4,84.81,0.1,305.32,101.78
+ORD-1133,2023-01-17,East,Consumer,Furniture,Chairs,Standard,3,241.78,0.1,652.81,217.61
+ORD-1134,2024-10-22,North,Corporate,Electronics,Headphones,,7,244.74,0.1,1541.86,513.95
+ORD-1135,2024-05-03,East,Consumer,Toys,Board Games,Standard,1,15.05,0.0,15.05,6.02
+ORD-1136,2023-03-27,South,Consumer,Furniture,Sofas,Express,3,169.59,0.15,432.45,127.19
+ORD-1137,2024-08-16,East,Consumer,Groceries,Dairy,Express,1,14.31,0.1,12.88,4.29
+ORD-1138,2023-06-01,West,Consumer,Clothing,Trousers,Express,7,9.65,0.0,67.55,27.02
+ORD-1139,2024-06-10,North,Corporate,Electronics,Cameras,Express,1,347.36,0.15,295.26,86.84
+ORD-1140,2024-03-01,South,Consumer,Groceries,Beverages,Express,3,18.21,0.0,54.63,21.85
+ORD-1141,2023-01-29,South,Consumer,Electronics,Phones,Express,4,253.53,0.2,811.3,202.83
+ORD-1142,2023-09-23,East,Consumer,Electronics,Headphones,Express,6,249.34,0.15,1271.63,374.01
+ORD-1143,2023-05-26,West,Consumer,Toys,Action Figures,Same Day,1,28.79,0.0,28.79,11.52
+ORD-1144,2023-12-10,East,Small Business,Groceries,Bakery,Express,7,14.25,0.15,84.79,24.94
+ORD-1145,2023-01-11,North,Corporate,Toys,Board Games,Standard,4,22.57,0.1,81.25,27.08
+ORD-1146,2023-11-06,North,Consumer,Toys,Puzzles,Standard,2,26.26,0.1,47.27,15.76
+ORD-1147,2024-05-31,East,Consumer,Toys,Board Games,Standard,4,29.06,0.2,92.99,23.25
+ORD-1148,2024-07-26,East,Corporate,Clothing,Shoes,Express,6,44.12,0.05,251.48,92.65
+ORD-1149,2023-03-30,South,Small Business,Electronics,Cameras,Standard,3,221.76,0.0,665.28,266.11
+ORD-1150,2024-06-24,North,Small Business,Electronics,Headphones,Standard,3,288.01,0.0,864.03,345.61
+ORD-1151,2023-05-04,West,Consumer,Clothing,Shirts,Standard,4,37.59,0.0,150.36,60.14
+ORD-1152,2024-08-15,North,Consumer,Furniture,Beds,Standard,2,153.57,0.05,291.78,107.5
+ORD-1153,2023-10-16,West,Consumer,Clothing,Trousers,Standard,1,52.53,0.0,52.53,21.01
+ORD-1154,2024-07-10,South,Consumer,Electronics,Phones,Express,5,264.61,0.15,1124.59,330.76
+ORD-1155,2023-01-31,West,Consumer,Furniture,Tables,Express,7,171.43,0.0,1200.01,480.0
+ORD-1156,2023-09-15,West,Consumer,Toys,Action Figures,Standard,1,31.72,0.0,31.72,12.69
+ORD-1157,2024-11-30,West,Consumer,Toys,Puzzles,Express,2,30.42,0.05,57.8,21.3
+ORD-1158,2024-02-16,South,Corporate,Groceries,Dairy,Express,4,17.33,0.0,69.32,27.73
+ORD-1159,2023-01-17,North,Consumer,Groceries,Beverages,Standard,2,12.19,0.0,24.38,9.75
+ORD-1160,2023-07-29,West,Corporate,Furniture,Tables,Standard,4,239.6,0.0,958.4,383.36
+ORD-1161,2023-02-02,South,Consumer,Clothing,Jackets,Standard,2,60.7,0.2,97.12,24.28
+ORD-1162,2023-04-09,East,Consumer,Toys,Action Figures,Express,7,37.51,0.1,236.31,78.77
+ORD-1163,2023-01-22,East,Small Business,Clothing,Jackets,Standard,4,34.06,0.1,122.62,40.88
+ORD-1164,2023-10-30,West,Consumer,Toys,Puzzles,Standard,4,29.59,0.1,106.52,35.5
+ORD-1165,2023-06-11,West,Small Business,Toys,Puzzles,Express,2,32.19,0.15,54.72,16.09
+ORD-1166,2023-07-27,West,Consumer,Clothing,Trousers,Express,6,48.49,0.05,276.39,101.83
+ORD-1167,2023-07-18,West,Consumer,Clothing,Shirts,Same Day,2,48.67,0.05,92.47,34.07
+ORD-1168,2024-07-11,South,Consumer,Electronics,Laptops,Express,1,277.41,0.0,277.41,110.96
+ORD-1169,2024-12-26,South,Corporate,Toys,Action Figures,Standard,5,15.78,0.0,78.9,31.56
+ORD-1170,2023-10-01,East,Corporate,Furniture,Tables,Standard,6,222.43,0.15,1134.39,333.64
+ORD-1171,2023-08-02,North,Consumer,Clothing,Trousers,Same Day,7,45.11,0.05,299.98,110.52
+ORD-1172,2023-03-27,North,Consumer,Groceries,Bakery,Standard,1,15.94,0.15,13.55,3.99
+ORD-1173,2024-08-11,South,Consumer,Groceries,Beverages,Same Day,2,5.81,0.1,10.46,3.49
+ORD-1174,2023-05-23,East,Corporate,Furniture,Tables,Same Day,7,271.89,0.05,1808.07,666.13
+ORD-1175,2024-01-05,West,Corporate,Groceries,Bakery,Express,6,21.22,0.05,120.95,44.56
+ORD-1176,2024-01-18,West,Consumer,Clothing,Trousers,Express,1,64.9,0.0,64.9,25.96
+ORD-1177,2023-01-14,South,Consumer,Clothing,Shoes,Express,1,31.73,0.15,26.97,7.93
+ORD-1178,2023-05-02,South,Consumer,Clothing,Jackets,Standard,3,47.42,0.0,142.26,56.9
+ORD-1179,2024-12-23,West,Small Business,Toys,Dolls,Express,2,40.16,0.05,76.3,28.11
+ORD-1180,2024-03-20,East,Consumer,Toys,Board Games,Express,5,40.18,0.0,200.9,80.36
+ORD-1181,2023-12-30,West,Consumer,Groceries,Bakery,Standard,1,13.76,0.05,13.07,4.81
+ORD-1182,2023-04-27,West,Small Business,Furniture,Beds,Same Day,3,91.82,0.0,275.46,110.18
+ORD-1183,2024-09-28,North,Consumer,Groceries,Dairy,Express,1,12.42,0.0,12.42,4.97
+ORD-1184,2024-06-03,South,Consumer,Groceries,Bakery,Standard,6,14.89,0.0,89.34,35.74
+ORD-1185,2024-01-16,South,Consumer,Electronics,Cameras,Express,1,337.95,0.2,270.36,67.59
+ORD-1186,2023-03-07,North,Consumer,Clothing,Shirts,,3,21.33,0.05,60.79,22.4
+ORD-1187,2024-08-14,South,Corporate,Furniture,Chairs,Standard,5,165.29,0.0,826.45,330.58
+ORD-1188,2024-11-13,North,Consumer,Groceries,Snacks,Standard,1,13.55,0.1,12.2,4.07
+ORD-1189,2023-06-05,North,Consumer,Groceries,Dairy,Same Day,1,24.35,0.05,23.13,8.52
+ORD-1190,2023-01-20,North,Consumer,Furniture,Chairs,Standard,1,169.74,0.05,161.25,59.41
+ORD-1191,2023-01-12,North,Consumer,Furniture,Beds,Express,6,204.21,0.2,980.21,245.05
+ORD-1192,2023-11-02,East,Consumer,Toys,Action Figures,Standard,4,48.8,0.0,195.2,78.08
+ORD-1193,2024-09-29,West,Small Business,Toys,Dolls,Express,2,28.74,0.0,57.48,22.99
+ORD-1194,2024-10-30,South,Consumer,Toys,Puzzles,Express,6,29.54,0.05,168.38,62.04
+ORD-1195,2023-05-25,East,Consumer,Furniture,Beds,Standard,1,190.62,0.1,171.56,57.19
+ORD-1196,2023-01-01,West,Corporate,Clothing,Jackets,Express,2,17.79,0.2,28.46,7.11
+ORD-1197,2024-07-28,North,Small Business,Electronics,Phones,Express,5,320.76,0.05,1523.61,561.33
+ORD-1198,2024-05-03,South,Consumer,Clothing,Trousers,Standard,2,52.56,0.15,89.35,26.28
+ORD-1199,2023-10-06,East,Consumer,Clothing,Shirts,Standard,7,46.84,0.0,327.88,131.15
+ORD-1200,2024-10-16,South,Consumer,Electronics,Cameras,Express,1,175.65,0.05,166.87,61.48
+ORD-1201,2023-10-18,South,Consumer,Groceries,Beverages,Standard,6,5.31,0.05,30.27,11.15
+ORD-1202,2023-01-03,West,Consumer,Toys,Board Games,Standard,5,17.49,0.0,87.45,34.98
+ORD-1203,2023-02-12,East,Consumer,Furniture,Beds,Express,3,91.15,0.0,273.45,109.38
+ORD-1204,2023-04-27,North,Corporate,Groceries,Dairy,Standard,3,14.56,0.0,43.68,17.47
+ORD-1205,2024-01-08,East,Small Business,Groceries,Beverages,Standard,2,8.66,0.05,16.45,6.06
+ORD-1206,2024-10-19,North,Consumer,Furniture,Chairs,Standard,2,209.7,0.1,377.46,125.82
+ORD-1207,2023-06-08,North,Consumer,Electronics,Laptops,Same Day,4,177.37,0.0,709.48,283.79
+ORD-1208,2024-01-20,North,Corporate,Groceries,Bakery,Same Day,6,20.43,0.05,116.45,42.9
+ORD-1209,2023-01-26,South,Consumer,Electronics,Headphones,Standard,2,278.8,0.15,473.96,139.4
+ORD-1210,2024-12-20,East,Corporate,Electronics,Laptops,Standard,2,227.88,0.1,410.18,136.72
+ORD-1211,2024-11-06,East,Consumer,Furniture,Chairs,Standard,3,247.38,0.15,630.82,185.54
+ORD-1212,2024-11-03,South,Consumer,Toys,Action Figures,Express,2,38.67,0.0,77.34,30.94
+ORD-1213,2023-03-18,South,Consumer,Toys,Action Figures,Standard,7,49.89,0.1,314.31,104.77
+ORD-1214,2024-07-07,North,Corporate,Toys,Puzzles,Same Day,7,35.12,0.1,221.26,73.76
+ORD-1215,2023-02-05,West,Consumer,Toys,Action Figures,Standard,3,44.66,0.0,133.98,53.59
+ORD-1216,2024-12-08,West,Consumer,Toys,Action Figures,Express,6,32.1,0.05,182.97,67.41
+ORD-1217,2023-03-08,South,Consumer,Groceries,Snacks,Express,7,8.0,0.0,56.0,22.4
+ORD-1218,2024-09-05,South,Consumer,Electronics,Headphones,Standard,5,188.13,0.0,940.65,376.26
+ORD-1219,2023-10-14,West,Consumer,Electronics,Headphones,Standard,7,262.11,0.1,1651.29,550.43
+ORD-1220,2024-10-18,West,Consumer,Groceries,Bakery,Standard,6,11.61,0.05,66.18,24.38
+ORD-1221,2024-02-10,East,Small Business,Furniture,Beds,Express,4,222.62,0.1,801.43,267.14
+ORD-1222,2024-05-23,East,Consumer,Groceries,Snacks,Standard,4,6.74,0.0,26.96,10.78
+ORD-1223,2024-10-27,East,Consumer,Groceries,Beverages,Express,7,17.29,0.2,96.82,24.2
+ORD-1224,2023-04-11,West,Small Business,Groceries,Beverages,Standard,2,13.03,0.15,22.15,6.51
+ORD-1225,2023-05-14,East,Consumer,Clothing,Trousers,Standard,5,54.0,0.0,270.0,108.0
+ORD-1226,2023-05-10,South,Small Business,Clothing,Shoes,Express,6,37.3,0.0,223.8,89.52
+ORD-1227,2023-04-05,West,Corporate,Electronics,Laptops,Standard,3,264.82,0.2,635.57,158.89
+ORD-1228,2023-01-25,South,Consumer,Toys,Action Figures,Standard,4,34.57,0.0,138.28,55.31
+ORD-1229,2024-06-15,West,Small Business,Furniture,Chairs,Standard,3,182.92,0.05,521.32,192.06
+ORD-1230,2023-03-01,East,Consumer,Clothing,Jackets,Standard,2,39.05,0.0,78.1,31.24
+ORD-1231,2023-02-25,East,Consumer,Electronics,Headphones,Standard,4,138.98,0.0,555.92,222.37
+ORD-1232,2023-09-20,West,Corporate,Groceries,Snacks,Standard,5,11.7,0.05,55.58,20.48
+ORD-1233,2023-05-04,North,Small Business,Furniture,Sofas,Standard,5,142.11,0.0,710.55,284.22
+ORD-1234,2023-06-04,South,Consumer,Groceries,Beverages,Standard,6,13.95,0.0,83.7,33.48
+ORD-1235,2024-10-11,East,Corporate,Furniture,Beds,Standard,2,123.49,0.0,246.98,98.79
+ORD-1236,2023-08-01,North,Small Business,Toys,Board Games,Standard,7,31.08,0.05,206.68,76.14
+ORD-1237,2023-07-02,south,Consumer,Toys,Board Games,Standard,4,21.24,0.1,76.46,25.48
+ORD-1238,2023-08-15,West,Small Business,Electronics,Phones,Standard,1,271.86,0.1,244.67,81.55
+ORD-1239,2024-07-25,South,Small Business,Toys,Action Figures,Standard,5,23.42,0.1,105.39,35.13
+ORD-1240,2024-12-26,North,Consumer,Electronics,Headphones,Standard,1,284.5,0.05,270.27,99.57
+ORD-1241,2023-01-08,North,Corporate,Toys,Dolls,Express,3,23.9,0.0,71.7,28.68
+ORD-1242,2024-10-25,West,Corporate,Electronics,Phones,Standard,7,176.43,0.15,1049.76,308.75
+ORD-1243,2024-05-13,East,Consumer,Groceries,Dairy,Standard,6,9.02,0.1,48.71,16.24
+ORD-1244,2023-11-16,East,Consumer,Furniture,Tables,Same Day,1,233.79,0.2,187.03,46.76
+ORD-1245,2024-04-07,North,Consumer,Furniture,Sofas,Standard,1,139.13,0.05,132.17,48.69
+ORD-1246,2024-01-13,North,Consumer,Furniture,Tables,Standard,7,178.01,0.05,1183.77,436.13
+ORD-1247,2023-10-15,East,Consumer,Groceries,Beverages,Standard,2,10.43,0.0,20.86,8.34
+ORD-1248,2024-10-26,West,Consumer,Clothing,Shoes,Standard,4,43.78,0.0,175.12,70.05
+ORD-1249,2024-11-16,North,Consumer,Electronics,Cameras,Express,7,237.52,0.15,1413.24,415.66
+ORD-1250,2023-08-21,North,Consumer,Furniture,Chairs,Same Day,7,200.11,0.1,1260.69,420.23
+ORD-1251,2023-07-22,South,Consumer,Clothing,Shirts,Express,2,59.19,0.0,118.38,47.35
+ORD-1252,2024-04-07,South,Consumer,Groceries,Dairy,Standard,3,17.22,0.1,46.49,15.49
+ORD-1253,2023-12-19,South,Consumer,Clothing,Jackets,Express,7,48.68,0.05,323.72,119.26
+ORD-1254,2023-10-08,West,Consumer,Toys,Puzzles,Standard,1,37.46,0.0,37.46,14.98
+ORD-1255,2024-04-27,East,Consumer,Furniture,Tables,Express,6,129.96,0.05,740.77,272.91
+ORD-1256,2023-03-07,North,Consumer,Electronics,Cameras,Standard,4,267.32,0.1,962.35,320.78
+ORD-1257,2023-01-14,North,Consumer,Electronics,Laptops,Standard,3,267.73,0.1,722.87,240.96
+ORD-1258,2023-03-11,South,Consumer,Clothing,Shirts,Standard,3,47.07,0.0,141.21,56.48
+ORD-1259,2024-04-13,South,Consumer,Toys,Board Games,Standard,5,33.05,0.0,165.25,66.1
+ORD-1260,2023-04-29,South,Corporate,Groceries,Snacks,Standard,6,18.3,0.05,104.31,38.43
+ORD-1261,2024-10-31,East,Consumer,Furniture,Sofas,Standard,7,126.36,0.0,884.52,353.81
+ORD-1262,2024-02-10,South,Small Business,Toys,Dolls,Standard,5,30.73,0.0,153.65,61.46
+ORD-1263,2023-07-02,North,Consumer,Electronics,Headphones,Standard,3,347.99,0.1,939.57,313.19
+ORD-1264,2023-10-30,West,Consumer,Clothing,Shirts,Standard,7,39.24,0.0,274.68,109.87
+ORD-1265,2024-12-10,East,Consumer,Groceries,Dairy,Standard,1,25.22,0.05,23.96,8.83
+ORD-1266,2023-05-18,North,Corporate,Furniture,Sofas,Standard,3,270.71,0.0,812.13,324.85
+ORD-1267,2024-03-01,South,Small Business,Clothing,Shoes,Express,5,48.82,0.05,231.9,85.44
+ORD-1268,2023-03-15,South,Corporate,Toys,Dolls,Standard,4,27.53,0.1,99.11,33.04
+ORD-1269,2024-07-01,West,Consumer,Toys,Board Games,Standard,4,21.01,0.0,84.04,33.62
+ORD-1270,2023-08-08,West,Corporate,Furniture,Beds,,4,151.59,0.05,576.04,212.22
+ORD-1271,2024-03-16,South,Consumer,Toys,Dolls,Standard,7,29.87,0.0,209.09,83.64
+ORD-1272,2024-11-02,West,Consumer,Clothing,Trousers,Same Day,6,38.69,0.1,208.93,69.65
+ORD-1273,2023-11-10,North,Corporate,Toys,Board Games,Standard,1,24.56,0.05,23.33,8.59
+ORD-1274,2024-01-19,North,Consumer,Groceries,Snacks,Standard,7,11.69,0.1,73.65,24.55
+ORD-1275,2023-10-16,North,Consumer,Electronics,Cameras,Standard,3,189.23,0.0,567.69,227.08
+ORD-1276,2024-08-20,South,Consumer,Electronics,Phones,Standard,2,155.02,0.1,279.04,93.02
+ORD-1277,2023-02-26,South,Small Business,Furniture,Tables,Standard,7,176.87,0.05,1176.19,433.34
+ORD-1278,2023-12-10,South,Small Business,Groceries,Dairy,Express,5,5.4,0.0,27.0,10.8
+ORD-1279,2024-01-18,West,Consumer,Groceries,Beverages,Standard,5,14.84,0.1,66.78,22.26
+ORD-1280,2024-09-19,East,Small Business,Groceries,Beverages,Standard,2,16.65,0.0,33.3,13.32
+ORD-1281,2023-09-11,West,Consumer,Clothing,Trousers,Standard,6,59.06,0.0,354.36,141.74
+ORD-1282,2024-08-23,East,Corporate,Clothing,Shoes,Same Day,4,41.36,0.1,148.9,49.64
+ORD-1283,2023-06-13,West,Corporate,Toys,Action Figures,Standard,6,17.06,0.05,97.24,35.82
+ORD-1284,2024-07-07,South,Corporate,Groceries,Bakery,Standard,5,13.49,0.1,60.71,20.24
+ORD-1285,2024-11-18,West,Corporate,Clothing,Shirts,Same Day,3,35.16,0.15,89.66,26.37
+ORD-1286,2024-06-07,East,Small Business,Clothing,Shoes,Standard,6,27.25,0.2,130.8,32.7
+ORD-1287,2024-07-24,North,Consumer,Clothing,Shirts,Standard,4,45.14,0.15,153.48,45.14
+ORD-1288,2024-01-17,North,Consumer,Toys,Puzzles,Standard,1,32.49,0.0,32.49,13.0
+ORD-1289,2023-08-14,West,Consumer,Clothing,Trousers,Standard,4,48.79,0.1,175.64,58.54
+ORD-1290,2023-07-09,East,Consumer,Electronics,Phones,Standard,1,371.15,0.05,352.59,129.9
+ORD-1291,2024-10-23,West,Consumer,Electronics,Phones,Same Day,3,225.83,0.0,677.49,271.0
+ORD-1292,2023-09-29,East,Corporate,Furniture,Tables,Standard,4,195.3,0.2,624.96,156.24
+ORD-1293,2024-10-01,south,Consumer,Clothing,Trousers,Standard,7,36.89,0.0,258.23,103.29
+ORD-1294,2023-11-09,South,Corporate,Toys,Action Figures,Same Day,4,36.15,0.1,130.14,43.38
+ORD-1295,2023-07-29,South,Corporate,Clothing,Shirts,Standard,3,32.87,0.0,98.61,39.44
+ORD-1296,2024-07-11,West,Consumer,Groceries,Snacks,Standard,1,14.56,0.0,14.56,5.82
+ORD-1297,2023-09-27,East,Consumer,Furniture,Tables,Express,6,256.23,0.15,1306.77,384.34
+ORD-1298,2024-03-01,West,Consumer,Clothing,Shirts,Same Day,7,28.77,0.05,191.32,70.49
+ORD-1299,2024-02-02,West,Consumer,Toys,Action Figures,Standard,1,39.77,0.05,37.78,13.92
+ORD-1300,2023-03-30,East,Consumer,Clothing,Shirts,Express,4,32.13,0.15,109.24,32.13
+ORD-1301,2024-09-28,East,Corporate,Electronics,Cameras,Standard,6,261.16,0.1,1410.26,470.08
+ORD-1302,2024-10-31,East,Small Business,Groceries,Dairy,Express,4,11.7,0.0,46.8,18.72
+ORD-1303,2024-11-14,North,Consumer,Electronics,Phones,Standard,3,252.7,0.1,682.29,227.43
+ORD-1304,2024-12-28,North,Corporate,Electronics,Cameras,Standard,7,244.31,0.05,1624.66,598.56
+ORD-1305,2023-01-26,South,Corporate,Groceries,Snacks,Express,4,18.94,0.1,68.18,22.72
+ORD-1306,2023-06-28,East,Consumer,Groceries,Dairy,Standard,3,10.97,0.1,29.62,9.87
+ORD-1307,2024-08-06,North,Consumer,Electronics,Laptops,Express,3,180.18,0.0,540.54,216.22
+ORD-1308,2024-01-15,North,Consumer,Furniture,Chairs,Standard,5,204.41,0.05,970.95,357.72
+ORD-1309,2024-11-19,South,Small Business,Toys,Action Figures,Standard,3,18.84,0.1,50.87,16.96
+ORD-1310,2024-08-24,North,Consumer,Toys,Action Figures,Standard,1,24.77,0.0,24.77,9.91
+ORD-1311,2024-07-24,North,Corporate,Electronics,Headphones,Standard,3,314.03,0.0,942.09,376.84
+ORD-1312,2024-07-11,West,Consumer,Toys,Action Figures,Standard,4,32.4,0.1,116.64,38.88
+ORD-1313,2023-10-28,West,Corporate,Furniture,Sofas,Standard,3,207.47,0.0,622.41,248.96
+ORD-1314,2024-10-31,East,Consumer,Toys,Puzzles,Express,1,37.37,0.05,35.5,13.08
+ORD-1315,2024-08-16,East,Consumer,Toys,Puzzles,Express,1,19.15,0.05,18.19,6.7
+ORD-1316,2024-10-16,South,Corporate,Electronics,Headphones,Express,2,338.21,0.05,642.6,236.75
+ORD-1317,2024-07-16,East,Small Business,Electronics,Phones,Express,3,119.95,0.1,323.86,107.95
+ORD-1318,2024-08-27,South,Consumer,Clothing,Trousers,Standard,1,19.63,0.0,19.63,7.85
+ORD-1319,2023-12-23,North,Consumer,Toys,Board Games,Standard,1,24.19,0.0,24.19,9.68
+ORD-1320,2023-10-04,West,Corporate,Clothing,Shoes,Standard,4,52.01,0.0,208.04,83.22
+ORD-1321,2024-03-26,West,Small Business,Clothing,Trousers,Standard,3,31.95,0.05,91.06,33.55
+ORD-1322,2023-04-28,North,Consumer,Groceries,Bakery,Standard,5,17.02,0.15,72.33,21.27
+ORD-1323,2023-07-12,North,Consumer,Groceries,Dairy,Standard,3,10.37,0.0,31.11,12.44
+ORD-1324,2024-04-23,East,Consumer,Clothing,Shoes,Express,4,20.45,0.05,77.71,28.63
+ORD-1325,2024-04-30,west,Consumer,Electronics,Headphones,Same Day,6,345.44,0.0,2072.64,829.06
+ORD-1326,2024-03-18,North,Consumer,Clothing,Jackets,Standard,2,38.94,0.0,77.88,31.15
+ORD-1327,2023-09-19,East,Consumer,Clothing,Shirts,Standard,2,35.56,0.0,71.12,28.45
+ORD-1328,2023-06-19,East,Small Business,Groceries,Snacks,Express,6,8.07,0.05,46.0,16.95
+ORD-1329,2023-06-14,North,Consumer,Electronics,Phones,Express,3,138.53,0.1,374.03,124.68
+ORD-1330,2024-07-07,North,Consumer,Furniture,Beds,Standard,4,111.88,0.1,402.77,134.26
+ORD-1331,2024-05-13,East,Consumer,Electronics,Cameras,Standard,7,185.12,0.1,1166.26,388.76
+ORD-1332,2024-03-10,East,Small Business,Toys,Action Figures,Express,5,47.65,0.1,214.42,71.47
+ORD-1333,2024-06-03,North,Corporate,Groceries,Snacks,Same Day,7,20.07,0.2,112.39,28.1
+ORD-1334,2023-04-27,South,Consumer,Furniture,Sofas,Express,4,196.63,0.0,786.52,314.61
+ORD-1335,2023-07-03,South,Consumer,Groceries,Snacks,Same Day,3,13.24,0.05,37.73,13.9
+ORD-1336,2023-10-31,West,Small Business,Groceries,Bakery,Standard,1,8.48,0.05,8.06,2.97
+ORD-1337,2024-02-11,West,Consumer,Clothing,Jackets,Standard,3,29.89,0.15,76.22,22.42
+ORD-1338,2024-12-31,East,Corporate,Furniture,Beds,Standard,7,174.24,0.0,1219.68,487.87
+ORD-1339,2023-04-26,North,Corporate,Toys,Action Figures,Express,3,42.51,0.0,127.53,51.01
+ORD-1340,2023-11-19,North,Small Business,Clothing,Shirts,Standard,6,50.63,0.1,273.4,91.13
+ORD-1341,2024-11-13,South,Consumer,Clothing,Shoes,Standard,4,49.47,0.1,178.09,59.36
+ORD-1342,2024-10-25,South,Small Business,Clothing,Trousers,Standard,7,33.57,0.0,234.99,94.0
+ORD-1343,2023-10-19,North,Consumer,Electronics,Phones,Standard,5,314.25,0.1,1414.12,471.37
+ORD-1344,2023-07-20,East,Corporate,Electronics,Cameras,Standard,4,188.48,0.05,716.22,263.87
+ORD-1345,2023-12-24,West,Consumer,Clothing,Jackets,Express,5,39.71,0.1,178.7,59.57
+ORD-1346,2023-02-14,East,Small Business,Toys,Puzzles,Express,2,28.77,0.0,57.54,23.02
+ORD-1347,2023-01-13,East,Consumer,Groceries,Beverages,Standard,6,7.72,0.0,46.32,18.53
+ORD-1348,2024-09-21,North,Corporate,Toys,Puzzles,Standard,1,26.34,0.0,26.34,10.54
+ORD-1349,2023-12-03,West,Corporate,Furniture,Tables,Standard,2,105.33,0.0,210.66,84.26
+ORD-1350,2024-02-16,West,Consumer,Groceries,Snacks,Standard,7,11.87,0.0,83.09,33.24
+ORD-1351,2023-12-20,West,Consumer,Clothing,Shirts,Standard,1,58.69,0.05,55.76,20.55
+ORD-1352,2023-06-03,South,Corporate,Furniture,Beds,Standard,5,224.56,0.15,954.38,280.7
+ORD-1353,2024-09-24,East,Consumer,Electronics,Headphones,Express,4,184.97,0.1,665.89,221.96
+ORD-1354,2023-05-21,South,Consumer,Clothing,Shirts,Same Day,2,43.18,0.05,82.04,30.22
+ORD-1355,2024-12-29,East,Consumer,Furniture,Sofas,Express,5,148.53,0.2,594.12,148.53
+ORD-1356,2024-06-06,East,Small Business,Electronics,Cameras,Standard,5,418.09,0.0,2090.45,836.18
+ORD-1357,2023-04-11,North,Consumer,Groceries,Bakery,Standard,6,13.15,0.1,71.01,23.67
+ORD-1358,2024-03-30,South,Consumer,Electronics,Phones,Standard,6,187.66,0.05,1069.66,394.08
+ORD-1359,2023-04-10,North,Consumer,Toys,Puzzles,Standard,7,42.75,0.0,299.25,119.7
+ORD-1360,2023-01-03,West,Consumer,Groceries,Beverages,Express,5,26.1,0.0,130.5,52.2
+ORD-1361,2023-08-15,North,Consumer,Toys,Action Figures,Standard,4,21.07,0.0,84.28,33.71
+ORD-1362,2024-08-08,South,Consumer,Toys,Action Figures,Standard,1,27.94,0.1,25.15,8.39
+ORD-1363,2024-09-05,South,Consumer,Electronics,Cameras,Express,1,175.42,0.2,140.34,35.09
+ORD-1364,2023-07-07,North,Consumer,Furniture,Tables,Express,2,186.52,0.15,317.08,93.26
+ORD-1365,2024-05-16,East,Consumer,Toys,Board Games,Standard,5,43.93,0.0,219.65,87.86
+ORD-1366,2024-05-15,East,Consumer,Electronics,Phones,Standard,7,324.15,0.15,1928.69,567.26
+ORD-1367,2023-11-03,East,Corporate,Electronics,Cameras,Express,5,148.64,0.0,743.2,297.28
+ORD-1368,2024-10-05,North,Small Business,Clothing,Shirts,Express,4,31.52,0.0,126.08,50.43
+ORD-1369,2024-08-24,North,Consumer,Electronics,Headphones,Express,3,246.8,0.2,592.32,148.08
+ORD-1370,2024-06-23,East,Corporate,Electronics,Phones,Express,5,164.71,0.1,741.2,247.07
+ORD-1371,2023-12-26,East,Corporate,Groceries,Dairy,Standard,1,10.77,0.15,9.15,2.69
+ORD-1372,2023-04-12,East,Consumer,Groceries,Snacks,Express,4,17.02,0.05,64.68,23.83
+ORD-1373,2024-04-03,South,Consumer,Electronics,Laptops,Standard,5,264.89,0.15,1125.78,331.11
+ORD-1374,2024-07-11,South,Small Business,Toys,Board Games,Express,7,18.23,0.0,127.61,51.04
+ORD-1375,2024-06-01,West,Small Business,Toys,Dolls,Express,1,31.72,0.2,25.38,6.35
+ORD-1376,2023-11-29,East,Consumer,Furniture,Sofas,Same Day,3,182.59,0.05,520.38,191.72
+ORD-1377,2023-10-01,East,Consumer,Clothing,Jackets,Standard,6,43.98,0.0,263.88,105.55
+ORD-1378,2024-07-24,north,Small Business,Toys,Board Games,Standard,4,29.24,0.0,116.96,46.78
+ORD-1379,2024-03-02,West,Consumer,Electronics,Headphones,Express,6,156.75,0.05,893.47,329.17
+ORD-1380,2024-02-25,North,Consumer,Furniture,Beds,Standard,7,153.54,0.1,967.3,322.43
+ORD-1381,2024-08-25,North,Consumer,Toys,Puzzles,Express,5,34.22,0.0,171.1,68.44
+ORD-1382,2023-09-22,East,Consumer,Clothing,Shoes,Standard,4,67.08,0.1,241.49,80.5
+ORD-1383,2024-11-05,East,Consumer,Clothing,Shirts,Standard,2,36.31,0.2,58.1,14.53
+ORD-1384,2024-11-23,West,Corporate,Clothing,Shoes,Same Day,1,30.35,0.0,30.35,12.14
+ORD-1385,2023-12-20,North,Consumer,Toys,Action Figures,Express,3,36.71,0.05,104.62,38.54
+ORD-1386,2024-08-10,East,Consumer,Furniture,Sofas,Standard,7,256.69,0.05,1706.99,628.89
+ORD-1387,2024-02-03,North,Consumer,Furniture,Beds,Standard,3,151.13,0.05,430.72,158.69
+ORD-1388,2024-07-11,North,Consumer,Groceries,Beverages,Standard,7,14.51,0.1,91.41,30.47
+ORD-1389,2023-02-09,South,Corporate,Toys,Dolls,Standard,4,39.31,0.0,157.24,62.9
+ORD-1390,2024-03-08,West,Consumer,Toys,Dolls,Standard,1,33.13,0.05,31.47,11.59
+ORD-1391,2024-11-30,South,Consumer,Toys,Action Figures,Standard,5,25.61,0.0,128.05,51.22
+ORD-1392,2024-05-29,East,Consumer,Clothing,Shoes,Standard,1,49.74,0.1,44.77,14.93
+ORD-1393,2023-12-09,South,Consumer,Furniture,Tables,Express,3,252.24,0.0,756.72,302.69
+ORD-1394,2023-07-04,South,Consumer,Clothing,Jackets,Standard,1,43.05,0.0,43.05,17.22
+ORD-1395,2023-07-21,East,Consumer,Clothing,Shoes,Standard,2,58.83,0.05,111.78,41.18
+ORD-1396,2024-07-13,North,Consumer,Groceries,Dairy,Standard,3,18.21,0.0,54.63,21.85
+ORD-1397,2024-05-03,East,Corporate,Furniture,Beds,Standard,1,231.85,0.0,231.85,92.74
+ORD-1398,2024-01-13,North,Consumer,Toys,Board Games,Express,6,24.98,0.1,134.89,44.96
+ORD-1399,2023-09-02,East,Corporate,Clothing,Shirts,Express,5,26.8,0.15,113.9,33.5
+ORD-1400,2023-03-06,South,Consumer,Electronics,Headphones,Express,3,196.56,0.1,530.71,176.9
+ORD-1401,2024-02-23,south,Corporate,Furniture,Chairs,Standard,3,258.0,0.05,735.3,270.9
+ORD-1402,2023-06-17,North,Consumer,Clothing,Shirts,Standard,1,45.05,0.0,45.05,18.02
+ORD-1403,2024-03-27,South,Small Business,Groceries,Dairy,Express,5,13.64,0.0,68.2,27.28
+ORD-1404,2023-07-25,West,Small Business,Clothing,Shoes,Express,1,32.05,0.05,30.45,11.22
+ORD-1405,2023-05-06,North,Consumer,Toys,Puzzles,Express,1,25.53,0.05,24.25,8.93
+ORD-1406,2023-03-10,South,Consumer,Clothing,Shirts,Standard,6,33.88,0.0,203.28,81.31
+ORD-1407,2024-03-27,West,Corporate,Electronics,Phones,Express,6,265.88,0.1,1435.75,478.58
+ORD-1408,2023-05-08,West,Consumer,Toys,Dolls,Standard,2,33.09,0.05,62.87,23.16
+ORD-1409,2023-07-21,South,Consumer,Electronics,Laptops,Same Day,1,246.35,0.1,221.72,73.91
+ORD-1410,2024-04-18,North,Consumer,Groceries,Snacks,Standard,1,11.27,0.1,10.14,3.38
+ORD-1411,2024-05-28,South,Corporate,Groceries,Bakery,Standard,7,12.02,0.0,84.14,33.66
+ORD-1412,2024-10-30,North,Consumer,Groceries,Dairy,Standard,6,21.74,0.05,123.92,45.66
+ORD-1413,2023-05-14,North,Corporate,Clothing,Shoes,Express,1,54.97,0.05,52.22,19.24
+ORD-1414,2023-02-28,North,Consumer,Groceries,Beverages,Standard,3,24.7,0.1,66.69,22.23
+ORD-1415,2024-07-13,West,Consumer,Toys,Puzzles,Express,1,21.2,0.0,21.2,8.48
+ORD-1416,2024-03-24,West,Small Business,Electronics,Phones,Standard,6,306.84,0.2,1472.83,368.21
+ORD-1417,2024-10-18,East,Consumer,Furniture,Tables,Standard,3,258.79,0.0,776.37,310.55
+ORD-1418,2024-02-13,East,Corporate,Groceries,Dairy,Standard,1,16.19,0.0,16.19,6.48
+ORD-1419,2023-07-31,East,Consumer,Toys,Dolls,Express,4,16.28,0.0,65.12,26.05
+ORD-1420,2024-07-28,South,Consumer,Electronics,Phones,Standard,3,244.96,0.0,734.88,293.95
+ORD-1421,2023-06-10,South,Consumer,Clothing,Trousers,Standard,2,31.41,0.1,56.54,18.85
+ORD-1422,2023-10-02,East,Consumer,Groceries,Dairy,Standard,3,21.38,0.05,60.93,22.45
+ORD-1423,2024-11-21,North,Consumer,Furniture,Chairs,Express,7,216.79,0.0,1517.53,607.01
+ORD-1424,2024-11-24,South,Corporate,Toys,Action Figures,Standard,4,17.95,0.1,64.62,21.54
+ORD-1425,2024-11-10,West,Consumer,Groceries,Beverages,Express,2,18.12,0.1,32.62,10.88
+ORD-1426,2024-10-23,North,Consumer,Clothing,Shoes,Standard,4,30.38,0.0,121.52,48.61
+ORD-1427,2023-05-09,South,Corporate,Clothing,Shoes,Standard,6,10.84,0.0,65.04,26.02
+ORD-1428,2024-10-06,West,Corporate,Electronics,Laptops,Express,3,292.8,0.1,790.56,263.52
+ORD-1429,2023-05-09,West,Consumer,Groceries,Bakery,,1,19.36,0.0,19.36,7.74
+ORD-1430,2023-11-15,West,Corporate,Furniture,Beds,Standard,2,118.14,0.0,236.28,94.51
+ORD-1431,2023-04-07,North,Consumer,Electronics,Phones,Standard,3,147.75,0.0,443.25,177.3
+ORD-1432,2024-02-29,East,Corporate,Toys,Board Games,Express,6,26.5,0.0,159.0,63.6
+ORD-1433,2023-08-27,North,Corporate,Toys,Puzzles,Standard,7,44.32,0.05,294.73,108.59
+ORD-1434,2023-09-04,North,Corporate,Toys,Board Games,Standard,2,27.47,0.05,52.19,19.23
+ORD-1435,2023-04-25,North,Consumer,Groceries,Beverages,Standard,7,16.91,0.0,118.37,47.35
+ORD-1436,2023-05-07,East,Corporate,Clothing,Shoes,Standard,1,39.53,0.05,37.55,13.83
+ORD-1437,2023-01-19,West,Corporate,Clothing,Shoes,Standard,2,42.67,0.0,85.34,34.14
+ORD-1438,2023-05-21,North,Consumer,Electronics,Laptops,Standard,5,180.59,0.05,857.8,316.03
+ORD-1439,2023-10-09,North,Consumer,Electronics,Headphones,Express,7,269.15,0.1,1695.64,565.21
+ORD-1440,2023-04-13,North,Corporate,Toys,Action Figures,Express,5,21.84,0.05,103.74,38.22
+ORD-1441,2024-02-20,West,Consumer,Furniture,Beds,Express,1,272.31,0.05,258.69,95.3
+ORD-1442,2024-08-20,West,Consumer,Electronics,Headphones,Express,2,151.06,0.05,287.01,105.74
+ORD-1443,2023-05-19,South,Corporate,Toys,Board Games,Standard,2,28.17,0.0,56.34,22.54
+ORD-1444,2024-06-17,North,Corporate,Groceries,Dairy,Express,2,16.62,0.0,33.24,13.3
+ORD-1445,2024-07-10,North,Consumer,Groceries,Bakery,Standard,3,15.15,0.0,45.45,18.18
+ORD-1446,2023-07-25,South,Consumer,Clothing,Jackets,Standard,3,38.43,0.0,115.29,46.12
+ORD-1447,2023-03-03,West,Corporate,Electronics,Phones,Standard,7,220.35,0.0,1542.45,616.98
+ORD-1448,2023-05-16,South,Corporate,Electronics,Laptops,Express,1,256.29,0.0,256.29,102.52
+ORD-1449,2023-07-30,East,Consumer,Groceries,Snacks,Standard,4,21.35,0.0,85.4,34.16
+ORD-1450,2024-03-17,East,Corporate,Electronics,Cameras,Standard,5,289.74,0.05,1376.26,507.04
+ORD-1451,2024-11-12,East,Consumer,Toys,Action Figures,Standard,3,33.71,0.0,101.13,40.45
+ORD-1452,2023-08-25,South,Small Business,Clothing,Shoes,Express,2,44.55,0.1,80.19,26.73
+ORD-1453,2024-01-31,East,Corporate,Clothing,Shoes,Express,6,59.31,0.1,320.27,106.75
+ORD-1454,2023-08-27,East,Corporate,Clothing,Shoes,Standard,2,30.19,0.0,60.38,24.15
+ORD-1455,2024-08-08,East,Corporate,Toys,Puzzles,Express,6,24.51,0.1,132.35,44.11
+ORD-1456,2023-12-06,West,Consumer,Groceries,Snacks,Standard,3,12.47,0.1,33.67,11.22
+ORD-1457,2023-04-30,South,Consumer,Furniture,Beds,Standard,7,95.56,0.15,568.58,167.23
+ORD-1458,2023-04-14,South,Corporate,Toys,Board Games,Standard,3,23.63,0.2,56.71,14.18
+ORD-1459,2023-10-26,East,Corporate,Toys,Puzzles,Express,5,31.13,0.05,147.87,54.48
+ORD-1460,2023-12-17,North,Small Business,Toys,Action Figures,Express,6,27.34,0.0,164.04,65.62
+ORD-1461,2023-10-31,South,Consumer,Toys,Puzzles,Express,2,39.89,0.1,71.8,23.93
+ORD-1462,2023-12-22,East,Small Business,Clothing,Shoes,Standard,4,20.17,0.2,64.54,16.13
+ORD-1463,2024-01-18,South,Corporate,Clothing,Jackets,Standard,4,22.3,0.05,84.74,31.22
+ORD-1464,2024-10-12,West,Consumer,Furniture,Sofas,Standard,4,240.4,0.15,817.36,240.4
+ORD-1465,2023-01-14,East,Corporate,Clothing,Trousers,Standard,6,46.59,0.0,279.54,111.82
+ORD-1466,2024-04-15,West,Consumer,Clothing,Shirts,Express,2,52.14,0.05,99.07,36.5
+ORD-1467,2023-03-05,East,Consumer,Groceries,Snacks,Standard,2,21.04,0.1,37.87,12.62
+ORD-1468,2023-04-03,South,Corporate,Furniture,Beds,Express,6,225.71,0.1,1218.83,406.27
+ORD-1469,2023-06-15,West,Small Business,Clothing,Trousers,Express,2,46.0,0.05,87.4,32.2
+ORD-1470,2024-03-13,West,Consumer,Furniture,Sofas,Standard,2,159.49,0.0,318.98,127.59
+ORD-1471,2024-10-01,East,Small Business,Groceries,Bakery,Express,7,15.8,0.05,105.07,38.71
+ORD-1472,2023-08-27,East,Consumer,Clothing,Shirts,Express,7,43.04,0.05,286.22,105.45
+ORD-1473,2023-07-26,South,Consumer,Toys,Board Games,Standard,7,37.38,0.0,261.66,104.66
+ORD-1474,2023-03-05,north,Consumer,Furniture,Tables,Standard,6,170.45,0.15,869.3,255.68
+ORD-1475,2024-07-17,East,Small Business,Toys,Dolls,Standard,4,16.06,0.0,64.24,25.7
+ORD-1476,2023-12-26,West,Consumer,Clothing,Shoes,Standard,1,35.42,0.0,35.42,14.17
+ORD-1477,2023-01-13,South,Corporate,Groceries,Snacks,Standard,6,12.39,0.15,63.19,18.59
+ORD-1478,2024-01-11,East,Corporate,Furniture,Sofas,Express,2,175.89,0.05,334.19,123.12
+ORD-1479,2023-08-26,West,Consumer,Clothing,Trousers,Express,1,25.39,0.05,24.12,8.89
+ORD-1480,2024-05-04,South,Consumer,Electronics,Headphones,Standard,2,209.5,0.1,377.1,125.7
+ORD-1481,2024-02-03,East,Consumer,Furniture,Sofas,Express,1,121.03,0.1,108.93,36.31
+ORD-1482,2023-02-09,East,Consumer,Groceries,Beverages,Standard,6,18.36,0.1,99.14,33.04
+ORD-1483,2023-11-23,west,Consumer,Electronics,Headphones,Standard,4,396.73,0.05,1507.57,555.42
+ORD-1484,2023-08-12,North,Corporate,Toys,Action Figures,Standard,6,30.85,0.05,175.85,64.79
+ORD-1485,2023-05-12,West,Consumer,Groceries,Dairy,Express,6,22.77,0.0,136.62,54.65
+ORD-1486,2023-04-30,South,Small Business,Groceries,Snacks,Standard,5,18.81,0.05,89.35,32.92
+ORD-1487,2023-09-04,South,Consumer,Electronics,Laptops,Same Day,3,235.28,0.0,705.84,282.34
+ORD-1488,2023-12-15,West,Corporate,Toys,Board Games,Standard,7,33.68,0.05,223.97,82.51
+ORD-1489,2024-01-23,East,Corporate,Toys,Action Figures,Standard,4,27.23,0.1,98.03,32.68
+ORD-1490,2024-04-25,North,Consumer,Electronics,Headphones,Standard,2,179.76,0.1,323.57,107.86
+ORD-1491,2023-08-17,North,Corporate,Electronics,Cameras,Express,6,199.92,0.05,1139.54,419.83
+ORD-1492,2023-10-13,South,Consumer,Toys,Dolls,Express,3,24.61,0.05,70.14,25.84
+ORD-1493,2023-07-20,West,Consumer,Groceries,Beverages,Standard,4,10.0,0.0,40.0,16.0
+ORD-1494,2023-11-04,East,Consumer,Electronics,Laptops,Standard,7,133.52,0.05,887.91,327.13
+ORD-1495,2023-08-25,West,Consumer,Electronics,Phones,Standard,1,227.39,0.05,216.02,79.59
+ORD-1496,2023-02-11,East,Consumer,Clothing,Jackets,Express,5,49.05,0.1,220.72,73.57
+ORD-1497,2024-07-21,North,Corporate,Furniture,Tables,Standard,1,119.61,0.0,119.61,47.84
+ORD-1498,2024-01-06,North,Consumer,Clothing,Trousers,Standard,3,41.44,0.05,118.1,43.51
+ORD-1499,2023-05-27,South,Small Business,Groceries,Beverages,Express,4,13.19,0.0,52.76,21.1
+ORD-1500,2023-06-26,South,Consumer,Clothing,Trousers,Express,4,15.27,0.2,48.86,12.21
+ORD-1501,2023-07-05,South,Consumer,Groceries,Dairy,Standard,1,17.61,0.0,17.61,7.04
+ORD-1502,2024-08-31,West,Consumer,Groceries,Bakery,Same Day,7,16.46,0.2,92.18,23.05
+ORD-1503,2024-06-20,South,Consumer,Furniture,Sofas,Standard,1,118.02,0.1,106.22,35.41
+ORD-1504,2023-12-26,East,Consumer,Furniture,Sofas,Standard,4,239.77,0.05,911.13,335.68
+ORD-1505,2023-06-11,West,Small Business,Furniture,Beds,Standard,7,173.84,0.0,1216.88,486.75
+ORD-1506,2023-09-03,South,Small Business,Electronics,Laptops,Express,5,266.99,0.1,1201.46,400.49
+ORD-1507,2024-04-25,North,Consumer,Groceries,Beverages,Standard,4,16.15,0.1,58.14,19.38
+ORD-1508,2023-01-25,North,Consumer,Toys,Dolls,Standard,5,30.39,0.1,136.76,45.59
+ORD-1509,2024-12-26,South,Consumer,Clothing,Trousers,Same Day,7,36.92,0.0,258.44,103.38
+ORD-1510,2023-07-11,North,Consumer,Toys,Board Games,Standard,5,31.57,0.0,157.85,63.14
+ORD-1511,2024-05-28,West,Corporate,Electronics,Cameras,Express,4,187.28,0.0,749.12,299.65
+ORD-1512,2024-08-24,West,Consumer,Toys,Puzzles,Same Day,7,12.83,0.0,89.81,35.92
+ORD-1513,2024-08-10,South,Consumer,Electronics,Headphones,Express,1,185.47,0.0,185.47,74.19
+ORD-1514,2024-05-04,East,Corporate,Furniture,Chairs,Standard,7,110.49,0.0,773.43,309.37
+ORD-1515,2024-08-24,south,Consumer,Toys,Action Figures,Standard,6,17.43,0.05,99.35,36.6
+ORD-1516,2024-06-09,South,Corporate,Toys,Puzzles,Express,4,22.17,0.0,88.68,35.47
+ORD-1517,2024-07-23,North,Corporate,Electronics,Headphones,Same Day,2,200.53,0.05,381.01,140.37
+ORD-1518,2024-12-10,South,Small Business,Clothing,Trousers,Standard,4,35.89,0.0,143.56,57.42
+ORD-1519,2023-01-19,west,Corporate,Clothing,Jackets,Express,4,42.05,0.05,159.79,58.87
+ORD-1520,2023-05-02,West,Corporate,Groceries,Bakery,Standard,4,12.91,0.05,49.06,18.08
+ORD-1521,2023-05-08,East,Consumer,Toys,Dolls,Standard,3,27.4,0.0,82.2,32.88
+ORD-1522,2023-07-09,South,Consumer,Groceries,Snacks,Express,7,8.18,0.1,51.53,17.17
+ORD-1523,2023-07-20,West,Consumer,Toys,Board Games,Standard,7,32.89,0.05,218.72,80.58
+ORD-1524,2023-11-09,South,Consumer,Clothing,Shoes,Standard,2,34.14,0.1,61.45,20.48
+ORD-1525,2023-06-22,South,Small Business,Toys,Board Games,Standard,4,42.14,0.0,168.56,67.42
+ORD-1526,2023-01-06,East,Consumer,Furniture,Tables,Standard,3,216.34,0.05,616.57,227.16
+ORD-1527,2023-04-16,North,Corporate,Clothing,Jackets,Standard,1,18.82,0.1,16.94,5.65
+ORD-1528,2024-02-20,North,Consumer,Clothing,Shoes,Express,7,40.88,0.05,271.85,100.15
+ORD-1529,2024-06-13,North,Consumer,Electronics,Headphones,Standard,5,224.77,0.0,1123.85,449.54
+ORD-1530,2023-02-16,East,Consumer,Groceries,Bakery,Standard,1,13.65,0.1,12.28,4.09
+ORD-1531,2024-05-04,South,Consumer,Electronics,Laptops,Express,1,159.29,0.1,143.36,47.79
+ORD-1532,2023-04-26,East,Consumer,Furniture,Tables,Express,1,173.56,0.0,173.56,69.42
+ORD-1533,2024-07-29,North,Consumer,Furniture,Beds,Standard,3,194.77,0.05,555.09,204.5
+ORD-1534,2024-06-13,East,Consumer,Clothing,Shirts,Standard,2,31.88,0.05,60.57,22.31
+ORD-1535,2023-11-29,South,Consumer,Groceries,Dairy,Standard,3,19.52,0.05,55.63,20.49
+ORD-1536,2023-03-13,North,Corporate,Groceries,Bakery,Express,5,11.82,0.0,59.1,23.64
+ORD-1537,2023-03-31,South,Consumer,Groceries,Bakery,Express,6,11.8,0.0,70.8,28.32
+ORD-1538,2023-03-12,West,Corporate,Toys,Dolls,Express,4,47.44,0.0,189.76,75.9
+ORD-1539,2024-09-09,North,Corporate,Toys,Dolls,Standard,4,28.6,0.1,102.96,34.32
+ORD-1540,2023-06-13,West,Corporate,Furniture,Tables,Standard,7,174.78,0.1,1101.11,367.03
+ORD-1541,2024-03-02,South,Consumer,Toys,Dolls,Standard,1,26.26,0.0,26.26,10.5
+ORD-1542,2024-07-03,East,Corporate,Groceries,Dairy,Express,4,13.31,0.1,47.92,15.98
+ORD-1543,2024-08-09,south,Consumer,Toys,Board Games,Same Day,5,40.64,0.2,162.56,40.64
+ORD-1544,2024-09-09,South,Corporate,Groceries,Dairy,Express,3,19.74,0.2,47.38,11.85
+ORD-1545,2023-10-15,West,Consumer,Furniture,Sofas,Express,1,192.08,0.05,182.48,67.23
+ORD-1546,2023-01-16,East,Consumer,Toys,Puzzles,Standard,7,31.96,0.1,201.35,67.12
+ORD-1547,2024-08-29,East,Small Business,Electronics,Phones,Standard,4,186.71,0.1,672.16,224.06
+ORD-1548,2024-12-11,West,Consumer,Furniture,Tables,Standard,3,151.9,0.1,410.13,136.71
+ORD-1549,2023-01-12,East,Consumer,Clothing,Shoes,Express,2,36.74,0.05,69.81,25.72
+ORD-1550,2023-01-30,West,Corporate,Groceries,Beverages,Standard,5,10.27,0.1,46.22,15.41
+ORD-1551,2024-01-09,North,Corporate,Furniture,Sofas,Standard,1,220.9,0.1,198.81,66.27
+ORD-1552,2023-12-29,West,Consumer,Clothing,Shirts,Standard,4,37.49,0.0,149.96,59.98
+ORD-1553,2024-06-05,West,Consumer,Electronics,Laptops,Express,1,290.01,0.1,261.01,87.0
+ORD-1554,2024-11-06,East,Corporate,Clothing,Shoes,Standard,4,44.63,0.05,169.59,62.48
+ORD-1555,2023-10-07,South,Consumer,Toys,Board Games,Express,6,41.53,0.1,224.26,74.75
+ORD-1556,2023-11-10,West,Small Business,Groceries,Beverages,Same Day,5,18.97,0.15,80.62,23.71
+ORD-1557,2024-12-29,West,Corporate,Electronics,Phones,Standard,7,302.64,0.0,2118.48,847.39
+ORD-1558,2023-05-03,West,Consumer,Clothing,Shirts,Standard,4,33.23,0.0,132.92,53.17
+ORD-1559,2024-08-21,South,Consumer,Toys,Puzzles,Standard,1,29.36,0.05,27.89,10.27
+ORD-1560,2024-07-09,North,Small Business,Furniture,Chairs,Express,3,125.46,0.0,376.38,150.55
+ORD-1561,2023-10-14,West,Consumer,Clothing,Shirts,Standard,7,27.25,0.1,171.68,57.23
+ORD-1562,2023-09-08,North,Consumer,Groceries,Dairy,Standard,5,5.31,0.2,21.24,5.31
+ORD-1563,2024-12-31,East,Consumer,Electronics,Cameras,Standard,3,315.73,0.1,852.47,284.16
+ORD-1564,2024-07-19,South,Small Business,Clothing,Shirts,Same Day,2,55.32,0.05,105.11,38.73
+ORD-1565,2023-05-09,North,Small Business,Electronics,Laptops,Standard,3,275.35,0.0,826.05,330.42
+ORD-1566,2023-07-07,East,Consumer,Clothing,Shirts,Standard,3,49.37,0.05,140.7,51.83
+ORD-1567,2023-04-12,East,Consumer,Clothing,Shirts,Standard,6,32.5,0.0,195.0,78.0
+ORD-1568,2023-04-21,South,Consumer,Toys,Action Figures,Standard,3,41.15,0.05,117.28,43.21
+ORD-1569,2023-10-26,North,Consumer,Toys,Dolls,Standard,7,54.16,0.2,303.3,75.83
+ORD-1570,2023-07-26,South,Corporate,Clothing,Shoes,Standard,6,63.65,0.05,362.8,133.66
+ORD-1571,2024-01-04,North,Small Business,Furniture,Beds,Standard,4,178.95,0.1,644.22,214.74
+ORD-1572,2024-01-11,North,Small Business,Clothing,Jackets,Express,3,31.61,0.15,80.61,23.71
+ORD-1573,2023-02-15,West,Consumer,Toys,Dolls,Express,6,40.46,0.0,242.76,97.1
+ORD-1574,2023-04-26,West,Corporate,Groceries,Dairy,Standard,7,18.06,0.1,113.78,37.93
+ORD-1575,2024-05-12,East,Consumer,Groceries,Dairy,Express,5,14.38,0.0,71.9,28.76
+ORD-1576,2023-06-13,West,Small Business,Clothing,Shoes,Standard,7,26.16,0.05,173.96,64.09
+ORD-1577,2023-08-05,South,Corporate,Clothing,Shoes,Express,6,19.75,0.05,112.57,41.47
+ORD-1578,2024-02-26,East,Corporate,Electronics,Laptops,Same Day,7,244.19,0.05,1623.86,598.26
+ORD-1579,2023-11-02,North,Consumer,Clothing,Trousers,Standard,2,25.66,0.0,51.32,20.53
+ORD-1580,2024-10-05,South,Consumer,Clothing,Shoes,Standard,5,30.77,0.0,153.85,61.54
+ORD-1581,2023-10-19,East,Corporate,Furniture,Beds,Standard,1,165.89,0.0,165.89,66.36
+ORD-1582,2024-05-22,East,Consumer,Toys,Dolls,Standard,6,23.19,0.1,125.23,41.75
+ORD-1583,2023-02-08,South,Consumer,Electronics,Cameras,Standard,4,262.94,0.15,894.0,262.94
+ORD-1584,2024-06-13,East,Small Business,Furniture,Chairs,Standard,6,210.22,0.05,1198.25,441.46
+ORD-1585,2024-08-29,North,Small Business,Toys,Board Games,Standard,4,22.68,0.2,72.58,18.15
+ORD-1586,2023-06-04,North,Consumer,Electronics,Laptops,Standard,2,105.15,0.05,199.78,73.6
+ORD-1587,2023-06-21,East,Small Business,Furniture,Sofas,,5,226.99,0.15,964.71,283.74
+ORD-1588,2023-12-30,South,Consumer,Clothing,Jackets,Standard,6,40.31,0.0,241.86,96.74
+ORD-1589,2024-01-18,East,Consumer,Furniture,Chairs,Standard,7,86.31,0.05,573.96,211.46
+ORD-1590,2024-02-16,East,Consumer,Groceries,Dairy,Standard,5,16.95,0.1,76.28,25.43
+ORD-1591,2024-04-24,East,Corporate,Clothing,Shoes,Standard,5,45.13,0.0,225.65,90.26
+ORD-1592,2024-01-22,West,Consumer,Clothing,Shoes,Standard,5,52.36,0.05,248.71,91.63
+ORD-1593,2024-06-03,East,Consumer,Furniture,Beds,Standard,5,161.98,0.05,769.4,283.46
+ORD-1594,2023-01-16,West,Consumer,Toys,Puzzles,Standard,6,35.48,0.05,202.24,74.51
+ORD-1595,2024-03-03,East,Consumer,Electronics,Laptops,Standard,1,289.32,0.0,289.32,115.73
+ORD-1596,2023-01-12,West,Consumer,Electronics,Phones,Standard,3,196.22,0.1,529.79,176.59
+ORD-1597,2024-03-02,South,Consumer,Electronics,Laptops,,2,153.66,0.1,276.59,92.2
+ORD-1598,2023-11-15,East,Consumer,Electronics,Cameras,Express,4,383.62,0.0,1534.48,613.79
+ORD-1599,2023-09-06,East,Small Business,Furniture,Beds,Standard,7,125.71,0.0,879.97,351.99
+ORD-1600,2023-09-26,West,Consumer,Toys,Action Figures,Express,2,34.6,0.0,69.2,27.68
+ORD-1601,2024-08-10,East,Consumer,Toys,Board Games,Express,3,47.42,0.0,142.26,56.9
+ORD-1602,2024-06-21,West,Consumer,Toys,Dolls,Standard,7,24.62,0.0,172.34,68.94
+ORD-1603,2024-11-29,West,Corporate,Electronics,Headphones,Express,1,330.84,0.2,264.67,66.17
+ORD-1604,2024-09-02,East,Consumer,Furniture,Sofas,Express,6,241.49,0.0,1448.94,579.58
+ORD-1605,2024-02-23,South,Consumer,Groceries,Snacks,Express,6,23.87,0.15,121.74,35.81
+ORD-1606,2023-03-26,North,Consumer,Electronics,Phones,Standard,6,318.98,0.15,1626.8,478.47
+ORD-1607,2024-10-19,North,Consumer,Electronics,Phones,Standard,4,329.34,0.0,1317.36,526.94
+ORD-1608,2023-10-30,East,Corporate,Clothing,Shoes,Standard,5,50.55,0.05,240.11,88.46
+ORD-1609,2024-06-16,West,Consumer,Furniture,Beds,Standard,4,121.82,0.0,487.28,194.91
+ORD-1610,2024-09-20,West,Consumer,Groceries,Snacks,Standard,1,14.99,0.0,14.99,6.0
+ORD-1611,2023-03-16,East,Consumer,Furniture,Beds,Standard,3,167.69,0.05,477.92,176.08
+ORD-1612,2023-08-29,West,Consumer,Groceries,Snacks,Express,1,16.03,0.0,16.03,6.41
+ORD-1613,2023-08-09,East,Corporate,Clothing,Jackets,Standard,1,52.89,0.05,50.25,18.52
+ORD-1614,2024-04-25,West,Corporate,Furniture,Beds,Standard,5,288.64,0.05,1371.04,505.12
+ORD-1615,2023-02-17,East,Consumer,Clothing,Jackets,Standard,4,23.57,0.05,89.57,33.0
+ORD-1616,2024-08-22,North,Corporate,Groceries,Snacks,Standard,2,13.14,0.15,22.34,6.57
+ORD-1617,2023-09-29,West,Corporate,Clothing,Shirts,Express,7,49.42,0.1,311.35,103.79
+ORD-1618,2024-08-27,South,Corporate,Toys,Dolls,Standard,7,33.13,0.0,231.91,92.76
+ORD-1619,2024-06-04,East,Small Business,Toys,Puzzles,Standard,4,21.71,0.05,82.5,30.4
+ORD-1620,2023-09-25,West,Corporate,Toys,Board Games,Express,7,22.74,0.05,151.22,55.71
+ORD-1621,2024-05-01,North,Consumer,Toys,Puzzles,Express,7,14.77,0.0,103.39,41.36
+ORD-1622,2024-03-09,East,Consumer,Groceries,Bakery,Express,2,17.39,0.1,31.3,10.43
+ORD-1623,2024-12-07,South,Consumer,Furniture,Sofas,Standard,5,267.61,0.0,1338.05,535.22
+ORD-1624,2024-04-11,East,Corporate,Electronics,Cameras,Express,6,224.57,0.05,1280.05,471.6
+ORD-1625,2024-06-25,North,Small Business,Clothing,Shirts,Standard,3,44.44,0.0,133.32,53.33
+ORD-1626,2024-08-14,South,Consumer,Groceries,Dairy,Same Day,4,16.41,0.0,65.64,26.26
+ORD-1627,2023-08-03,North,Consumer,Toys,Board Games,Express,3,33.66,0.05,95.93,35.34
+ORD-1628,2023-04-25,East,Consumer,Furniture,Beds,Standard,6,135.08,0.1,729.43,243.14
+ORD-1629,2023-08-10,East,Small Business,Clothing,Trousers,Standard,3,38.69,0.1,104.46,34.82
+ORD-1630,2024-09-12,East,Consumer,Electronics,Phones,Express,5,360.55,0.0,1802.75,721.1
+ORD-1631,2023-10-10,West,Corporate,Electronics,Headphones,Standard,1,349.87,0.1,314.88,104.96
+ORD-1632,2023-10-25,South,Consumer,Toys,Action Figures,Standard,5,27.93,0.2,111.72,27.93
+ORD-1633,2023-01-03,South,Consumer,Groceries,Dairy,Standard,5,6.29,0.15,26.73,7.86
+ORD-1634,2023-04-05,west,Consumer,Electronics,Cameras,Express,7,169.04,0.2,946.62,236.65
+ORD-1635,2023-09-28,East,Consumer,Furniture,Beds,Standard,7,115.07,0.15,684.67,201.38
+ORD-1636,2024-05-02,West,Consumer,Toys,Dolls,Standard,4,29.45,0.05,111.91,41.23
+ORD-1637,2023-12-15,South,Consumer,Furniture,Tables,Standard,5,191.96,0.05,911.81,335.93
+ORD-1638,2023-01-14,South,Consumer,Clothing,Shoes,Express,5,21.36,0.05,101.46,37.38
+ORD-1639,2023-01-22,West,Small Business,Clothing,Shirts,Express,3,60.95,0.05,173.71,64.0
+ORD-1640,2024-03-17,North,Corporate,Furniture,Beds,Express,5,226.37,0.15,962.07,282.96
+ORD-1641,2024-06-11,North,Consumer,Clothing,Shirts,Standard,1,34.38,0.0,34.38,13.75
+ORD-1642,2024-09-03,North,Consumer,Furniture,Sofas,Standard,1,197.37,0.1,177.63,59.21
+ORD-1643,2023-05-12,South,Consumer,Groceries,Snacks,Express,1,15.76,0.1,14.18,4.72
+ORD-1644,2023-04-15,South,Consumer,Groceries,Bakery,Standard,1,11.21,0.0,11.21,4.48
+ORD-1645,2023-01-18,North,Corporate,Toys,Action Figures,Express,1,38.4,0.15,32.64,9.6
+ORD-1646,2023-07-01,South,Consumer,Clothing,Shoes,Standard,7,32.98,0.1,207.77,69.25
+ORD-1647,2024-04-14,West,Small Business,Furniture,Chairs,Express,3,234.31,0.0,702.93,281.17
+ORD-1648,2024-04-18,East,Consumer,Electronics,Headphones,Standard,3,210.6,0.0,631.8,252.72
+ORD-1649,2023-03-06,west,Consumer,Electronics,Phones,Standard,6,327.24,0.05,1865.27,687.21
+ORD-1650,2024-09-02,East,Small Business,Toys,Board Games,Standard,7,23.5,0.0,164.5,65.8
+ORD-1651,2024-02-06,South,Consumer,Furniture,Chairs,Standard,6,163.15,0.15,832.06,244.72
+ORD-1652,2024-07-21,West,Consumer,Clothing,Shirts,Express,4,60.52,0.05,229.98,84.73
+ORD-1653,2023-02-23,West,Corporate,Furniture,Beds,Same Day,3,170.89,0.0,512.67,205.07
+ORD-1654,2024-11-29,East,Consumer,Groceries,Snacks,,2,24.61,0.0,49.22,19.69
+ORD-1655,2023-05-05,West,Corporate,Electronics,Phones,Express,4,155.22,0.1,558.79,186.26
+ORD-1656,2024-05-15,East,Consumer,Furniture,Tables,Standard,5,159.33,0.15,677.15,199.16
+ORD-1657,2023-08-07,North,Consumer,Electronics,Phones,Express,7,240.72,0.05,1600.79,589.77
+ORD-1658,2024-12-20,East,Corporate,Toys,Board Games,Standard,7,40.64,0.1,256.03,85.34
+ORD-1659,2024-07-26,South,Consumer,Groceries,Bakery,Standard,2,17.16,0.1,30.89,10.3
+ORD-1660,2023-05-06,North,Consumer,Groceries,Snacks,Standard,1,19.41,0.05,18.44,6.79
+ORD-1661,2024-07-27,North,Consumer,Clothing,Trousers,Standard,2,23.54,0.0,47.08,18.83
+ORD-1662,2023-10-19,North,Consumer,Furniture,Sofas,Express,5,160.26,0.0,801.3,320.52
+ORD-1663,2023-04-27,west,Consumer,Electronics,Phones,Standard,1,238.65,0.0,238.65,95.46
+ORD-1664,2023-05-10,South,Corporate,Electronics,Cameras,Standard,6,263.0,0.0,1578.0,631.2
+ORD-1665,2024-12-15,South,Small Business,Toys,Action Figures,Standard,5,21.39,0.15,90.91,26.74
+ORD-1666,2024-07-07,North,Consumer,Groceries,Snacks,Standard,2,11.67,0.05,22.17,8.17
+ORD-1667,2024-01-11,North,Consumer,Clothing,Trousers,Standard,4,54.3,0.0,217.2,86.88
+ORD-1668,2024-06-14,South,Consumer,Furniture,Beds,Standard,5,176.54,0.0,882.7,353.08
+ORD-1669,2023-09-30,West,Corporate,Groceries,Snacks,Standard,3,17.41,0.1,47.01,15.67
+ORD-1670,2024-10-27,West,Corporate,Clothing,Trousers,Express,5,46.72,0.1,210.24,70.08
+ORD-1671,2023-05-09,South,Consumer,Electronics,Phones,Standard,5,98.57,0.05,468.21,172.5
+ORD-1672,2023-05-14,East,Corporate,Groceries,Bakery,Standard,2,12.06,0.0,24.12,9.65
+ORD-1673,2024-12-24,West,Corporate,Clothing,Trousers,Same Day,6,28.83,0.1,155.68,51.89
+ORD-1674,2024-07-14,West,Consumer,Groceries,Beverages,Express,5,20.14,0.0,100.7,40.28
+ORD-1675,2024-07-31,East,Consumer,Furniture,Chairs,Express,6,246.87,0.0,1481.22,592.49
+ORD-1676,2023-05-10,East,Small Business,Groceries,Bakery,Standard,6,18.53,0.05,105.62,38.91
+ORD-1677,2024-11-04,South,Consumer,Groceries,Snacks,Express,6,16.99,0.0,101.94,40.78
+ORD-1678,2023-06-29,South,Consumer,Clothing,Shoes,Standard,4,65.35,0.15,222.19,65.35
+ORD-1679,2024-09-10,East,Corporate,Toys,Dolls,Standard,3,42.57,0.0,127.71,51.08
+ORD-1680,2024-06-18,North,Corporate,Toys,Action Figures,Standard,2,35.67,0.1,64.21,21.41
+ORD-1681,2024-06-30,South,Consumer,Furniture,Beds,Standard,1,78.66,0.1,70.79,23.59
+ORD-1682,2024-10-18,East,Consumer,Clothing,Shoes,Standard,2,26.2,0.1,47.16,15.72
+ORD-1683,2023-05-01,North,Consumer,Groceries,Beverages,Standard,2,16.56,0.05,31.46,11.59
+ORD-1684,2024-01-27,East,Corporate,Toys,Puzzles,Express,3,58.37,0.0,175.11,70.04
+ORD-1685,2024-06-05,West,Consumer,Toys,Dolls,Standard,4,19.89,0.05,75.58,27.84
+ORD-1686,2024-03-13,South,Consumer,Furniture,Chairs,Standard,6,68.49,0.1,369.85,123.29
+ORD-1687,2024-12-01,West,Small Business,Groceries,Beverages,Standard,6,15.13,0.05,86.24,31.77
+ORD-1688,2023-08-30,West,Small Business,Clothing,Shoes,Standard,1,23.6,0.05,22.42,8.26
+ORD-1689,2023-12-18,South,Consumer,Groceries,Bakery,Standard,4,17.67,0.0,70.68,28.27
+ORD-1690,2023-01-25,South,Consumer,Clothing,Jackets,Standard,7,57.7,0.05,383.71,141.37
+ORD-1691,2023-08-01,East,Consumer,Furniture,Tables,Standard,3,137.41,0.15,350.4,103.06
+ORD-1692,2024-02-06,west,Consumer,Toys,Board Games,Standard,5,36.36,0.1,163.62,54.54
+ORD-1693,2023-02-11,North,Consumer,Clothing,Shoes,Standard,3,72.98,0.0,218.94,87.58
+ORD-1694,2023-05-20,North,Consumer,Furniture,Chairs,Same Day,5,230.05,0.0,1150.25,460.1
+ORD-1695,2023-09-16,East,Consumer,Furniture,Beds,Express,2,299.03,0.0,598.06,239.22
+ORD-1696,2024-10-29,North,Corporate,Furniture,Chairs,Standard,4,204.85,0.0,819.4,327.76
+ORD-1697,2023-09-11,West,Consumer,Groceries,Snacks,Standard,3,15.88,0.15,40.49,11.91
+ORD-1698,2023-06-18,South,Corporate,Toys,Board Games,Standard,3,21.31,0.0,63.93,25.57
+ORD-1699,2024-12-10,East,Corporate,Electronics,Cameras,Same Day,7,375.89,0.0,2631.23,1052.49
+ORD-1700,2024-05-10,North,Small Business,Toys,Action Figures,Standard,5,27.39,0.2,109.56,27.39
+ORD-1701,2024-09-07,North,Consumer,Toys,Board Games,Standard,1,26.75,0.0,26.75,10.7
+ORD-1702,2024-06-07,West,Consumer,Toys,Board Games,Express,2,20.11,0.05,38.21,14.08
+ORD-1703,2023-06-30,West,Corporate,Electronics,Headphones,Same Day,3,356.54,0.0,1069.62,427.85
+ORD-1704,2024-01-12,East,Consumer,Toys,Action Figures,Standard,7,28.81,0.0,201.67,80.67
+ORD-1705,2024-02-24,North,Small Business,Toys,Puzzles,Standard,3,26.65,0.05,75.95,27.98
+ORD-1706,2024-09-24,South,Consumer,Furniture,Chairs,Express,2,268.0,0.15,455.6,134.0
+ORD-1707,2024-09-19,South,Consumer,Toys,Board Games,Express,1,26.65,0.0,26.65,10.66
+ORD-1708,2024-11-16,East,Consumer,Furniture,Tables,Standard,7,214.35,0.0,1500.45,600.18
+ORD-1709,2024-04-16,South,Small Business,Clothing,Jackets,Standard,2,20.52,0.05,38.99,14.37
+ORD-1710,2024-01-02,East,Consumer,Toys,Puzzles,Standard,6,33.5,0.1,180.9,60.3
+ORD-1711,2023-04-24,East,Consumer,Electronics,Laptops,Standard,5,242.89,0.05,1153.73,425.06
+ORD-1712,2023-02-13,South,Consumer,Furniture,Sofas,Standard,7,180.69,0.05,1201.59,442.69
+ORD-1713,2023-02-06,South,Corporate,Toys,Puzzles,Standard,4,34.32,0.0,137.28,54.91
+ORD-1714,2023-01-19,East,Consumer,Toys,Dolls,Standard,7,40.27,0.2,225.51,56.38
+ORD-1715,2023-02-11,East,Small Business,Electronics,Phones,Standard,6,216.84,0.0,1301.04,520.42
+ORD-1716,2023-05-08,West,Consumer,Clothing,Shirts,Same Day,1,55.34,0.0,55.34,22.14
+ORD-1717,2023-03-10,South,Consumer,Furniture,Chairs,Express,6,215.3,0.05,1227.21,452.13
+ORD-1718,2023-05-27,North,Consumer,Groceries,Beverages,Express,4,21.26,0.05,80.79,29.77
+ORD-1719,2023-09-23,East,Consumer,Electronics,Phones,Express,7,274.47,0.0,1921.29,768.52
+ORD-1720,2023-08-26,South,Consumer,Groceries,Bakery,Same Day,6,16.1,0.2,77.28,19.32
+ORD-1721,2023-01-19,north,Consumer,Electronics,Phones,Standard,1,168.23,0.05,159.82,58.88
+ORD-1722,2023-06-02,North,Consumer,Toys,Board Games,Standard,7,27.69,0.1,174.45,58.15
+ORD-1723,2023-07-17,North,Consumer,Clothing,Shirts,Express,5,33.54,0.1,150.93,50.31
+ORD-1724,2023-07-30,East,Consumer,Furniture,Tables,Standard,4,161.68,0.1,582.05,194.02
+ORD-1725,2024-02-27,South,Consumer,Furniture,Chairs,Standard,4,91.3,0.0,365.2,146.08
+ORD-1726,2024-01-23,South,Consumer,Electronics,Phones,Express,6,268.32,0.0,1609.92,643.97
+ORD-1727,2023-02-26,South,Consumer,Clothing,Trousers,Express,3,21.75,0.0,65.25,26.1
+ORD-1728,2024-10-02,East,Consumer,Groceries,Snacks,Standard,5,21.49,0.1,96.7,32.23
+ORD-1729,2023-11-17,North,Consumer,Toys,Action Figures,Standard,3,30.61,0.0,91.83,36.73
+ORD-1730,2023-04-13,South,Corporate,Groceries,Beverages,Standard,1,19.37,0.05,18.4,6.78
+ORD-1731,2024-03-03,West,Consumer,Furniture,Sofas,Standard,7,250.39,0.05,1665.09,613.45
+ORD-1732,2024-12-13,South,Consumer,Clothing,Jackets,Standard,3,17.35,0.0,52.05,20.82
+ORD-1733,2023-06-08,South,Consumer,Groceries,Snacks,Express,1,12.32,0.0,12.32,4.93
+ORD-1734,2024-11-27,North,Corporate,Groceries,Beverages,Standard,2,15.38,0.05,29.22,10.76
+ORD-1735,2023-04-18,West,Consumer,Furniture,Chairs,Standard,3,266.13,0.05,758.47,279.44
+ORD-1736,2024-05-17,South,Consumer,Furniture,Tables,Express,6,207.46,0.1,1120.28,373.42
+ORD-1737,2023-12-23,East,Small Business,Furniture,Beds,Express,3,156.76,0.0,470.28,188.11
+ORD-1738,2023-11-28,North,Corporate,Toys,Dolls,Standard,1,26.56,0.0,26.56,10.62
+ORD-1739,2024-12-23,South,Consumer,Toys,Dolls,Standard,5,23.88,0.0,119.4,47.76
+ORD-1740,2024-05-30,East,Consumer,Clothing,Jackets,Standard,4,29.35,0.05,111.53,41.09
+ORD-1741,2024-04-05,South,Consumer,Groceries,Beverages,Express,4,21.12,0.0,84.48,33.79
+ORD-1742,2023-12-21,South,Consumer,Electronics,Phones,Standard,2,341.52,0.05,648.89,239.07
+ORD-1743,2023-04-17,West,Consumer,Clothing,Jackets,Express,4,27.08,0.15,92.07,27.08
+ORD-1744,2023-01-13,North,Consumer,Electronics,Phones,Standard,6,79.8,0.05,454.86,167.58
+ORD-1745,2023-06-22,West,Consumer,Clothing,Jackets,Standard,7,28.91,0.0,202.37,80.95
+ORD-1746,2023-04-26,West,Consumer,Furniture,Sofas,Standard,7,201.91,0.05,1342.7,494.68
+ORD-1747,2024-03-16,West,Consumer,Furniture,Tables,Standard,1,169.62,0.05,161.14,59.37
+ORD-1748,2023-11-22,East,Corporate,Toys,Puzzles,Standard,7,32.3,0.05,214.79,79.13
+ORD-1749,2024-08-06,West,Consumer,Toys,Action Figures,Express,5,37.16,0.0,185.8,74.32
+ORD-1750,2023-06-15,South,Consumer,Toys,Action Figures,Standard,4,25.77,0.1,92.77,30.92
+ORD-1751,2023-08-13,West,Consumer,Clothing,Shoes,Express,3,20.5,0.15,52.28,15.38
+ORD-1752,2023-04-02,North,Corporate,Toys,Puzzles,Express,2,38.96,0.0,77.92,31.17
+ORD-1753,2024-03-01,South,Consumer,Toys,Puzzles,Express,5,16.41,0.1,73.84,24.61
+ORD-1754,2023-06-03,West,Consumer,Clothing,Shirts,Express,4,29.19,0.1,105.08,35.02
+ORD-1755,2024-03-17,North,Corporate,Clothing,Jackets,Same Day,6,28.43,0.0,170.58,68.23
+ORD-1756,2023-06-13,South,Small Business,Clothing,Jackets,,1,20.16,0.15,17.14,5.04
+ORD-1757,2024-04-30,East,Consumer,Groceries,Dairy,Express,4,16.19,0.05,61.52,22.66
+ORD-1758,2024-08-03,South,Consumer,Electronics,Laptops,Same Day,6,145.78,0.15,743.48,218.67
+ORD-1759,2024-05-09,South,Corporate,Electronics,Headphones,Express,5,328.07,0.1,1476.32,492.11
+ORD-1760,2023-08-18,West,Consumer,Groceries,Beverages,Express,5,16.93,0.05,80.42,29.63
+ORD-1761,2023-11-07,South,Corporate,Clothing,Shirts,Express,2,31.4,0.05,59.66,21.98
+ORD-1762,2023-12-24,West,Consumer,Electronics,Headphones,Standard,1,234.06,0.05,222.36,81.92
+ORD-1763,2023-09-28,North,Corporate,Furniture,Tables,Express,5,243.66,0.0,1218.3,487.32
+ORD-1764,2023-12-08,North,Consumer,Electronics,Cameras,Standard,1,345.07,0.05,327.82,120.78
+ORD-1765,2023-09-06,North,Consumer,Clothing,Trousers,Express,3,43.46,0.1,117.34,39.11
+ORD-1766,2024-12-27,South,Consumer,Toys,Action Figures,Standard,1,37.65,0.0,37.65,15.06
+ORD-1767,2024-03-01,South,Consumer,Groceries,Snacks,Express,2,16.88,0.05,32.07,11.81
+ORD-1768,2024-07-31,South,Corporate,Furniture,Tables,Standard,4,214.44,0.05,814.87,300.21
+ORD-1769,2023-07-28,North,Consumer,Clothing,Shirts,Standard,7,45.4,0.1,286.02,95.34
+ORD-1770,2023-11-27,South,Consumer,Groceries,Snacks,Standard,3,11.97,0.05,34.11,12.56
+ORD-1771,2023-07-26,East,Corporate,Electronics,Laptops,Standard,4,201.96,0.05,767.45,282.75
+ORD-1772,2024-04-27,East,Consumer,Toys,Board Games,Standard,3,37.82,0.05,107.79,39.71
+ORD-1773,2024-12-16,North,Consumer,Electronics,Laptops,Express,1,103.32,0.05,98.15,36.16
+ORD-1774,2024-10-05,North,Small Business,Groceries,Beverages,Express,6,10.82,0.0,64.92,25.97
+ORD-1775,2024-03-14,South,Consumer,Electronics,Cameras,Standard,3,205.7,0.0,617.1,246.84
+ORD-1776,2024-09-10,North,Consumer,Toys,Dolls,Standard,6,42.12,0.0,252.72,101.09
+ORD-1777,2024-09-03,East,Consumer,Groceries,Dairy,Standard,5,9.32,0.05,44.27,16.31
+ORD-1778,2023-07-07,East,Small Business,Clothing,Shirts,,3,53.09,0.1,143.34,47.78
+ORD-1779,2024-05-09,South,Consumer,Clothing,Trousers,Express,5,54.4,0.1,244.8,81.6
+ORD-1780,2024-01-23,East,Consumer,Groceries,Snacks,Standard,2,11.02,0.15,18.73,5.51
+ORD-1781,2023-03-10,north,Corporate,Toys,Board Games,Standard,2,31.46,0.0,62.92,25.17
+ORD-1782,2024-11-27,South,Corporate,Toys,Action Figures,Standard,1,43.05,0.0,43.05,17.22
+ORD-1783,2023-08-19,East,Consumer,Clothing,Shoes,Standard,6,22.89,0.0,137.34,54.94
+ORD-1784,2024-12-22,West,Corporate,Furniture,Sofas,Same Day,6,142.94,0.1,771.88,257.3
+ORD-1785,2023-02-21,West,Corporate,Toys,Dolls,Express,5,22.41,0.2,89.64,22.41
+ORD-1786,2024-10-10,North,Consumer,Furniture,Beds,Standard,1,223.68,0.0,223.68,89.47
+ORD-1787,2024-01-21,West,Consumer,Clothing,Shoes,Standard,4,32.99,0.0,131.96,52.78
+ORD-1788,2024-04-15,North,Consumer,Electronics,Laptops,Express,2,315.66,0.0,631.32,252.53
+ORD-1789,2024-08-03,West,Corporate,Furniture,Tables,Same Day,7,217.54,0.0,1522.78,609.11
+ORD-1790,2023-10-13,East,Consumer,Clothing,Shirts,Express,2,56.5,0.15,96.05,28.25
+ORD-1791,2024-12-16,South,Consumer,Electronics,Cameras,Same Day,2,226.37,0.0,452.74,181.1
+ORD-1792,2024-09-07,West,Small Business,Groceries,Beverages,Standard,4,18.09,0.05,68.74,25.32
+ORD-1793,2024-09-01,North,Consumer,Electronics,Headphones,Express,3,187.08,0.05,533.18,196.44
+ORD-1794,2024-12-19,East,Consumer,Clothing,Jackets,Standard,2,53.75,0.1,96.75,32.25
+ORD-1795,2024-11-30,East,Small Business,Electronics,Phones,Standard,7,37.19,0.0,260.33,104.13
+ORD-1796,2024-06-07,West,Consumer,Toys,Board Games,Standard,4,43.55,0.1,156.78,52.26
+ORD-1797,2023-01-18,South,Small Business,Furniture,Chairs,Express,1,213.22,0.05,202.56,74.63
+ORD-1798,2024-02-26,South,Corporate,Furniture,Chairs,Standard,4,214.42,0.0,857.68,343.07
+ORD-1799,2024-03-21,South,Corporate,Toys,Board Games,Standard,2,44.55,0.05,84.64,31.18
+ORD-1800,2023-04-09,West,Consumer,Clothing,Jackets,Standard,5,29.07,0.0,145.35,58.14
+ORD-1801,2024-06-04,North,Small Business,Groceries,Beverages,Express,2,24.48,0.0,48.96,19.58
+ORD-1802,2023-05-11,East,Corporate,Furniture,Beds,Standard,7,130.13,0.0,910.91,364.36
+ORD-1803,2024-04-04,East,Consumer,Toys,Puzzles,Standard,1,31.83,0.1,28.65,9.55
+ORD-1804,2024-07-28,West,Consumer,Toys,Board Games,Standard,7,43.24,0.1,272.41,90.8
+ORD-1805,2023-01-29,South,Consumer,Clothing,Trousers,Standard,1,31.61,0.0,31.61,12.64
+ORD-1806,2023-07-11,West,Consumer,Clothing,Shoes,Express,3,36.47,0.1,98.47,32.82
+ORD-1807,2023-10-31,East,Corporate,Electronics,Phones,Express,6,270.31,0.1,1459.67,486.55
+ORD-1808,2024-02-09,East,Consumer,Clothing,Shoes,Express,7,51.46,0.1,324.2,108.07
+ORD-1809,2024-05-20,West,Corporate,Groceries,Dairy,Standard,6,14.83,0.1,80.08,26.69
+ORD-1810,2023-06-07,North,Small Business,Toys,Action Figures,Standard,1,31.14,0.0,31.14,12.46
+ORD-1811,2023-06-23,West,Consumer,Toys,Puzzles,Standard,1,19.4,0.0,19.4,7.76
+ORD-1812,2024-09-08,South,Corporate,Clothing,Jackets,Express,5,40.31,0.1,181.4,60.47
+ORD-1813,2023-11-13,North,Consumer,Groceries,Beverages,Express,6,13.63,0.0,81.78,32.71
+ORD-1814,2023-11-19,East,Small Business,Electronics,Phones,Standard,3,193.58,0.05,551.7,203.26
+ORD-1815,2023-09-18,East,Consumer,Furniture,Tables,Express,3,190.52,0.05,542.98,200.04
+ORD-1816,2024-04-12,West,Corporate,Toys,Dolls,Standard,2,47.99,0.0,95.98,38.39
+ORD-1817,2024-12-17,East,Small Business,Toys,Board Games,Same Day,6,48.25,0.0,289.5,115.8
+ORD-1818,2023-06-21,South,Consumer,Electronics,Cameras,Express,5,205.68,0.0,1028.4,411.36
+ORD-1819,2023-06-18,South,Consumer,Furniture,Beds,Express,2,195.56,0.0,391.12,156.45
+ORD-1820,2023-11-07,South,Corporate,Clothing,Trousers,Express,1,40.18,0.0,40.18,16.07
+ORD-1821,2023-10-06,North,Consumer,Electronics,Headphones,Standard,6,176.89,0.1,955.21,318.41
+ORD-1822,2023-12-25,East,Consumer,Toys,Board Games,Standard,5,49.24,0.1,221.58,73.86
+ORD-1823,2024-06-14,East,Corporate,Clothing,Shoes,Standard,1,55.82,0.0,55.82,22.33
+ORD-1824,2023-07-21,East,Corporate,Toys,Puzzles,Standard,7,17.11,0.0,119.77,47.91
+ORD-1825,2023-01-16,North,Corporate,Groceries,Dairy,Standard,1,13.83,0.0,13.83,5.53
+ORD-1826,2023-05-14,North,Consumer,Clothing,Trousers,Express,6,39.32,0.0,235.92,94.37
+ORD-1827,2024-07-20,South,Small Business,Electronics,Phones,Standard,5,224.77,0.15,955.27,280.96
+ORD-1828,2024-05-20,West,Consumer,Furniture,Sofas,Standard,4,187.76,0.0,751.04,300.42
+ORD-1829,2024-05-10,South,Corporate,Toys,Puzzles,Standard,4,14.34,0.05,54.49,20.07
+ORD-1830,2023-02-06,West,Consumer,Furniture,Chairs,Standard,6,191.58,0.0,1149.48,459.79
+ORD-1831,2023-08-23,North,Corporate,Clothing,Jackets,Standard,7,60.97,0.0,426.79,170.72
+ORD-1832,2024-06-10,North,Corporate,Clothing,Shirts,,2,37.62,0.0,75.24,30.1
+ORD-1833,2023-02-28,East,Consumer,Furniture,Sofas,Same Day,5,132.38,0.0,661.9,264.76
+ORD-1834,2023-10-01,South,Consumer,Furniture,Tables,Same Day,3,208.03,0.0,624.09,249.64
+ORD-1835,2023-03-19,East,Consumer,Groceries,Dairy,Express,7,10.6,0.0,74.2,29.68
+ORD-1836,2023-03-27,West,Consumer,Toys,Dolls,Standard,6,17.71,0.05,100.95,37.19
+ORD-1837,2024-09-24,North,Corporate,Clothing,Jackets,Standard,3,31.47,0.0,94.41,37.76
+ORD-1838,2024-07-08,South,Consumer,Furniture,Tables,Express,7,80.37,0.05,534.46,196.91
+ORD-1839,2024-04-24,West,Consumer,Groceries,Beverages,Standard,6,18.54,0.0,111.24,44.5
+ORD-1840,2023-09-19,West,Corporate,Clothing,Shoes,Express,1,29.77,0.15,25.3,7.44
+ORD-1841,2023-11-09,West,Corporate,Clothing,Trousers,Standard,2,45.7,0.05,86.83,31.99
+ORD-1842,2024-11-05,South,Consumer,Groceries,Snacks,Standard,2,12.44,0.15,21.15,6.22
+ORD-1843,2023-11-05,West,Corporate,Groceries,Dairy,Express,6,14.44,0.05,82.31,30.33
+ORD-1844,2023-03-04,North,Corporate,Furniture,Chairs,Express,4,153.19,0.0,612.76,245.1
+ORD-1845,2023-02-22,West,Consumer,Furniture,Tables,Standard,1,117.71,0.05,111.82,41.19
+ORD-1846,2024-10-29,West,Consumer,Toys,Puzzles,Standard,3,33.79,0.05,96.3,35.48
+ORD-1847,2024-04-15,South,Consumer,Toys,Puzzles,Express,1,39.01,0.1,35.11,11.7
+ORD-1848,2023-07-29,North,Corporate,Electronics,Cameras,Express,7,244.38,0.0,1710.66,684.26
+ORD-1849,2024-06-22,West,Consumer,Furniture,Sofas,Express,5,133.69,0.1,601.6,200.53
+ORD-1850,2024-12-18,South,Consumer,Electronics,Cameras,Standard,2,237.45,0.0,474.9,189.96
+ORD-1851,2024-09-10,West,Corporate,Clothing,Trousers,Standard,1,23.63,0.1,21.27,7.09
+ORD-1852,2023-12-15,South,Small Business,Electronics,Laptops,Express,6,354.89,0.0,2129.34,851.74
+ORD-1853,2023-04-14,West,Corporate,Toys,Puzzles,Express,1,44.37,0.05,42.15,15.53
+ORD-1854,2024-12-09,West,Small Business,Electronics,Laptops,Standard,7,226.09,0.1,1424.37,474.79
+ORD-1855,2023-11-06,North,Consumer,Groceries,Beverages,Express,6,10.37,0.1,56.0,18.67
+ORD-1856,2023-10-29,West,Consumer,Clothing,Trousers,Express,5,42.82,0.0,214.1,85.64
+ORD-1857,2024-06-29,North,Small Business,Groceries,Dairy,Standard,6,9.57,0.0,57.42,22.97
+ORD-1858,2023-01-09,North,Corporate,Electronics,Cameras,Standard,3,233.42,0.05,665.25,245.09
+ORD-1859,2023-03-06,East,Consumer,Groceries,Snacks,Standard,1,15.31,0.0,15.31,6.12
+ORD-1860,2023-01-12,North,Consumer,Furniture,Chairs,Express,2,218.42,0.0,436.84,174.74
+ORD-1861,2023-12-26,South,Consumer,Electronics,Cameras,Standard,3,483.47,0.05,1377.89,507.64
+ORD-1862,2024-02-19,West,Corporate,Clothing,Jackets,Express,2,60.19,0.1,108.34,36.11
+ORD-1863,2023-04-13,West,Consumer,Groceries,Dairy,Express,6,11.71,0.2,56.21,14.05
+ORD-1864,2023-08-20,South,Small Business,Electronics,Phones,Express,1,245.66,0.05,233.38,85.98
+ORD-1865,2024-02-19,West,Corporate,Toys,Board Games,Express,7,23.38,0.0,163.66,65.46
+ORD-1866,2024-11-12,North,Consumer,Groceries,Snacks,Express,7,16.31,0.1,102.75,34.25
+ORD-1867,2023-01-31,South,Small Business,Toys,Dolls,Express,4,48.04,0.1,172.94,57.64
+ORD-1868,2024-01-06,East,Corporate,Clothing,Jackets,Standard,1,36.82,0.1,33.14,11.05
+ORD-1869,2023-10-16,West,Consumer,Electronics,Laptops,Standard,7,340.59,0.15,2026.51,596.03
+ORD-1870,2024-01-16,East,Corporate,Electronics,Cameras,Standard,6,257.9,0.05,1470.03,541.59
+ORD-1871,2024-09-08,East,Consumer,Groceries,Beverages,Express,1,16.36,0.0,16.36,6.54
+ORD-1872,2024-11-18,North,Corporate,Groceries,Bakery,Express,4,17.49,0.0,69.96,27.98
+ORD-1873,2023-08-18,North,Small Business,Electronics,Laptops,Express,6,225.33,0.05,1284.38,473.19
+ORD-1874,2023-03-27,West,Consumer,Clothing,Shoes,Standard,7,58.55,0.0,409.85,163.94
+ORD-1875,2024-11-29,South,Consumer,Toys,Dolls,Standard,3,39.89,0.1,107.7,35.9
+ORD-1876,2023-11-30,South,Small Business,Toys,Board Games,Standard,2,30.76,0.0,61.52,24.61
+ORD-1877,2023-04-23,East,Consumer,Electronics,Phones,Express,1,196.48,0.0,196.48,78.59
+ORD-1878,2023-06-07,South,Consumer,Electronics,Headphones,Express,6,220.36,0.15,1123.84,330.54
+ORD-1879,2023-08-16,South,Corporate,Furniture,Sofas,Standard,7,232.38,0.15,1382.66,406.66
+ORD-1880,2023-12-23,West,Consumer,Electronics,Cameras,Standard,3,213.95,0.05,609.76,224.65
+ORD-1881,2023-10-30,West,Corporate,Furniture,Beds,Standard,1,317.13,0.05,301.27,110.99
+ORD-1882,2023-05-18,West,Consumer,Electronics,Phones,Express,2,168.61,0.1,303.5,101.17
+ORD-1883,2023-04-04,South,Corporate,Electronics,Headphones,Standard,3,229.66,0.1,620.08,206.69
+ORD-1884,2023-08-08,East,Consumer,Electronics,Phones,Same Day,2,276.51,0.1,497.72,165.91
+ORD-1885,2024-11-01,South,Corporate,Toys,Dolls,Express,7,27.51,0.05,182.94,67.4
+ORD-1886,2024-06-29,North,Corporate,Groceries,Dairy,Standard,2,19.65,0.0,39.3,15.72
+ORD-1887,2024-12-15,East,Small Business,Toys,Board Games,Express,3,26.33,0.15,67.14,19.75
+ORD-1888,2023-12-25,West,Consumer,Furniture,Sofas,Express,7,133.06,0.1,838.28,279.43
+ORD-1889,2024-06-13,East,Consumer,Furniture,Beds,Standard,4,179.41,0.0,717.64,287.06
+ORD-1890,2024-12-07,South,Consumer,Furniture,Chairs,Standard,5,192.65,0.0,963.25,385.3
+ORD-1891,2024-05-17,West,Corporate,Toys,Dolls,Standard,6,38.59,0.0,231.54,92.62
+ORD-1892,2024-08-23,East,Consumer,Furniture,Sofas,Standard,4,204.84,0.0,819.36,327.74
+ORD-1893,2024-06-03,East,Small Business,Clothing,Shirts,Express,4,42.72,0.05,162.34,59.81
+ORD-1894,2024-10-23,north,Consumer,Electronics,Headphones,Standard,3,232.9,0.0,698.7,279.48
+ORD-1895,2023-11-15,East,Consumer,Electronics,Laptops,Standard,4,357.91,0.1,1288.48,429.5
+ORD-1896,2024-02-05,North,Small Business,Electronics,Phones,Standard,2,55.82,0.0,111.64,44.66
+ORD-1897,2024-03-29,West,Consumer,Groceries,Bakery,Express,2,24.28,0.05,46.13,16.99
+ORD-1898,2023-05-14,South,Corporate,Electronics,Laptops,Standard,3,252.31,0.0,756.93,302.77
+ORD-1899,2023-09-10,North,Corporate,Clothing,Shoes,Standard,4,12.05,0.0,48.2,19.28
+ORD-1900,2023-09-25,East,Consumer,Furniture,Tables,Express,1,220.82,0.05,209.78,77.29
+ORD-1901,2024-10-25,East,Consumer,Electronics,Cameras,Standard,4,256.51,0.1,923.44,307.82
+ORD-1902,2023-09-28,East,Corporate,Clothing,Jackets,Standard,4,19.26,0.15,65.48,19.26
+ORD-1903,2023-02-26,East,Consumer,Furniture,Tables,Standard,1,179.03,0.0,179.03,71.61
+ORD-1904,2023-03-25,South,Consumer,Furniture,Sofas,Standard,1,203.5,0.1,183.15,61.05
+ORD-1905,2023-08-01,East,Consumer,Groceries,Snacks,Standard,4,22.52,0.1,81.07,27.02
+ORD-1906,2023-03-23,South,Consumer,Electronics,Laptops,Express,2,149.81,0.0,299.62,119.85
+ORD-1907,2024-02-26,East,Small Business,Electronics,Phones,Standard,5,304.31,0.05,1445.47,532.54
+ORD-1908,2024-07-19,North,Consumer,Furniture,Beds,Standard,7,145.38,0.0,1017.66,407.06
+ORD-1909,2024-02-20,South,Corporate,Furniture,Beds,Standard,2,215.59,0.0,431.18,172.47
+ORD-1910,2024-10-31,North,Consumer,Groceries,Dairy,Express,3,12.08,0.1,32.62,10.88
+ORD-1911,2023-06-17,North,Consumer,Toys,Dolls,Express,4,37.49,0.0,149.96,59.98
+ORD-1912,2023-06-16,East,Corporate,Electronics,Laptops,Standard,3,431.9,0.0,1295.7,518.28
+ORD-1913,2023-07-30,North,Consumer,Toys,Action Figures,Express,5,22.49,0.05,106.83,39.36
+ORD-1914,2024-07-31,South,Consumer,Groceries,Bakery,Standard,5,17.01,0.15,72.29,21.26
+ORD-1915,2024-02-06,West,Small Business,Toys,Puzzles,Standard,3,21.58,0.1,58.27,19.43
+ORD-1916,2024-06-30,North,Corporate,Electronics,Headphones,Express,3,368.48,0.05,1050.17,386.91
+ORD-1917,2024-09-08,West,Consumer,Furniture,Tables,,7,157.22,0.2,880.43,220.11
+ORD-1918,2024-09-08,North,Consumer,Furniture,Sofas,Standard,7,163.96,0.2,918.18,229.55
+ORD-1919,2023-03-03,South,Consumer,Toys,Board Games,Express,2,27.29,0.0,54.58,21.83
+ORD-1920,2024-08-19,South,Consumer,Groceries,Bakery,Express,5,13.07,0.05,62.08,22.87
+ORD-1921,2024-06-05,South,Consumer,Furniture,Sofas,Standard,7,200.72,0.0,1405.04,562.02
+ORD-1922,2023-11-13,East,Small Business,Groceries,Beverages,Express,5,15.75,0.0,78.75,31.5
+ORD-1923,2023-03-06,North,Consumer,Toys,Action Figures,Standard,7,40.46,0.2,226.58,56.65
+ORD-1924,2024-09-12,North,Consumer,Clothing,Shirts,Standard,5,22.68,0.05,107.73,39.69
+ORD-1925,2024-08-15,West,Consumer,Electronics,Laptops,Standard,5,352.73,0.0,1763.65,705.46
+ORD-1926,2024-04-23,West,Corporate,Electronics,Headphones,Standard,2,254.0,0.15,431.8,127.0
+ORD-1927,2023-09-22,South,Small Business,Groceries,Beverages,Same Day,6,11.99,0.0,71.94,28.78
+ORD-1928,2023-12-16,South,Consumer,Furniture,Beds,Same Day,7,221.16,0.05,1470.71,541.84
+ORD-1929,2024-06-03,North,Consumer,Furniture,Tables,Standard,3,155.5,0.1,419.85,139.95
+ORD-1930,2023-10-26,North,Consumer,Groceries,Bakery,Express,6,15.45,0.0,92.7,37.08
+ORD-1931,2024-07-07,North,Consumer,Groceries,Snacks,Express,7,22.57,0.15,134.29,39.5
+ORD-1932,2023-05-25,East,Consumer,Clothing,Shirts,Standard,3,23.07,0.05,65.75,24.22
+ORD-1933,2024-10-27,East,Consumer,Electronics,Headphones,Standard,7,310.24,0.1,1954.51,651.5
+ORD-1934,2024-12-29,West,Consumer,Furniture,Tables,Standard,6,267.38,0.0,1604.28,641.71
+ORD-1935,2023-10-24,West,Consumer,Furniture,Tables,Express,5,152.8,0.1,687.6,229.2
+ORD-1936,2023-11-26,South,Small Business,Groceries,Dairy,Same Day,3,12.43,0.05,35.43,13.06
+ORD-1937,2023-09-10,North,Small Business,Electronics,Headphones,Standard,2,161.57,0.05,306.98,113.1
+ORD-1938,2023-01-31,South,Corporate,Furniture,Beds,Standard,4,288.16,0.05,1095.01,403.43
+ORD-1939,2023-01-03,East,Consumer,Clothing,Trousers,Standard,6,37.55,0.15,191.5,56.32
+ORD-1940,2024-12-02,North,Consumer,Toys,Dolls,Same Day,4,18.88,0.0,75.52,30.21
+ORD-1941,2024-10-28,South,Consumer,Groceries,Bakery,Same Day,3,21.85,0.0,65.55,26.22
+ORD-1942,2024-05-22,North,Corporate,Groceries,Dairy,Standard,2,19.42,0.0,38.84,15.54
+ORD-1943,2024-07-04,East,Consumer,Groceries,Beverages,Standard,5,10.66,0.0,53.3,21.32
+ORD-1944,2023-09-02,South,Consumer,Furniture,Tables,Express,4,201.02,0.0,804.08,321.63
+ORD-1945,2024-06-28,South,Consumer,Electronics,Cameras,Express,7,311.97,0.0,2183.79,873.52
+ORD-1946,2024-03-25,East,Consumer,Electronics,Cameras,Standard,3,213.83,0.1,577.34,192.45
+ORD-1947,2023-03-04,East,Consumer,Clothing,Shirts,Same Day,4,53.19,0.05,202.12,74.46
+ORD-1948,2023-09-12,East,Corporate,Groceries,Beverages,Standard,4,13.3,0.0,53.2,21.28
+ORD-1949,2023-03-05,West,Consumer,Electronics,Laptops,Express,1,406.2,0.0,406.2,162.48
+ORD-1950,2023-03-29,South,Consumer,Electronics,Headphones,Express,1,148.54,0.0,148.54,59.42
+ORD-1951,2023-02-24,West,Consumer,Toys,Action Figures,Standard,4,19.71,0.1,70.96,23.66
+ORD-1952,2024-12-05,South,Small Business,Clothing,Shoes,Standard,1,47.65,0.1,42.88,14.29
+ORD-1953,2023-11-17,East,Consumer,Clothing,Shirts,Standard,3,43.11,0.0,129.33,51.73
+ORD-1954,2023-12-15,North,Consumer,Clothing,Jackets,Express,7,44.37,0.05,295.06,108.71
+ORD-1955,2024-04-13,West,Consumer,Electronics,Phones,Express,1,164.64,0.05,156.41,57.63
+ORD-1956,2024-12-05,East,Corporate,Furniture,Sofas,Express,6,148.81,0.05,848.22,312.5
+ORD-1957,2024-10-25,West,Corporate,Groceries,Dairy,Standard,6,14.96,0.05,85.27,31.41
+ORD-1958,2023-12-30,South,Consumer,Clothing,Trousers,Standard,4,64.43,0.05,244.83,90.2
+ORD-1959,2023-01-11,South,Small Business,Electronics,Laptops,Standard,4,285.17,0.1,1026.61,342.2
+ORD-1960,2023-01-14,North,Consumer,Electronics,Phones,Express,1,226.84,0.05,215.5,79.4
+ORD-1961,2024-03-09,South,Consumer,Electronics,Laptops,Standard,1,108.27,0.15,92.03,27.07
+ORD-1962,2023-06-21,East,Corporate,Toys,Dolls,Standard,3,19.04,0.05,54.26,19.99
+ORD-1963,2023-11-24,West,Small Business,Groceries,Dairy,Standard,5,14.96,0.0,74.8,29.92
+ORD-1964,2024-01-19,South,Corporate,Electronics,Phones,Standard,4,221.36,0.0,885.44,354.18
+ORD-1965,2024-02-07,East,Corporate,Toys,Dolls,Standard,1,43.55,0.2,34.84,8.71
+ORD-1966,2024-08-07,West,Consumer,Groceries,Bakery,Standard,5,10.03,0.0,50.15,20.06
+ORD-1967,2023-10-21,West,Consumer,Electronics,Laptops,Same Day,7,162.33,0.05,1079.49,397.7
+ORD-1968,2023-10-03,South,Consumer,Furniture,Chairs,Same Day,3,132.14,0.05,376.6,138.75
+ORD-1969,2024-04-07,North,Small Business,Toys,Dolls,Express,1,36.2,0.0,36.2,14.48
+ORD-1970,2024-01-16,East,Corporate,Groceries,Dairy,Standard,2,16.84,0.05,32.0,11.79
+ORD-1971,2024-06-11,South,Consumer,Electronics,Phones,Express,2,354.03,0.05,672.66,247.82
+ORD-1972,2023-01-30,North,Consumer,Furniture,Sofas,Same Day,3,226.51,0.0,679.53,271.81
+ORD-1973,2023-12-17,West,Corporate,Groceries,Beverages,Express,6,18.34,0.05,104.54,38.52
+ORD-1974,2023-12-19,North,Consumer,Groceries,Dairy,Standard,3,16.47,0.05,46.94,17.29
+ORD-1975,2024-01-25,North,Corporate,Groceries,Snacks,Standard,2,20.58,0.05,39.1,14.4
+ORD-1976,2023-03-14,West,Consumer,Clothing,Shirts,Express,3,45.84,0.15,116.89,34.38
+ORD-1977,2023-05-29,East,Consumer,Clothing,Shoes,Same Day,6,36.77,0.1,198.56,66.19
+ORD-1978,2024-05-06,North,Consumer,Groceries,Beverages,Standard,2,18.12,0.05,34.43,12.69
+ORD-1979,2023-11-19,North,Consumer,Furniture,Chairs,Express,3,218.7,0.0,656.1,262.44
+ORD-1980,2023-05-26,West,Corporate,Electronics,Phones,Standard,6,276.98,0.15,1412.6,415.47
+ORD-1981,2024-07-21,South,Consumer,Furniture,Sofas,Same Day,3,153.07,0.0,459.21,183.68
+ORD-1982,2023-07-18,West,Corporate,Clothing,Jackets,Standard,6,33.57,0.0,201.42,80.57
+ORD-1983,2023-07-22,North,Small Business,Toys,Action Figures,Same Day,1,23.18,0.2,18.54,4.63
+ORD-1984,2023-01-13,North,Small Business,Clothing,Trousers,Standard,1,41.75,0.15,35.49,10.44
+ORD-1985,2023-10-01,North,Consumer,Clothing,Trousers,Standard,1,53.56,0.15,45.53,13.39
+ORD-1986,2024-10-29,East,Corporate,Groceries,Snacks,Standard,5,22.27,0.0,111.35,44.54
+ORD-1987,2023-04-01,West,Consumer,Furniture,Chairs,Standard,3,224.61,0.0,673.83,269.53
+ORD-1988,2024-01-30,South,Consumer,Furniture,Sofas,Same Day,1,144.36,0.1,129.92,43.3
+ORD-1989,2023-07-24,East,Consumer,Toys,Puzzles,Standard,7,39.74,0.15,236.45,69.54
+ORD-1990,2024-03-17,South,Consumer,Groceries,Bakery,Standard,5,15.94,0.0,79.7,31.88
+ORD-1991,2023-09-14,North,Consumer,Electronics,Headphones,Standard,3,207.93,0.15,530.22,155.95
+ORD-1992,2023-12-23,North,Consumer,Electronics,Laptops,Standard,1,221.21,0.0,221.21,88.48
+ORD-1993,2023-09-14,East,Consumer,Furniture,Tables,Standard,5,190.92,0.2,763.68,190.92
+ORD-1994,2023-05-25,West,Consumer,Groceries,Beverages,Express,3,14.45,0.0,43.35,17.34
+ORD-1995,2023-06-27,South,Consumer,Toys,Board Games,Standard,7,28.06,0.0,196.42,78.57
+ORD-1996,2024-09-28,West,Small Business,Furniture,Chairs,Standard,5,95.86,0.0,479.3,191.72
+ORD-1997,2024-06-22,South,Consumer,Furniture,Chairs,Standard,7,333.01,0.0,2331.07,932.43
+ORD-1998,2023-08-25,North,Consumer,Clothing,Shirts,Standard,4,45.49,0.0,181.96,72.78
+ORD-1999,2024-09-22,East,Consumer,Electronics,Phones,Standard,6,407.37,0.1,2199.8,733.27
+ORD-2000,2023-04-25,South,Consumer,Clothing,Shirts,Standard,4,24.92,0.1,89.71,29.9
+ORD-2001,2023-03-22,South,Corporate,Toys,Board Games,Standard,4,31.52,0.05,119.78,44.13
+ORD-2002,2024-03-02,North,Corporate,Toys,Board Games,Standard,3,30.43,0.1,82.16,27.39
+ORD-2003,2023-12-30,South,Consumer,Clothing,Shoes,Standard,3,53.98,0.0,161.94,64.78
+ORD-2004,2024-10-14,North,Corporate,Clothing,Jackets,Standard,2,46.64,0.1,83.95,27.98
+ORD-2005,2023-07-22,West,Consumer,Electronics,Laptops,Standard,7,283.81,0.05,1887.34,695.34
+ORD-2006,2024-11-18,East,Corporate,Groceries,Snacks,Standard,4,19.19,0.05,72.92,26.86
+ORD-2007,2023-08-23,West,Consumer,Groceries,Dairy,Standard,1,8.4,0.05,7.98,2.94
+ORD-2008,2023-03-31,North,Consumer,Groceries,Dairy,Express,4,28.17,0.0,112.68,45.07
+ORD-2009,2024-09-16,South,Corporate,Groceries,Bakery,,4,10.53,0.0,42.12,16.85
+ORD-2010,2024-09-19,West,Consumer,Clothing,Shirts,Express,5,28.29,0.05,134.38,49.51
+ORD-2011,2024-07-24,East,Consumer,Groceries,Snacks,Express,1,18.14,0.0,18.14,7.26
+ORD-2012,2023-07-08,South,Consumer,Toys,Board Games,Standard,3,17.76,0.1,47.95,15.98
+ORD-2013,2023-08-21,North,Consumer,Groceries,Snacks,Standard,1,20.53,0.05,19.5,7.18
+ORD-2014,2023-10-21,North,Small Business,Clothing,Shirts,Express,3,23.31,0.2,55.94,13.98
+ORD-2015,2023-11-30,East,Consumer,Electronics,Phones,Standard,5,213.82,0.15,908.73,267.27
+ORD-2016,2024-01-31,East,Consumer,Clothing,Shoes,Express,5,10.03,0.15,42.63,12.54
+ORD-2017,2024-04-16,East,Consumer,Furniture,Chairs,Standard,4,196.9,0.0,787.6,315.04
+ORD-2018,2024-02-16,North,Consumer,Clothing,Jackets,Express,3,46.07,0.15,117.48,34.55
+ORD-2019,2023-11-23,East,Consumer,Toys,Action Figures,Express,5,29.22,0.0,146.1,58.44
+ORD-2020,2023-04-23,West,Consumer,Groceries,Snacks,Standard,1,12.11,0.05,11.5,4.23
+ORD-2021,2024-07-19,North,Consumer,Furniture,Chairs,Standard,5,216.92,0.0,1084.6,433.84
+ORD-2022,2024-01-18,South,Corporate,Furniture,Sofas,Standard,3,220.3,0.0,660.9,264.36
+ORD-2023,2023-08-06,East,Small Business,Electronics,Laptops,Same Day,5,199.14,0.05,945.91,348.49
+ORD-2024,2024-04-25,North,Corporate,Furniture,Beds,Standard,5,180.06,0.1,810.27,270.09
+ORD-2025,2024-04-12,North,Consumer,Furniture,Chairs,Express,3,96.6,0.05,275.31,101.43
+ORD-2026,2024-05-04,North,Consumer,Electronics,Laptops,Express,3,302.73,0.0,908.19,363.28
+ORD-2027,2023-06-03,West,Consumer,Groceries,Bakery,,1,12.63,0.0,12.63,5.05
+ORD-2028,2023-06-22,West,Corporate,Groceries,Beverages,Express,1,11.54,0.0,11.54,4.62
+ORD-2029,2024-01-16,West,Corporate,Groceries,Dairy,Standard,4,16.47,0.0,65.88,26.35
+ORD-2030,2023-01-19,West,Consumer,Groceries,Bakery,,3,22.44,0.1,60.59,20.2
+ORD-2031,2024-05-10,South,Consumer,Clothing,Shirts,Standard,1,47.48,0.05,45.11,16.62
+ORD-2032,2023-01-08,East,Corporate,Furniture,Chairs,Standard,3,186.0,0.0,558.0,223.2
+ORD-2033,2024-05-20,West,Consumer,Toys,Puzzles,Express,7,31.25,0.15,185.94,54.69
+ORD-2034,2023-05-26,East,Consumer,Toys,Action Figures,Express,3,19.97,0.0,59.91,23.96
+ORD-2035,2024-01-03,South,Consumer,Electronics,Cameras,Standard,5,202.68,0.0,1013.4,405.36
+ORD-2036,2024-10-18,East,Consumer,Toys,Dolls,Express,3,19.4,0.0,58.2,23.28
+ORD-2037,2023-08-02,West,Consumer,Furniture,Beds,Standard,5,192.22,0.1,864.99,288.33
+ORD-2038,2024-09-03,West,Consumer,Toys,Action Figures,Same Day,6,27.14,0.0,162.84,65.14
+ORD-2039,2024-07-19,North,Consumer,Furniture,Chairs,Standard,5,186.3,0.0,931.5,372.6
+ORD-2040,2024-12-21,North,Corporate,Groceries,Snacks,Express,1,20.88,0.1,18.79,6.26
+ORD-2041,2023-09-17,East,Consumer,Toys,Action Figures,Express,7,32.61,0.1,205.44,68.48
+ORD-2042,2024-05-25,North,Consumer,Toys,Action Figures,Express,5,27.33,0.1,122.98,40.99
+ORD-2043,2023-02-16,West,Consumer,Clothing,Shoes,Same Day,1,54.1,0.2,43.28,10.82
+ORD-2044,2023-03-18,West,Small Business,Electronics,Headphones,Standard,5,222.6,0.05,1057.35,389.55
+ORD-2045,2023-11-27,West,Consumer,Clothing,Shirts,Express,2,68.66,0.1,123.59,41.2
+ORD-2046,2023-05-27,East,Small Business,Clothing,Trousers,Express,4,60.49,0.0,241.96,96.78
+ORD-2047,2023-03-18,North,Consumer,Electronics,Phones,Standard,4,192.19,0.1,691.88,230.62
+ORD-2048,2023-12-05,East,Consumer,Groceries,Beverages,Standard,6,11.94,0.05,68.06,25.08
+ORD-2049,2024-09-15,East,Corporate,Toys,Puzzles,Standard,5,13.1,0.2,52.4,13.1
+ORD-2050,2023-11-02,North,Consumer,Groceries,Dairy,Express,7,14.27,0.05,94.9,34.97
+ORD-2051,2023-07-07,West,Consumer,Groceries,Dairy,Standard,7,11.08,0.05,73.68,27.14
+ORD-2052,2024-04-13,East,Corporate,Furniture,Sofas,Standard,2,118.8,0.1,213.84,71.28
+ORD-2053,2023-06-28,South,Consumer,Furniture,Chairs,Express,2,198.9,0.15,338.13,99.45
+ORD-2054,2024-02-24,North,Corporate,Electronics,Cameras,Express,6,453.13,0.0,2718.78,1087.51
+ORD-2055,2024-03-20,South,Consumer,Furniture,Tables,Express,5,223.63,0.0,1118.15,447.26
+ORD-2056,2023-07-07,East,Corporate,Toys,Action Figures,Standard,7,22.59,0.0,158.13,63.25
+ORD-2057,2024-03-13,North,Consumer,Toys,Board Games,Same Day,3,27.72,0.0,83.16,33.26
+ORD-2058,2024-04-11,South,Small Business,Toys,Puzzles,Standard,1,25.64,0.05,24.36,8.98
+ORD-2059,2024-03-06,South,Consumer,Clothing,Shoes,Express,3,39.45,0.05,112.43,41.42
+ORD-2060,2024-03-19,South,Corporate,Electronics,Cameras,Express,6,213.33,0.0,1279.98,511.99
+ORD-2061,2023-01-24,South,Consumer,Toys,Action Figures,Standard,5,24.46,0.2,97.84,24.46
+ORD-2062,2023-12-14,East,Consumer,Furniture,Beds,Standard,5,99.95,0.05,474.76,174.91
+ORD-2063,2023-12-19,East,Corporate,Toys,Puzzles,Same Day,2,26.62,0.05,50.58,18.64
+ORD-2064,2024-07-19,South,Small Business,Toys,Puzzles,Standard,4,11.71,0.05,44.5,16.4
+ORD-2065,2024-05-16,East,Consumer,Toys,Puzzles,Express,6,19.27,0.1,104.06,34.69
+ORD-2066,2024-01-17,East,Consumer,Electronics,Laptops,Standard,3,348.67,0.15,889.11,261.5
+ORD-2067,2024-10-19,North,Consumer,Toys,Dolls,Express,7,28.7,0.1,180.81,60.27
+ORD-2068,2024-04-11,South,Consumer,Clothing,Shirts,Standard,7,49.57,0.0,346.99,138.8
+ORD-2069,2024-08-14,West,Corporate,Furniture,Chairs,Standard,4,198.2,0.0,792.8,317.12
+ORD-2070,2023-05-26,North,Consumer,Groceries,Dairy,Express,6,15.4,0.0,92.4,36.96
+ORD-2071,2024-01-03,West,Consumer,Groceries,Beverages,Standard,2,19.38,0.05,36.82,13.56
+ORD-2072,2023-01-17,east,Consumer,Groceries,Dairy,Express,5,17.52,0.05,83.22,30.66
+ORD-2073,2023-08-29,East,Consumer,Electronics,Headphones,Express,3,239.04,0.1,645.41,215.14
+ORD-2074,2024-01-16,East,Consumer,Electronics,Cameras,Standard,7,331.52,0.1,2088.58,696.2
+ORD-2075,2024-12-05,West,Consumer,Clothing,Shirts,Express,4,31.88,0.05,121.14,44.63
+ORD-2076,2023-08-23,East,Consumer,Clothing,Jackets,Standard,7,49.5,0.05,329.18,121.28
+ORD-2077,2023-12-15,North,Consumer,Groceries,Beverages,Same Day,6,9.97,0.0,59.82,23.93
+ORD-2078,2023-02-20,East,Small Business,Electronics,Cameras,Express,6,204.63,0.1,1105.0,368.33
+ORD-2079,2024-04-15,West,Consumer,Toys,Dolls,Standard,3,34.48,0.05,98.27,36.21
+ORD-2080,2023-01-29,East,Consumer,Toys,Board Games,Standard,1,36.83,0.0,36.83,14.73
+ORD-2081,2024-03-15,South,Small Business,Groceries,Snacks,Express,3,16.2,0.0,48.6,19.44
+ORD-2082,2024-11-06,South,Corporate,Clothing,Jackets,Standard,2,40.88,0.15,69.5,20.44
+ORD-2083,2024-04-22,South,Small Business,Clothing,Shoes,Standard,4,51.63,0.2,165.22,41.31
+ORD-2084,2024-10-01,North,Consumer,Toys,Dolls,Express,5,35.8,0.2,143.2,35.8
+ORD-2085,2023-04-25,East,Small Business,Toys,Board Games,Standard,5,31.39,0.0,156.95,62.78
+ORD-2086,2024-05-15,North,Corporate,Electronics,Laptops,Standard,4,299.9,0.05,1139.62,419.86
+ORD-2087,2023-09-26,North,Corporate,Toys,Puzzles,Express,1,20.81,0.1,18.73,6.24
+ORD-2088,2024-10-22,South,Consumer,Groceries,Dairy,Same Day,7,8.8,0.15,52.36,15.4
+ORD-2089,2023-07-31,South,Corporate,Electronics,Laptops,Standard,2,304.78,0.0,609.56,243.82
+ORD-2090,2023-10-06,West,Consumer,Groceries,Bakery,Express,3,24.33,0.05,69.34,25.55
+ORD-2091,2023-05-08,East,Consumer,Furniture,Tables,Express,2,137.54,0.05,261.33,96.28
+ORD-2092,2024-10-04,North,Consumer,Groceries,Beverages,Express,3,17.77,0.0,53.31,21.32
+ORD-2093,2024-04-10,North,Consumer,Clothing,Shoes,Express,6,46.34,0.1,250.24,83.42
+ORD-2094,2024-06-05,East,Small Business,Clothing,Trousers,Standard,7,28.89,0.0,202.23,80.89
+ORD-2095,2024-12-05,South,Consumer,Groceries,Dairy,Standard,7,14.49,0.1,91.29,30.43
+ORD-2096,2024-08-26,South,Consumer,Electronics,Headphones,Express,4,314.23,0.0,1256.92,502.77
+ORD-2097,2024-09-29,North,Consumer,Clothing,Shirts,Standard,7,35.08,0.0,245.56,98.22
+ORD-2098,2023-05-25,East,Consumer,Groceries,Beverages,Standard,7,19.04,0.0,133.28,53.31
+ORD-2099,2024-11-28,East,Consumer,Furniture,Beds,Same Day,1,240.74,0.0,240.74,96.3
+ORD-2100,2024-06-12,South,Consumer,Groceries,Snacks,Express,7,16.78,0.15,99.84,29.36
+ORD-2101,2023-12-02,South,Consumer,Groceries,Beverages,Standard,5,15.64,0.2,62.56,15.64
+ORD-2102,2023-11-27,West,Consumer,Toys,Puzzles,Express,2,27.22,0.2,43.55,10.89
+ORD-2103,2024-02-02,East,Corporate,Electronics,Cameras,Express,3,214.53,0.05,611.41,225.26
+ORD-2104,2023-08-16,North,Corporate,Furniture,Tables,Standard,2,68.36,0.1,123.05,41.02
+ORD-2105,2024-02-07,South,Small Business,Electronics,Cameras,Express,7,234.15,0.1,1475.14,491.71
+ORD-2106,2024-02-18,south,Corporate,Toys,Puzzles,Standard,6,54.16,0.2,259.97,64.99
+ORD-2107,2024-12-09,South,Consumer,Groceries,Bakery,Standard,1,18.63,0.1,16.77,5.59
+ORD-2108,2024-02-15,South,Consumer,Furniture,Beds,Standard,5,183.11,0.0,915.55,366.22
+ORD-2109,2023-07-10,East,Consumer,Clothing,Trousers,Standard,3,33.73,0.1,91.07,30.36
+ORD-2110,2023-05-12,West,Corporate,Clothing,Trousers,Standard,3,30.23,0.1,81.62,27.21
+ORD-2111,2023-02-28,South,Consumer,Toys,Puzzles,Express,1,43.51,0.0,43.51,17.4
+ORD-2112,2024-09-06,East,Small Business,Clothing,Shoes,,3,26.51,0.0,79.53,31.81
+ORD-2113,2024-10-07,North,Corporate,Electronics,Cameras,Standard,1,292.24,0.15,248.4,73.06
+ORD-2114,2024-12-04,East,Consumer,Electronics,Headphones,Standard,1,250.94,0.15,213.3,62.74
+ORD-2115,2023-05-02,East,Small Business,Groceries,Beverages,Standard,5,16.17,0.0,80.85,32.34
+ORD-2116,2024-12-30,West,Corporate,Electronics,Laptops,Standard,6,297.91,0.0,1787.46,714.98
+ORD-2117,2023-01-18,South,Corporate,Toys,Action Figures,Standard,1,46.22,0.0,46.22,18.49
+ORD-2118,2023-02-03,West,Small Business,Furniture,Beds,Same Day,4,195.56,0.0,782.24,312.9
+ORD-2119,2024-12-23,West,Corporate,Furniture,Sofas,Same Day,5,206.75,0.0,1033.75,413.5
+ORD-2120,2023-12-31,North,Consumer,Clothing,Jackets,Standard,5,43.36,0.05,205.96,75.88
+ORD-2121,2023-11-05,North,Consumer,Clothing,Shoes,Standard,3,16.54,0.1,44.66,14.89
+ORD-2122,2024-09-17,South,Consumer,Furniture,Chairs,Express,7,203.68,0.0,1425.76,570.3
+ORD-2123,2024-02-16,South,Consumer,Groceries,Beverages,Standard,2,8.83,0.0,17.66,7.06
+ORD-2124,2023-09-30,West,Consumer,Electronics,Cameras,Standard,7,319.85,0.1,2015.06,671.69
+ORD-2125,2024-03-22,West,Consumer,Furniture,Sofas,Express,7,177.0,0.0,1239.0,495.6
+ORD-2126,2024-09-25,North,Consumer,Clothing,Jackets,Standard,7,40.82,0.0,285.74,114.3
+ORD-2127,2023-12-19,West,Small Business,Furniture,Chairs,Express,7,271.82,0.1,1712.47,570.83
+ORD-2128,2024-05-13,West,Small Business,Clothing,Shirts,Express,4,38.51,0.1,138.64,46.22
+ORD-2129,2023-04-02,North,Corporate,Toys,Action Figures,Express,5,38.38,0.05,182.3,67.16
+ORD-2130,2023-06-27,East,Consumer,Electronics,Phones,Standard,1,212.75,0.0,212.75,85.1
+ORD-2131,2023-08-31,East,Corporate,Clothing,Trousers,Express,3,35.88,0.0,107.64,43.06
+ORD-2132,2024-10-14,East,Consumer,Furniture,Tables,Standard,4,201.13,0.0,804.52,321.81
+ORD-2133,2024-05-01,West,Consumer,Electronics,Laptops,Standard,6,293.63,0.0,1761.78,704.71
+ORD-2134,2024-03-12,West,Small Business,Groceries,Snacks,Standard,5,13.75,0.05,65.31,24.06
+ORD-2135,2024-11-20,West,Small Business,Toys,Puzzles,Standard,2,18.7,0.05,35.53,13.09
+ORD-2136,2023-08-06,West,Consumer,Clothing,Trousers,Standard,4,46.24,0.15,157.22,46.24
+ORD-2137,2023-09-13,West,Consumer,Electronics,Cameras,Standard,5,244.62,0.05,1161.94,428.08
+ORD-2138,2024-07-24,West,Corporate,Electronics,Phones,Standard,1,323.48,0.1,291.13,97.04
+ORD-2139,2024-02-02,North,Consumer,Clothing,Shirts,Standard,7,55.9,0.05,371.74,136.96
+ORD-2140,2023-08-30,East,Consumer,Furniture,Tables,Standard,5,208.17,0.05,988.81,364.3
+ORD-2141,2024-10-13,East,Consumer,Electronics,Laptops,Same Day,5,49.32,0.05,234.27,86.31
+ORD-2142,2023-06-28,West,Small Business,Toys,Board Games,Express,6,36.14,0.0,216.84,86.74
+ORD-2143,2023-08-09,South,Small Business,Toys,Action Figures,Standard,2,38.66,0.0,77.32,30.93
+ORD-2144,2024-10-30,East,Consumer,Groceries,Beverages,Standard,4,15.02,0.2,48.06,12.01
+ORD-2145,2024-06-30,South,Consumer,Clothing,Trousers,Express,3,38.91,0.1,105.06,35.02
+ORD-2146,2023-05-11,South,Corporate,Toys,Dolls,Same Day,3,42.59,0.1,114.99,38.33
+ORD-2147,2024-08-11,East,Corporate,Electronics,Phones,Standard,1,220.04,0.15,187.03,55.01
+ORD-2148,2024-06-23,West,Consumer,Toys,Puzzles,Express,5,15.78,0.0,78.9,31.56
+ORD-2149,2023-12-14,North,Consumer,Electronics,Laptops,Standard,6,205.65,0.15,1048.82,308.48
+ORD-2150,2024-10-15,South,Corporate,Electronics,Cameras,Standard,1,209.12,0.15,177.75,52.28
+ORD-2151,2024-06-10,East,Corporate,Electronics,Laptops,Standard,5,386.26,0.2,1545.04,386.26
+ORD-2152,2024-07-05,East,Corporate,Electronics,Laptops,Same Day,7,227.31,0.0,1591.17,636.47
+ORD-2153,2024-01-25,South,Consumer,Electronics,Cameras,Standard,3,202.65,0.1,547.16,182.39
+ORD-2154,2024-12-30,North,Consumer,Electronics,Laptops,Standard,7,175.15,0.0,1226.05,490.42
+ORD-2155,2023-12-13,East,Corporate,Groceries,Snacks,Standard,2,14.88,0.0,29.76,11.9
+ORD-2156,2024-01-07,North,Consumer,Toys,Dolls,Same Day,7,30.15,0.0,211.05,84.42
+ORD-2157,2023-09-16,East,Corporate,Groceries,Dairy,Same Day,6,15.64,0.0,93.84,37.54
+ORD-2158,2023-07-06,North,Consumer,Toys,Action Figures,Same Day,7,40.21,0.0,281.47,112.59
+ORD-2159,2024-07-13,North,Small Business,Toys,Action Figures,Standard,5,28.63,0.0,143.15,57.26
+ORD-2160,2024-07-27,South,Consumer,Toys,Action Figures,Standard,5,32.58,0.1,146.61,48.87
+ORD-2161,2024-05-02,East,Consumer,Electronics,Headphones,Standard,1,392.01,0.05,372.41,137.2
+ORD-2162,2024-07-07,South,Small Business,Groceries,Snacks,Standard,5,16.0,0.0,80.0,32.0
+ORD-2163,2023-03-29,East,Consumer,Clothing,Trousers,Express,7,51.8,0.0,362.6,145.04
+ORD-2164,2024-01-31,West,Small Business,Toys,Dolls,Standard,6,20.6,0.2,98.88,24.72
+ORD-2165,2024-04-08,West,Corporate,Furniture,Sofas,Express,5,276.33,0.05,1312.57,483.58
+ORD-2166,2023-06-30,West,Consumer,Electronics,Cameras,Standard,1,121.7,0.0,121.7,48.68
+ORD-2167,2023-09-12,East,Small Business,Furniture,Tables,Standard,5,158.77,0.0,793.85,317.54
+ORD-2168,2024-03-28,West,Consumer,Electronics,Cameras,Express,1,230.16,0.1,207.14,69.04
+ORD-2169,2023-11-07,North,Consumer,Furniture,Chairs,Express,3,199.75,0.0,599.25,239.7
+ORD-2170,2024-09-05,East,Corporate,Groceries,Bakery,Standard,7,9.41,0.05,62.58,23.06
+ORD-2171,2024-02-19,South,Consumer,Furniture,Sofas,Standard,6,88.16,0.1,476.06,158.68
+ORD-2172,2023-04-15,West,Consumer,Electronics,Laptops,Standard,3,378.21,0.0,1134.63,453.85
+ORD-2173,2024-08-06,East,Consumer,Groceries,Beverages,Express,5,6.79,0.2,27.16,6.79
+ORD-2174,2023-04-17,East,Corporate,Groceries,Snacks,Standard,4,8.14,0.0,32.56,13.02
+ORD-2175,2023-10-02,North,Consumer,Furniture,Tables,Standard,6,218.57,0.1,1180.28,393.43
+ORD-2176,2023-05-08,South,Consumer,Clothing,Jackets,Express,5,24.51,0.05,116.42,42.89
+ORD-2177,2024-04-01,South,Consumer,Electronics,Phones,Same Day,1,136.87,0.1,123.18,41.06
+ORD-2178,2024-10-13,west,Consumer,Toys,Puzzles,Standard,5,13.62,0.05,64.69,23.83
+ORD-2179,2024-04-18,South,Consumer,Furniture,Chairs,Standard,3,244.13,0.15,622.53,183.1
+ORD-2180,2023-08-31,South,Consumer,Furniture,Sofas,Express,7,183.67,0.0,1285.69,514.28
+ORD-2181,2023-05-15,West,Consumer,Furniture,Sofas,Standard,7,97.64,0.0,683.48,273.39
+ORD-2182,2023-11-29,West,Corporate,Clothing,Jackets,Standard,6,19.34,0.0,116.04,46.42
+ORD-2183,2024-07-04,West,Consumer,Furniture,Chairs,Express,2,223.11,0.0,446.22,178.49
+ORD-2184,2023-03-15,East,Consumer,Electronics,Laptops,Same Day,1,165.91,0.1,149.32,49.77
+ORD-2185,2023-04-12,South,Corporate,Electronics,Phones,Same Day,7,74.95,0.1,472.18,157.39
+ORD-2186,2024-02-28,West,Consumer,Toys,Board Games,Express,7,38.54,0.05,256.29,94.42
+ORD-2187,2024-05-23,West,Consumer,Groceries,Snacks,Standard,5,14.19,0.1,63.86,21.29
+ORD-2188,2023-10-13,West,Corporate,Groceries,Bakery,Express,3,17.83,0.0,53.49,21.4
+ORD-2189,2023-07-19,West,Consumer,Furniture,Beds,Standard,7,118.24,0.05,786.3,289.69
+ORD-2190,2023-05-10,West,Consumer,Electronics,Headphones,Standard,7,212.51,0.0,1487.57,595.03
+ORD-2191,2023-04-25,North,Consumer,Groceries,Bakery,Standard,3,11.49,0.15,29.3,8.62
+ORD-2192,2024-05-28,West,Consumer,Groceries,Snacks,Standard,1,11.76,0.05,11.17,4.11
+ORD-2193,2024-07-12,West,Consumer,Toys,Board Games,Standard,3,19.87,0.1,53.65,17.88
+ORD-2194,2023-09-14,North,Consumer,Toys,Action Figures,Standard,6,22.26,0.0,133.56,53.42
+ORD-2195,2024-12-04,South,Consumer,Toys,Dolls,Standard,6,21.98,0.0,131.88,52.75
+ORD-2196,2023-08-10,South,Consumer,Groceries,Bakery,Standard,2,13.5,0.1,24.3,8.1
+ORD-2197,2023-11-05,South,Small Business,Clothing,Trousers,Standard,6,39.61,0.05,225.78,83.18
+ORD-2198,2023-09-13,West,Consumer,Groceries,Bakery,Standard,5,9.47,0.1,42.62,14.21
+ORD-2199,2023-08-20,South,Consumer,Groceries,Dairy,Express,4,14.74,0.05,56.01,20.63
+ORD-2200,2023-05-13,South,Consumer,Electronics,Cameras,Standard,6,332.93,0.05,1897.7,699.15
+ORD-2201,2024-06-28,North,Corporate,Groceries,Bakery,Standard,3,13.59,0.0,40.77,16.31
+ORD-2202,2024-06-19,East,Consumer,Furniture,Beds,Standard,3,195.17,0.05,556.23,204.92
+ORD-2203,2023-01-27,North,Consumer,Furniture,Sofas,Standard,5,242.17,0.1,1089.76,363.25
+ORD-2204,2023-09-02,West,Consumer,Electronics,Phones,Standard,2,235.32,0.1,423.58,141.2
+ORD-2205,2023-05-01,North,Consumer,Toys,Board Games,Standard,1,27.91,0.1,25.12,8.37
+ORD-2206,2024-04-06,East,Consumer,Toys,Puzzles,Express,6,42.14,0.05,240.2,88.5
+ORD-2207,2024-07-11,North,Consumer,Clothing,Shoes,Standard,5,40.29,0.1,181.3,60.43
+ORD-2208,2024-05-25,East,Consumer,Toys,Dolls,Same Day,7,19.47,0.0,136.29,54.52
+ORD-2209,2024-08-29,North,Small Business,Toys,Board Games,Same Day,1,31.83,0.0,31.83,12.73
+ORD-2210,2023-01-16,West,Corporate,Groceries,Beverages,Express,4,12.16,0.0,48.64,19.46
+ORD-2211,2024-04-19,West,Consumer,Groceries,Dairy,Standard,6,13.66,0.15,69.67,20.49
+ORD-2212,2023-01-21,South,Small Business,Groceries,Snacks,Express,3,17.67,0.15,45.06,13.25
+ORD-2213,2023-10-12,South,Small Business,Groceries,Snacks,Express,6,21.39,0.1,115.51,38.51
+ORD-2214,2024-10-01,North,Corporate,Electronics,Phones,Standard,7,323.52,0.1,2038.18,679.4
+ORD-2215,2023-01-25,East,Consumer,Electronics,Laptops,Standard,6,442.42,0.1,2389.07,796.36
+ORD-2216,2024-09-29,West,Consumer,Groceries,Dairy,Express,2,14.25,0.05,27.08,9.98
+ORD-2217,2023-02-09,West,Consumer,Toys,Dolls,Express,4,28.01,0.0,112.04,44.82
+ORD-2218,2024-04-27,East,Corporate,Toys,Puzzles,Same Day,6,34.15,0.1,184.41,61.47
+ORD-2219,2023-10-07,South,Consumer,Furniture,Sofas,Standard,2,97.79,0.05,185.8,68.45
+ORD-2220,2024-03-23,East,Corporate,Furniture,Tables,Standard,5,255.48,0.05,1213.53,447.09
+ORD-2221,2023-05-05,North,Corporate,Electronics,Phones,Standard,3,343.83,0.05,979.92,361.03
+ORD-2222,2024-08-02,North,Consumer,Toys,Puzzles,Standard,4,34.66,0.1,124.78,41.6
+ORD-2223,2024-10-08,east,Corporate,Groceries,Snacks,Express,2,11.01,0.05,20.92,7.71
+ORD-2224,2023-01-12,South,Corporate,Groceries,Dairy,Express,5,5.0,0.0,25.0,10.0
+ORD-2225,2024-05-23,West,Consumer,Groceries,Dairy,Standard,5,19.1,0.1,85.95,28.65
+ORD-2226,2023-06-17,South,Consumer,Toys,Dolls,Standard,7,37.46,0.05,249.11,91.78
+ORD-2227,2023-01-17,West,Consumer,Electronics,Phones,Standard,1,168.37,0.0,168.37,67.35
+ORD-2228,2024-12-18,East,Consumer,Electronics,Phones,Standard,3,155.65,0.0,466.95,186.78
+ORD-2229,2023-03-09,South,Small Business,Groceries,Dairy,Standard,6,18.96,0.0,113.76,45.5
+ORD-2230,2023-04-22,South,Consumer,Toys,Puzzles,Standard,2,26.59,0.1,47.86,15.95
+ORD-2231,2024-04-08,North,Corporate,Electronics,Laptops,Same Day,6,253.59,0.0,1521.54,608.62
+ORD-2232,2023-10-01,West,Corporate,Furniture,Beds,Standard,2,33.28,0.05,63.23,23.29
+ORD-2233,2023-05-18,South,Consumer,Clothing,Shoes,Standard,1,48.4,0.0,48.4,19.36
+ORD-2234,2024-02-11,East,Small Business,Clothing,Jackets,Express,7,41.21,0.1,259.62,86.54
+ORD-2235,2024-05-16,East,Consumer,Toys,Dolls,Express,1,7.69,0.1,6.92,2.31
+ORD-2236,2024-11-07,East,Consumer,Clothing,Shoes,Express,7,48.24,0.15,287.03,84.42
+ORD-2237,2024-10-14,East,Corporate,Toys,Board Games,Standard,5,36.67,0.05,174.18,64.17
+ORD-2238,2023-04-28,West,Consumer,Toys,Dolls,Standard,5,38.78,0.15,164.82,48.48
+ORD-2239,2024-11-30,West,Small Business,Electronics,Headphones,Standard,6,269.84,0.1,1457.14,485.72
+ORD-2240,2023-04-09,South,Consumer,Furniture,Sofas,Same Day,1,163.5,0.1,147.15,49.05
+ORD-2241,2023-09-04,West,Consumer,Furniture,Chairs,Standard,1,253.57,0.05,240.89,88.75
+ORD-2242,2023-03-03,East,Small Business,Groceries,Dairy,Express,1,14.63,0.15,12.44,3.66
+ORD-2243,2023-06-09,North,Corporate,Electronics,Laptops,Standard,2,324.34,0.1,583.81,194.6
+ORD-2244,2024-12-21,North,Corporate,Electronics,Cameras,Express,3,289.79,0.1,782.43,260.81
+ORD-2245,2023-08-30,South,Small Business,Toys,Puzzles,Standard,2,16.36,0.2,26.18,6.55
+ORD-2246,2024-01-05,South,Consumer,Toys,Dolls,Standard,2,15.39,0.1,27.7,9.23
+ORD-2247,2023-08-24,West,Consumer,Furniture,Tables,Standard,3,90.35,0.1,243.94,81.31
+ORD-2248,2024-07-12,North,Consumer,Toys,Action Figures,Standard,3,19.9,0.1,53.73,17.91
+ORD-2249,2024-04-09,West,Consumer,Clothing,Jackets,Standard,7,32.02,0.05,212.93,78.45
+ORD-2250,2023-01-24,East,Corporate,Groceries,Beverages,Express,5,25.13,0.0,125.65,50.26
+ORD-2251,2023-07-12,North,Consumer,Electronics,Headphones,Express,2,336.07,0.05,638.53,235.25
+ORD-2252,2023-04-30,North,Consumer,Clothing,Shirts,Same Day,7,38.61,0.15,229.73,67.57
+ORD-2253,2023-10-11,South,Consumer,Electronics,Laptops,Express,4,345.19,0.0,1380.76,552.3
+ORD-2254,2024-11-16,East,Small Business,Electronics,Laptops,Standard,1,252.61,0.0,252.61,101.04
+ORD-2255,2024-01-05,South,Corporate,Clothing,Shoes,Standard,5,52.84,0.05,250.99,92.47
+ORD-2256,2024-02-01,West,Consumer,Clothing,Jackets,Standard,6,20.81,0.0,124.86,49.94
+ORD-2257,2024-12-02,West,Consumer,Furniture,Sofas,Standard,6,163.42,0.05,931.49,343.18
+ORD-2258,2023-01-11,north,Consumer,Groceries,Dairy,Standard,3,11.51,0.1,31.08,10.36
+ORD-2259,2024-09-10,West,Consumer,Groceries,Dairy,Express,2,18.25,0.1,32.85,10.95
+ORD-2260,2023-02-04,South,Small Business,Groceries,Snacks,Standard,1,8.75,0.1,7.88,2.63
+ORD-2261,2024-09-27,East,Corporate,Groceries,Snacks,Express,6,13.97,0.0,83.82,33.53
+ORD-2262,2024-12-29,North,Consumer,Groceries,Dairy,Express,3,20.17,0.0,60.51,24.2
+ORD-2263,2024-10-06,South,Consumer,Toys,Dolls,Standard,5,34.44,0.1,154.98,51.66
+ORD-2264,2023-01-16,North,Small Business,Toys,Dolls,Express,5,30.3,0.1,136.35,45.45
+ORD-2265,2024-09-24,West,Corporate,Furniture,Chairs,Express,2,232.83,0.05,442.38,162.98
+ORD-2266,2023-04-24,south,Consumer,Toys,Action Figures,Standard,5,47.42,0.15,201.54,59.28
+ORD-2267,2023-03-08,North,Consumer,Groceries,Bakery,Standard,3,12.15,0.0,36.45,14.58
+ORD-2268,2023-09-05,West,Corporate,Toys,Board Games,Standard,4,27.71,0.0,110.84,44.34
+ORD-2269,2023-10-21,North,Small Business,Clothing,Shirts,Express,3,51.29,0.1,138.48,46.16
+ORD-2270,2023-12-03,East,Consumer,Clothing,Shirts,Express,3,43.55,0.0,130.65,52.26
+ORD-2271,2024-08-15,South,Consumer,Clothing,Jackets,Express,7,39.99,0.0,279.93,111.97
+ORD-2272,2024-02-21,North,Consumer,Clothing,Jackets,Standard,6,30.34,0.0,182.04,72.82
+ORD-2273,2024-09-13,West,Consumer,Clothing,Trousers,Express,3,46.59,0.0,139.77,55.91
+ORD-2274,2023-06-20,West,Small Business,Clothing,Trousers,Express,1,50.15,0.0,50.15,20.06
+ORD-2275,2024-07-18,West,Consumer,Furniture,Chairs,Standard,2,161.52,0.1,290.74,96.92
+ORD-2276,2024-12-23,North,Consumer,Electronics,Laptops,Standard,6,495.73,0.0,2974.38,1189.75
+ORD-2277,2023-04-16,East,Consumer,Groceries,Bakery,Standard,5,17.43,0.1,78.44,26.15
+ORD-2278,2023-10-09,East,Consumer,Groceries,Dairy,Express,1,18.02,0.05,17.12,6.31
+ORD-2279,2023-03-12,West,Corporate,Groceries,Dairy,Express,2,7.28,0.05,13.83,5.09
+ORD-2280,2023-06-30,East,Consumer,Toys,Puzzles,Express,6,38.7,0.05,220.59,81.27
+ORD-2281,2023-03-29,East,Consumer,Clothing,Shoes,Standard,1,30.62,0.0,30.62,12.25
+ORD-2282,2024-03-08,West,Consumer,Electronics,Phones,Standard,1,284.6,0.0,284.6,113.84
+ORD-2283,2024-10-08,North,Corporate,Toys,Dolls,Express,6,21.68,0.05,123.58,45.53
+ORD-2284,2023-05-13,West,Consumer,Furniture,Sofas,Same Day,4,140.6,0.05,534.28,196.84
+ORD-2285,2023-10-03,south,Small Business,Furniture,Chairs,Standard,1,230.89,0.0,230.89,92.36
+ORD-2286,2024-12-21,North,Corporate,Toys,Board Games,Standard,6,28.69,0.0,172.14,68.86
+ORD-2287,2023-10-06,East,Corporate,Groceries,Snacks,Standard,2,9.75,0.0,19.5,7.8
+ORD-2288,2023-06-29,West,Corporate,Electronics,Cameras,Standard,4,275.5,0.1,991.8,330.6
+ORD-2289,2023-01-31,North,Small Business,Toys,Puzzles,Standard,2,27.35,0.0,54.7,21.88
+ORD-2290,2023-05-12,West,Consumer,Groceries,Beverages,Express,5,10.65,0.0,53.25,21.3
+ORD-2291,2024-06-17,West,Small Business,Toys,Dolls,Standard,6,38.86,0.05,221.5,81.6
+ORD-2292,2024-01-24,North,Consumer,Clothing,Shirts,Express,1,28.79,0.1,25.91,8.64
+ORD-2293,2023-06-12,East,Consumer,Electronics,Laptops,Standard,4,285.25,0.05,1083.95,399.35
+ORD-2294,2023-08-27,South,Corporate,Toys,Action Figures,Standard,3,17.73,0.2,42.55,10.64
+ORD-2295,2024-02-09,South,Small Business,Toys,Puzzles,Same Day,1,33.55,0.0,33.55,13.42
+ORD-2296,2023-10-21,South,Consumer,Furniture,Chairs,Standard,5,229.08,0.0,1145.4,458.16
+ORD-2297,2024-06-05,South,Consumer,Toys,Dolls,Standard,2,25.05,0.05,47.6,17.54
+ORD-2298,2024-07-12,North,Consumer,Clothing,Shoes,Standard,2,56.0,0.15,95.2,28.0
+ORD-2299,2024-05-07,East,Consumer,Toys,Puzzles,Standard,1,22.55,0.1,20.3,6.77
+ORD-2300,2023-10-31,East,Consumer,Clothing,Shirts,Standard,4,33.74,0.0,134.96,53.98
+ORD-2301,2023-08-03,West,Small Business,Furniture,Tables,Standard,3,203.71,0.0,611.13,244.45
+ORD-2302,2024-01-17,North,Corporate,Furniture,Chairs,Standard,2,260.6,0.1,469.08,156.36
+ORD-2303,2024-06-03,West,Consumer,Electronics,Headphones,Standard,4,252.79,0.0,1011.16,404.46
+ORD-2304,2024-02-14,West,Consumer,Furniture,Beds,Standard,6,214.94,0.0,1289.64,515.86
+ORD-2305,2023-05-26,South,Consumer,Electronics,Laptops,Same Day,6,173.96,0.0,1043.76,417.5
+ORD-2306,2023-06-20,South,Consumer,Toys,Action Figures,Standard,5,5.0,0.05,23.75,8.75
+ORD-2307,2024-11-10,South,Consumer,Furniture,Chairs,Standard,2,218.69,0.0,437.38,174.95
+ORD-2308,2024-01-11,West,Consumer,Clothing,Shirts,Express,2,54.27,0.0,108.54,43.42
+ORD-2309,2024-07-17,South,Small Business,Furniture,Sofas,Standard,5,216.03,0.15,918.13,270.04
+ORD-2310,2024-09-10,South,Small Business,Clothing,Shirts,Express,7,41.39,0.05,275.24,101.4
+ORD-2311,2024-08-28,North,Corporate,Clothing,Trousers,Standard,3,42.74,0.1,115.4,38.47
+ORD-2312,2024-11-18,West,Consumer,Electronics,Headphones,Standard,3,201.95,0.15,514.97,151.46
+ORD-2313,2024-04-02,East,Small Business,Clothing,Shirts,Express,2,43.81,0.1,78.86,26.29
+ORD-2314,2023-12-10,South,Consumer,Electronics,Cameras,Standard,3,228.29,0.05,650.63,239.71
+ORD-2315,2023-08-09,East,Consumer,Toys,Action Figures,Same Day,2,19.48,0.1,35.06,11.68
+ORD-2316,2023-10-07,South,Small Business,Furniture,Sofas,Same Day,1,172.09,0.0,172.09,68.84
+ORD-2317,2024-05-21,West,Consumer,Clothing,Shirts,Express,5,43.3,0.05,205.68,75.78
+ORD-2318,2024-04-14,East,Consumer,Toys,Puzzles,Express,4,21.5,0.05,81.7,30.1
+ORD-2319,2024-11-17,East,Consumer,Groceries,Beverages,Standard,7,23.39,0.1,147.36,49.12
+ORD-2320,2024-10-05,West,Consumer,Electronics,Laptops,Same Day,7,72.54,0.0,507.78,203.11
+ORD-2321,2024-08-24,South,Corporate,Electronics,Headphones,Standard,6,173.5,0.05,988.95,364.35
+ORD-2322,2023-01-03,West,Corporate,Clothing,Trousers,Standard,5,46.85,0.05,222.54,81.99
+ORD-2323,2024-01-11,North,Consumer,Clothing,Jackets,Same Day,4,47.54,0.05,180.65,66.55
+ORD-2324,2023-01-10,South,Consumer,Toys,Board Games,Express,2,20.0,0.05,38.0,14.0
+ORD-2325,2023-11-03,West,Corporate,Groceries,Dairy,Express,5,13.89,0.05,65.98,24.31
+ORD-2326,2023-02-19,South,Consumer,Toys,Dolls,Standard,4,48.88,0.05,185.74,68.43
+ORD-2327,2023-03-16,West,Consumer,Clothing,Jackets,Express,3,58.29,0.05,166.13,61.21
+ORD-2328,2023-08-03,North,Consumer,Clothing,Shirts,Express,7,45.34,0.1,285.64,95.21
+ORD-2329,2023-07-01,East,Corporate,Toys,Action Figures,Express,2,37.66,0.05,71.55,26.36
+ORD-2330,2024-07-09,South,Consumer,Clothing,Trousers,Standard,7,49.04,0.1,308.95,102.98
+ORD-2331,2023-04-29,South,Consumer,Electronics,Headphones,Express,6,260.03,0.1,1404.16,468.05
+ORD-2332,2023-12-21,East,Consumer,Furniture,Chairs,Standard,2,199.54,0.05,379.13,139.68
+ORD-2333,2023-04-13,West,Corporate,Groceries,Snacks,Standard,4,23.84,0.0,95.36,38.14
+ORD-2334,2023-04-19,South,Corporate,Electronics,Cameras,Standard,1,250.82,0.0,250.82,100.33
+ORD-2335,2023-12-06,South,Consumer,Toys,Dolls,Standard,4,16.67,0.05,63.35,23.34
+ORD-2336,2023-01-01,North,Consumer,Groceries,Snacks,Same Day,4,12.16,0.05,46.21,17.03
+ORD-2337,2023-08-05,South,Consumer,Groceries,Snacks,Standard,5,17.7,0.2,70.8,17.7
+ORD-2338,2024-07-08,West,Corporate,Electronics,Cameras,Standard,3,309.77,0.05,882.84,325.25
+ORD-2339,2023-08-16,North,Corporate,Toys,Board Games,Standard,3,44.7,0.2,107.28,26.82
+ORD-2340,2024-03-10,West,Consumer,Furniture,Tables,Standard,6,219.37,0.0,1316.22,526.49
+ORD-2341,2023-09-26,East,Consumer,Electronics,Cameras,Standard,3,365.45,0.1,986.71,328.9
+ORD-2342,2023-06-23,North,Corporate,Groceries,Beverages,Express,6,22.71,0.15,115.82,34.06
+ORD-2343,2024-02-26,South,Consumer,Toys,Board Games,Standard,6,31.8,0.05,181.26,66.78
+ORD-2344,2024-05-19,North,Corporate,Electronics,Cameras,Same Day,5,312.75,0.0,1563.75,625.5
+ORD-2345,2023-11-29,East,Consumer,Toys,Dolls,Standard,3,41.96,0.05,119.59,44.06
+ORD-2346,2024-12-06,East,Consumer,Groceries,Snacks,Standard,1,16.93,0.1,15.24,5.08
+ORD-2347,2023-04-12,West,Corporate,Toys,Dolls,Standard,7,45.51,0.1,286.71,95.57
+ORD-2348,2023-03-04,South,Small Business,Toys,Dolls,Express,5,37.04,0.1,166.68,55.56
+ORD-2349,2024-06-23,North,Consumer,Electronics,Phones,Standard,3,299.51,0.05,853.6,314.48
+ORD-2350,2023-05-02,South,Small Business,Electronics,Cameras,Same Day,7,335.16,0.15,1994.2,586.53
+ORD-2351,2024-11-08,North,Consumer,Clothing,Shoes,Standard,4,62.28,0.0,249.12,99.65
+ORD-2352,2023-01-15,West,Consumer,Furniture,Beds,Standard,3,300.77,0.0,902.31,360.92
+ORD-2353,2024-10-29,North,Corporate,Furniture,Sofas,Express,4,199.29,0.05,757.3,279.0
+ORD-2354,2023-05-08,West,Consumer,Furniture,Sofas,Standard,7,288.13,0.1,1815.22,605.07
+ORD-2355,2024-08-12,North,Consumer,Electronics,Cameras,Express,5,226.93,0.0,1134.65,453.86
+ORD-2356,2023-12-01,South,Small Business,Toys,Dolls,Standard,3,36.7,0.0,110.1,44.04
+ORD-2357,2024-08-26,South,Corporate,Groceries,Dairy,Express,1,15.54,0.0,15.54,6.22
+ORD-2358,2024-05-07,East,Consumer,Furniture,Chairs,Standard,5,332.51,0.05,1579.42,581.89
+ORD-2359,2023-11-13,East,Consumer,Toys,Board Games,Express,7,26.81,0.0,187.67,75.07
+ORD-2360,2024-11-07,East,Consumer,Groceries,Beverages,Standard,4,10.79,0.1,38.84,12.94
+ORD-2361,2024-11-24,South,Consumer,Electronics,Headphones,Standard,6,271.69,0.1,1467.13,489.05
+ORD-2362,2024-11-16,South,Small Business,Electronics,Headphones,Standard,1,284.09,0.0,284.09,113.64
+ORD-2363,2023-10-22,North,Small Business,Groceries,Beverages,Express,3,11.54,0.15,29.43,8.66
+ORD-2364,2023-11-25,West,Consumer,Electronics,Headphones,,6,307.98,0.0,1847.88,739.15
+ORD-2365,2023-09-24,South,Consumer,Clothing,Trousers,Standard,6,59.28,0.0,355.68,142.27
+ORD-2366,2024-02-14,East,Small Business,Clothing,Trousers,Standard,1,31.73,0.0,31.73,12.69
+ORD-2367,2024-12-16,South,Consumer,Clothing,Jackets,Standard,3,45.61,0.15,116.31,34.21
+ORD-2368,2024-09-12,West,Consumer,Electronics,Laptops,Standard,6,286.91,0.15,1463.24,430.36
+ORD-2369,2023-04-18,South,Consumer,Electronics,Headphones,Express,3,277.17,0.0,831.51,332.6
+ORD-2370,2024-02-23,West,Small Business,Groceries,Dairy,Express,4,13.55,0.05,51.49,18.97
+ORD-2371,2023-10-17,South,Corporate,Furniture,Chairs,Standard,1,281.21,0.05,267.15,98.42
+ORD-2372,2024-10-19,North,Corporate,Groceries,Dairy,Express,4,7.86,0.1,28.3,9.44
+ORD-2373,2024-07-31,East,Small Business,Clothing,Jackets,Express,6,36.5,0.0,219.0,87.6
+ORD-2374,2023-05-12,East,Consumer,Clothing,Jackets,Standard,7,56.22,0.1,354.19,118.07
+ORD-2375,2023-04-05,West,Corporate,Electronics,Laptops,Standard,7,407.46,0.0,2852.22,1140.89
+ORD-2376,2023-05-04,East,Corporate,Groceries,Snacks,Standard,1,22.19,0.0,22.19,8.88
+ORD-2377,2024-12-22,South,Consumer,Groceries,Dairy,Standard,6,17.9,0.1,96.66,32.22
+ORD-2378,2023-12-08,North,Corporate,Groceries,Dairy,Express,6,25.59,0.1,138.19,46.07
+ORD-2379,2024-09-24,North,Consumer,Furniture,Sofas,Express,5,94.99,0.1,427.46,142.49
+ORD-2380,2023-01-27,West,Small Business,Furniture,Chairs,Express,6,245.3,0.05,1398.21,515.13
+ORD-2381,2024-08-05,West,Corporate,Furniture,Beds,Standard,4,178.69,0.05,679.02,250.16
+ORD-2382,2024-03-16,West,Consumer,Groceries,Beverages,Standard,5,17.13,0.0,85.65,34.26
+ORD-2383,2024-08-12,East,Small Business,Groceries,Beverages,Express,5,13.91,0.15,59.12,17.39
+ORD-2384,2023-02-22,West,Consumer,Groceries,Bakery,Standard,1,10.63,0.1,9.57,3.19
+ORD-2385,2024-04-10,West,Consumer,Groceries,Dairy,Standard,1,6.12,0.05,5.81,2.14
+ORD-2386,2024-01-20,West,Consumer,Furniture,Beds,Standard,6,182.25,0.05,1038.82,382.72
+ORD-2387,2024-03-12,South,Consumer,Furniture,Sofas,Standard,2,118.22,0.1,212.8,70.94
+ORD-2388,2023-02-08,North,Consumer,Furniture,Beds,,4,244.71,0.0,978.84,391.54
+ORD-2389,2023-12-27,North,Consumer,Toys,Board Games,Standard,4,29.84,0.0,119.36,47.74
+ORD-2390,2024-07-08,North,Corporate,Groceries,Snacks,Standard,3,15.57,0.0,46.71,18.68
+ORD-2391,2024-07-16,North,Small Business,Furniture,Beds,Express,7,94.64,0.1,596.23,198.74
+ORD-2392,2023-09-10,East,Small Business,Toys,Dolls,Express,5,18.55,0.0,92.75,37.1
+ORD-2393,2024-06-18,North,Small Business,Furniture,Sofas,Standard,6,180.47,0.05,1028.68,378.99
+ORD-2394,2023-01-02,East,Corporate,Electronics,Phones,Standard,3,140.72,0.05,401.05,147.75
+ORD-2395,2023-08-15,West,Corporate,Groceries,Snacks,Standard,1,8.27,0.0,8.27,3.31
+ORD-2396,2024-01-26,North,Consumer,Groceries,Beverages,Standard,1,15.35,0.0,15.35,6.14
+ORD-2397,2023-06-04,West,Small Business,Toys,Action Figures,Standard,5,46.01,0.1,207.04,69.01
+ORD-2398,2023-12-20,South,Consumer,Groceries,Snacks,,1,12.59,0.1,11.33,3.78
+ORD-2399,2023-01-16,north,Small Business,Electronics,Phones,Standard,4,205.78,0.05,781.96,288.09
+ORD-2400,2023-04-15,West,Consumer,Furniture,Tables,Standard,5,199.28,0.05,946.58,348.74
+ORD-2401,2023-01-28,West,Consumer,Furniture,Sofas,Express,6,177.28,0.05,1010.5,372.29
+ORD-2402,2024-07-23,West,Corporate,Electronics,Laptops,Same Day,4,189.48,0.05,720.02,265.27
+ORD-2403,2023-11-06,South,Small Business,Clothing,Jackets,Standard,6,46.15,0.05,263.05,96.91
+ORD-2404,2024-09-02,West,Consumer,Groceries,Snacks,Standard,7,18.57,0.0,129.99,52.0
+ORD-2405,2024-03-29,North,Corporate,Furniture,Tables,Same Day,4,213.42,0.0,853.68,341.47
+ORD-2406,2024-06-08,West,Consumer,Furniture,Beds,Same Day,3,156.11,0.05,444.91,163.91
+ORD-2407,2023-04-18,North,Consumer,Toys,Puzzles,Standard,1,18.94,0.0,18.94,7.58
+ORD-2408,2023-12-02,South,Small Business,Electronics,Laptops,Standard,4,205.86,0.15,699.92,205.86
+ORD-2409,2024-04-22,North,Consumer,Groceries,Beverages,Express,7,19.15,0.0,134.05,53.62
+ORD-2410,2023-02-19,East,Small Business,Groceries,Bakery,Standard,2,10.01,0.1,18.02,6.01
+ORD-2411,2024-05-11,West,Consumer,Furniture,Beds,Standard,7,190.98,0.05,1270.02,467.9
+ORD-2412,2023-03-09,West,Consumer,Electronics,Headphones,Express,6,193.51,0.1,1044.95,348.31
+ORD-2413,2024-02-26,South,Consumer,Groceries,Dairy,Standard,3,14.49,0.15,36.95,10.87
+ORD-2414,2024-11-03,West,Consumer,Furniture,Chairs,Express,1,92.31,0.05,87.69,32.3
+ORD-2415,2023-09-28,East,Consumer,Groceries,Dairy,Standard,5,20.76,0.0,103.8,41.52
+ORD-2416,2023-04-25,North,Small Business,Groceries,Beverages,Express,7,6.33,0.0,44.31,17.72
+ORD-2417,2024-09-29,North,Small Business,Toys,Action Figures,Express,5,22.6,0.05,107.35,39.55
+ORD-2418,2024-02-06,West,Consumer,Toys,Dolls,Express,1,49.86,0.2,39.89,9.97
+ORD-2419,2024-11-27,North,Small Business,Clothing,Jackets,Standard,7,40.96,0.05,272.38,100.35
+ORD-2420,2023-02-12,East,Small Business,Furniture,Beds,Standard,5,130.4,0.1,586.8,195.6
+ORD-2421,2023-06-03,South,Consumer,Groceries,Dairy,Standard,4,12.24,0.1,44.06,14.68
+ORD-2422,2023-02-07,East,Corporate,Toys,Dolls,Standard,5,27.7,0.2,110.8,27.7
+ORD-2423,2024-10-30,South,Corporate,Furniture,Tables,Standard,2,193.41,0.05,367.48,135.39
+ORD-2424,2024-12-01,East,Small Business,Furniture,Tables,Same Day,3,229.36,0.05,653.68,240.83
+ORD-2425,2024-03-05,North,Consumer,Electronics,Headphones,Express,3,175.97,0.1,475.12,158.37
+ORD-2426,2023-12-11,South,Consumer,Furniture,Tables,Standard,1,171.89,0.05,163.3,60.17
+ORD-2427,2023-05-22,West,Small Business,Toys,Action Figures,Standard,7,29.63,0.15,176.3,51.85
+ORD-2428,2024-11-03,South,Consumer,Clothing,Shoes,Express,3,36.12,0.05,102.94,37.92
+ORD-2429,2023-12-12,West,Consumer,Electronics,Laptops,Same Day,1,270.16,0.0,270.16,108.06
+ORD-2430,2024-03-10,East,Consumer,Toys,Puzzles,Express,2,31.29,0.0,62.58,25.03
+ORD-2431,2024-05-14,West,Consumer,Electronics,Cameras,Express,7,350.91,0.05,2333.55,859.73
+ORD-2432,2024-09-01,West,Corporate,Toys,Board Games,Express,1,23.53,0.05,22.35,8.23
+ORD-2433,2024-07-20,East,Consumer,Toys,Dolls,Standard,2,30.47,0.0,60.94,24.38
+ORD-2434,2024-03-04,east,Consumer,Electronics,Headphones,Standard,5,332.77,0.1,1497.46,499.15
+ORD-2435,2024-10-07,West,Consumer,Clothing,Shoes,Standard,2,42.12,0.15,71.6,21.06
+ORD-2436,2023-07-09,North,Small Business,Groceries,Dairy,Standard,2,20.02,0.0,40.04,16.02
+ORD-2437,2023-04-22,North,Consumer,Groceries,Snacks,Same Day,7,16.05,0.05,106.73,39.32
+ORD-2438,2023-06-15,West,Corporate,Groceries,Dairy,Express,7,14.16,0.05,94.16,34.69
+ORD-2439,2023-12-05,East,Consumer,Toys,Puzzles,Standard,7,37.57,0.05,249.84,92.05
+ORD-2440,2024-02-27,East,Consumer,Groceries,Bakery,Express,5,14.28,0.2,57.12,14.28
+ORD-2441,2024-01-28,South,Consumer,Toys,Dolls,Express,6,27.81,0.05,158.52,58.4
+ORD-2442,2024-09-01,West,Small Business,Groceries,Snacks,Same Day,7,13.48,0.15,80.21,23.59
+ORD-2443,2023-02-21,South,Consumer,Toys,Action Figures,Standard,3,40.93,0.1,110.51,36.84
+ORD-2444,2024-04-22,North,Consumer,Groceries,Dairy,Standard,4,16.93,0.0,67.72,27.09
+ORD-2445,2023-09-15,west,Consumer,Furniture,Beds,Standard,6,221.61,0.0,1329.66,531.86
+ORD-2446,2024-07-15,North,Small Business,Furniture,Sofas,Standard,7,237.68,0.1,1497.38,499.12
+ORD-2447,2023-12-13,North,Consumer,Electronics,Phones,Standard,4,156.65,0.15,532.61,156.65
+ORD-2448,2024-06-13,West,Consumer,Electronics,Headphones,,7,221.44,0.1,1395.07,465.02
+ORD-2449,2024-05-26,West,Consumer,Groceries,Beverages,,5,15.26,0.0,76.3,30.52
+ORD-2450,2023-09-15,North,Consumer,Groceries,Bakery,Express,1,11.23,0.05,10.67,3.93
+ORD-2451,2024-05-27,South,Consumer,Electronics,Cameras,Standard,1,317.18,0.05,301.32,111.01
+ORD-2452,2024-11-20,East,Small Business,Clothing,Shirts,Express,5,42.81,0.05,203.35,74.92
+ORD-2453,2024-11-30,South,Consumer,Groceries,Dairy,Express,6,20.24,0.05,115.37,42.51
+ORD-2454,2024-06-05,South,Consumer,Electronics,Phones,Standard,7,311.28,0.05,2070.01,762.63
+ORD-2455,2024-08-07,North,Consumer,Clothing,Trousers,Standard,7,27.79,0.05,184.8,68.08
+ORD-2456,2023-03-25,West,Consumer,Groceries,Dairy,Standard,6,13.05,0.0,78.3,31.32
+ORD-2457,2024-09-16,West,Consumer,Toys,Board Games,Express,2,44.94,0.0,89.88,35.95
+ORD-2458,2023-12-13,West,Small Business,Toys,Action Figures,,2,22.84,0.0,45.68,18.27
+ORD-2459,2024-01-22,East,Consumer,Electronics,Phones,Standard,3,354.96,0.05,1011.64,372.71
+ORD-2460,2023-06-11,West,Consumer,Clothing,Shirts,Standard,2,43.24,0.15,73.51,21.62
+ORD-2461,2024-07-21,West,Consumer,Electronics,Cameras,Standard,6,240.22,0.0,1441.32,576.53
+ORD-2462,2024-09-09,South,Consumer,Toys,Dolls,Express,1,34.65,0.0,34.65,13.86
+ORD-2463,2024-08-05,North,Corporate,Electronics,Cameras,Standard,2,193.93,0.0,387.86,155.14
+ORD-2464,2024-10-12,North,Consumer,Groceries,Dairy,Standard,5,11.83,0.1,53.24,17.75
+ORD-2465,2023-07-17,East,Consumer,Groceries,Bakery,Standard,6,18.25,0.1,98.55,32.85
+ORD-2466,2023-07-21,North,Consumer,Furniture,Beds,Express,6,146.81,0.0,880.86,352.34
+ORD-2467,2023-04-14,East,Consumer,Toys,Action Figures,Express,5,29.98,0.0,149.9,59.96
+ORD-2468,2023-06-03,West,Consumer,Furniture,Sofas,Express,6,105.89,0.0,635.34,254.14
+ORD-2469,2023-05-23,West,Corporate,Toys,Dolls,Standard,7,27.25,0.0,190.75,76.3
+ORD-2470,2024-02-17,East,Consumer,Clothing,Shirts,Express,3,24.57,0.1,66.34,22.11
+ORD-2471,2023-06-06,West,Corporate,Electronics,Phones,Standard,5,297.77,0.0,1488.85,595.54
+ORD-2472,2023-05-02,North,Consumer,Groceries,Beverages,Standard,4,13.85,0.0,55.4,22.16
+ORD-2473,2023-07-13,East,Corporate,Groceries,Snacks,Standard,6,12.72,0.0,76.32,30.53
+ORD-2474,2024-03-14,East,Consumer,Clothing,Trousers,Express,4,51.05,0.0,204.2,81.68
+ORD-2475,2024-06-15,West,Corporate,Furniture,Chairs,Standard,1,246.3,0.15,209.36,61.58
+ORD-2476,2024-07-06,South,Consumer,Toys,Puzzles,Standard,6,30.52,0.0,183.12,73.25
+ORD-2477,2023-09-20,West,Consumer,Toys,Puzzles,Standard,2,34.87,0.05,66.25,24.41
+ORD-2478,2024-12-09,East,Corporate,Groceries,Bakery,Express,3,20.21,0.1,54.57,18.19
+ORD-2479,2024-12-04,North,Corporate,Toys,Puzzles,Standard,7,29.8,0.05,198.17,73.01
+ORD-2480,2023-10-05,North,Consumer,Furniture,Beds,Express,2,249.6,0.0,499.2,199.68
+ORD-2481,2024-03-04,South,Corporate,Furniture,Tables,Standard,4,165.16,0.1,594.58,198.2
+ORD-2482,2024-08-03,East,Corporate,Toys,Puzzles,Standard,6,45.73,0.05,260.66,96.03
+ORD-2483,2024-04-16,East,Consumer,Clothing,Trousers,Standard,2,15.91,0.1,28.64,9.55
+ORD-2484,2024-05-20,South,Corporate,Toys,Action Figures,Express,1,55.11,0.0,55.11,22.04
+ORD-2485,2024-05-26,East,Consumer,Furniture,Sofas,Standard,1,91.39,0.05,86.82,31.99
+ORD-2486,2023-06-29,South,Consumer,Groceries,Bakery,Standard,5,17.64,0.0,88.2,35.28
+ORD-2487,2023-11-27,West,Consumer,Toys,Board Games,Express,2,31.82,0.05,60.46,22.28
+ORD-2488,2023-08-24,East,Consumer,Furniture,Tables,Express,6,205.73,0.0,1234.38,493.75
+ORD-2489,2023-11-29,South,Corporate,Groceries,Snacks,Standard,6,14.84,0.0,89.04,35.62
+ORD-2490,2023-04-10,East,Consumer,Toys,Dolls,Standard,2,33.95,0.15,57.72,16.98
+ORD-2491,2023-08-08,West,Consumer,Furniture,Beds,Standard,1,176.01,0.0,176.01,70.4
+ORD-2492,2024-01-05,South,Corporate,Clothing,Shirts,Standard,4,31.36,0.0,125.44,50.18
+ORD-2493,2024-04-11,East,Consumer,Groceries,Snacks,Standard,2,18.18,0.15,30.91,9.09
+ORD-2494,2024-06-13,North,Consumer,Toys,Puzzles,Standard,7,32.22,0.1,202.99,67.67
+ORD-2495,2024-04-14,East,Consumer,Electronics,Laptops,Express,2,165.61,0.05,314.66,115.93
+ORD-2496,2023-11-04,South,Consumer,Groceries,Bakery,Express,5,19.36,0.05,91.96,33.88
+ORD-2497,2023-04-05,East,Consumer,Groceries,Dairy,Standard,6,16.06,0.1,86.72,28.9
+ORD-2498,2023-01-08,West,Consumer,Electronics,Headphones,Express,5,310.73,0.0,1553.65,621.46
+ORD-2499,2024-10-07,North,Consumer,Clothing,Jackets,Standard,7,49.8,0.0,348.6,139.44
+ORD-2500,2023-12-01,East,Small Business,Furniture,Sofas,Express,5,190.66,0.15,810.3,238.32
+ORD-2501,2024-05-01,East,Consumer,Furniture,Chairs,Standard,2,59.83,0.0,119.66,47.86
+ORD-2502,2023-05-31,East,Corporate,Furniture,Sofas,Standard,1,173.47,0.1,156.12,52.04
+ORD-2503,2023-05-27,North,Consumer,Groceries,Dairy,Standard,4,20.47,0.0,81.88,32.75
+ORD-2504,2023-11-29,South,Corporate,Groceries,Beverages,Standard,5,13.56,0.1,61.02,20.34
+ORD-2505,2024-11-04,West,Consumer,Electronics,Phones,Express,1,288.69,0.0,288.69,115.48
+ORD-2506,2024-04-21,South,Consumer,Electronics,Phones,Standard,5,86.91,0.0,434.55,173.82
+ORD-2507,2023-05-25,South,Corporate,Electronics,Cameras,Standard,7,143.68,0.0,1005.76,402.3
+ORD-2508,2023-06-02,East,Consumer,Toys,Action Figures,Standard,3,33.72,0.2,80.93,20.23
+ORD-2509,2024-06-10,west,Consumer,Groceries,Beverages,Express,5,13.95,0.1,62.78,20.93
+ORD-2510,2024-02-23,South,Consumer,Toys,Puzzles,Standard,3,18.66,0.05,53.18,19.59
+ORD-2511,2023-01-23,East,Corporate,Electronics,Phones,Standard,6,59.48,0.0,356.88,142.75
+ORD-2512,2023-11-03,West,Consumer,Groceries,Beverages,Standard,7,14.4,0.1,90.72,30.24
+ORD-2513,2023-07-26,East,Consumer,Toys,Puzzles,Standard,1,26.3,0.05,24.98,9.2
+ORD-2514,2023-10-16,North,Consumer,Groceries,Dairy,Standard,5,13.3,0.05,63.18,23.28
+ORD-2515,2023-12-22,West,Consumer,Toys,Puzzles,Express,5,41.09,0.15,174.63,51.36
+ORD-2516,2023-09-02,west,Consumer,Electronics,Phones,Express,3,194.9,0.15,497.0,146.18
+ORD-2517,2023-01-06,South,Consumer,Groceries,Snacks,Express,2,19.3,0.1,34.74,11.58
+ORD-2518,2023-05-31,South,Corporate,Groceries,Snacks,Standard,4,13.36,0.0,53.44,21.38
+ORD-2519,2023-10-14,West,Corporate,Electronics,Phones,Standard,2,401.88,0.0,803.76,321.5
+ORD-2520,2023-07-26,East,Consumer,Toys,Puzzles,Express,7,19.49,0.15,115.97,34.11
+ORD-2521,2023-07-21,East,Consumer,Electronics,Phones,Standard,7,310.81,0.05,2066.89,761.49
+ORD-2522,2023-07-02,South,Small Business,Groceries,Beverages,Standard,5,16.41,0.0,82.05,32.82
+ORD-2523,2023-11-30,North,Corporate,Clothing,Jackets,Standard,2,40.79,0.1,73.42,24.47
+ORD-2524,2024-01-27,West,Corporate,Clothing,Jackets,Standard,4,54.91,0.0,219.64,87.86
+ORD-2525,2023-05-12,North,Consumer,Toys,Dolls,Standard,5,44.56,0.0,222.8,89.12
+ORD-2526,2024-11-20,West,Consumer,Furniture,Beds,Express,7,200.24,0.05,1331.6,490.59
+ORD-2527,2024-03-15,East,Small Business,Electronics,Phones,Same Day,4,267.87,0.1,964.33,321.44
+ORD-2528,2024-11-04,East,Consumer,Toys,Dolls,Standard,6,29.1,0.05,165.87,61.11
+ORD-2529,2023-07-08,South,Consumer,Furniture,Tables,Express,7,146.64,0.05,975.16,359.27
+ORD-2530,2024-11-15,North,Corporate,Clothing,Shoes,Standard,5,52.1,0.05,247.48,91.18
+ORD-2531,2024-12-07,North,Consumer,Clothing,Jackets,Express,2,24.52,0.1,44.14,14.72
+ORD-2532,2023-09-19,North,Consumer,Clothing,Shoes,Standard,6,26.36,0.05,150.25,55.35
+ORD-2533,2024-02-09,South,Small Business,Clothing,Shoes,Standard,7,48.45,0.2,271.32,67.83
+ORD-2534,2024-12-21,North,Consumer,Toys,Action Figures,Express,1,21.46,0.05,20.39,7.51
+ORD-2535,2023-02-05,North,Consumer,Groceries,Dairy,Same Day,6,10.76,0.05,61.33,22.59
+ORD-2536,2023-01-13,West,Corporate,Furniture,Beds,Standard,3,169.96,0.05,484.39,178.46
+ORD-2537,2024-06-02,South,Consumer,Furniture,Tables,Same Day,6,237.79,0.05,1355.4,499.36
+ORD-2538,2023-10-15,East,Corporate,Furniture,Tables,Standard,5,107.82,0.0,539.1,215.64
+ORD-2539,2023-08-20,South,Consumer,Toys,Puzzles,Standard,1,34.94,0.1,31.45,10.49
+ORD-2540,2024-10-08,North,Consumer,Electronics,Laptops,Standard,1,149.56,0.2,119.65,29.91
+ORD-2541,2024-10-09,South,Consumer,Groceries,Dairy,Standard,7,19.02,0.0,133.14,53.26
+ORD-2542,2023-04-16,North,Corporate,Clothing,Trousers,Express,1,14.92,0.1,13.43,4.48
+ORD-2543,2024-01-04,North,Corporate,Furniture,Sofas,Standard,2,144.65,0.0,289.3,115.72
+ORD-2544,2023-02-28,South,Consumer,Clothing,Shirts,Express,4,50.53,0.1,181.91,60.64
+ORD-2545,2023-05-25,South,Consumer,Groceries,Beverages,Standard,7,10.02,0.1,63.13,21.05
+ORD-2546,2024-05-20,West,Consumer,Furniture,Beds,Express,3,204.86,0.05,583.85,215.1
+ORD-2547,2023-01-09,South,Corporate,Toys,Action Figures,Standard,4,28.74,0.0,114.96,45.98
+ORD-2548,2024-11-21,West,Consumer,Clothing,Trousers,Standard,6,41.64,0.0,249.84,99.94
+ORD-2549,2023-08-22,East,Consumer,Furniture,Beds,,3,192.4,0.1,519.48,173.16
+ORD-2550,2023-06-10,North,Small Business,Electronics,Phones,Same Day,2,305.23,0.0,610.46,244.18
+ORD-2551,2024-04-12,South,Small Business,Electronics,Laptops,Express,2,202.19,0.0,404.38,161.75
+ORD-2552,2023-09-30,South,Corporate,Furniture,Tables,Standard,4,147.24,0.05,559.51,206.13
+ORD-2553,2023-10-14,North,Consumer,Furniture,Sofas,Express,5,178.67,0.05,848.68,312.67
+ORD-2554,2023-01-23,East,Corporate,Groceries,Dairy,Standard,7,19.52,0.05,129.81,47.83
+ORD-2555,2024-06-13,East,Corporate,Electronics,Laptops,Standard,5,239.89,0.05,1139.48,419.81
+ORD-2556,2023-11-25,South,Consumer,Electronics,Cameras,Standard,7,122.45,0.05,814.29,300.0
+ORD-2557,2024-01-13,East,Corporate,Groceries,Snacks,Standard,6,11.69,0.05,66.63,24.55
+ORD-2558,2023-09-19,East,Consumer,Furniture,Chairs,Standard,6,124.42,0.0,746.52,298.61
+ORD-2559,2024-08-18,North,Consumer,Electronics,Headphones,Express,6,359.34,0.15,1832.63,539.01
+ORD-2560,2023-11-15,West,Small Business,Furniture,Beds,Standard,7,160.88,0.05,1069.85,394.15
+ORD-2561,2023-06-01,East,Consumer,Clothing,Shirts,Standard,5,31.89,0.1,143.5,47.83
+ORD-2562,2023-02-01,West,Small Business,Electronics,Phones,Standard,2,119.16,0.05,226.4,83.41
+ORD-2563,2023-06-16,North,Consumer,Groceries,Bakery,Standard,7,11.89,0.0,83.23,33.29
+ORD-2564,2023-11-29,south,Small Business,Furniture,Beds,Standard,4,274.56,0.05,1043.33,384.39
+ORD-2565,2024-08-05,North,Corporate,Groceries,Beverages,Express,4,12.4,0.0,49.6,19.84
+ORD-2566,2023-04-27,East,Small Business,Clothing,Trousers,Express,4,45.46,0.05,172.75,63.65
+ORD-2567,2023-06-06,North,Corporate,Electronics,Laptops,Standard,4,133.94,0.2,428.61,107.15
+ORD-2568,2023-11-03,South,Consumer,Electronics,Laptops,Express,6,328.55,0.1,1774.17,591.39
+ORD-2569,2023-06-23,North,Consumer,Electronics,Laptops,Express,7,252.91,0.05,1681.85,619.63
+ORD-2570,2023-06-15,West,Consumer,Clothing,Shirts,Standard,5,46.69,0.15,198.43,58.36
+ORD-2571,2023-08-16,West,Corporate,Toys,Dolls,Express,2,35.09,0.1,63.16,21.05
+ORD-2572,2024-03-02,West,Consumer,Electronics,Phones,Standard,3,203.16,0.15,518.06,152.37
+ORD-2573,2024-09-11,West,Corporate,Furniture,Sofas,Standard,1,243.69,0.0,243.69,97.48
+ORD-2574,2023-07-05,West,Consumer,Groceries,Snacks,Standard,1,15.32,0.05,14.55,5.36
+ORD-2575,2023-07-02,West,Corporate,Electronics,Phones,Express,7,299.59,0.0,2097.13,838.85
+ORD-2576,2024-09-30,West,Consumer,Toys,Dolls,Standard,7,22.67,0.05,150.76,55.55
+ORD-2577,2023-09-17,South,Consumer,Clothing,Shirts,Standard,7,35.79,0.15,212.95,62.63
+ORD-2578,2024-11-16,East,Corporate,Furniture,Sofas,Standard,3,84.95,0.0,254.85,101.94
+ORD-2579,2024-06-25,East,Corporate,Furniture,Sofas,Express,7,215.14,0.0,1505.98,602.39
+ORD-2580,2024-10-15,East,Corporate,Toys,Dolls,Standard,1,27.39,0.1,24.65,8.22
+ORD-2581,2024-12-04,South,Consumer,Groceries,Dairy,Express,6,18.18,0.1,98.17,32.72
+ORD-2582,2023-01-16,East,Corporate,Electronics,Headphones,Standard,6,204.9,0.0,1229.4,491.76
+ORD-2583,2023-05-29,West,Consumer,Clothing,Shoes,Standard,1,54.02,0.0,54.02,21.61
+ORD-2584,2023-03-27,East,Consumer,Furniture,Beds,Express,2,254.01,0.1,457.22,152.41
+ORD-2585,2023-10-15,West,Consumer,Electronics,Cameras,Same Day,2,393.43,0.0,786.86,314.74
+ORD-2586,2023-09-05,North,Consumer,Clothing,Shoes,Express,2,52.47,0.05,99.69,36.73
+ORD-2587,2023-02-01,West,Consumer,Clothing,Shoes,,2,49.04,0.05,93.18,34.33
+ORD-2588,2023-04-24,South,Consumer,Clothing,Shirts,Standard,1,32.4,0.2,25.92,6.48
+ORD-2589,2024-01-08,West,Small Business,Electronics,Headphones,Same Day,3,242.47,0.15,618.3,181.85
+ORD-2590,2024-01-15,East,Corporate,Furniture,Tables,Same Day,1,197.5,0.15,167.88,49.38
+ORD-2591,2024-11-20,South,Consumer,Furniture,Tables,Express,2,207.1,0.0,414.2,165.68
+ORD-2592,2024-09-28,South,Consumer,Furniture,Tables,Express,6,226.16,0.0,1356.96,542.78
+ORD-2593,2023-01-25,South,Corporate,Electronics,Headphones,Standard,5,205.38,0.1,924.21,308.07
+ORD-2594,2024-06-15,East,Consumer,Electronics,Headphones,Standard,7,135.58,0.0,949.06,379.62
+ORD-2595,2023-09-12,West,Consumer,Furniture,Chairs,Standard,1,313.45,0.05,297.78,109.71
+ORD-2596,2024-10-18,South,Consumer,Groceries,Beverages,Standard,2,11.73,0.05,22.29,8.21
+ORD-2597,2024-12-16,North,Corporate,Furniture,Tables,Standard,4,170.99,0.05,649.76,239.38
+ORD-2598,2024-11-23,East,Consumer,Toys,Puzzles,Standard,7,29.91,0.0,209.37,83.75
+ORD-2599,2024-04-13,East,Corporate,Furniture,Chairs,Express,5,120.75,0.1,543.38,181.13
+ORD-2600,2024-12-23,South,Small Business,Electronics,Phones,Express,5,256.53,0.05,1218.52,448.93
+ORD-2601,2024-03-30,West,Corporate,Electronics,Phones,Express,6,174.42,0.15,889.54,261.63
+ORD-2602,2023-12-31,East,Consumer,Clothing,Shirts,Standard,4,23.88,0.15,81.19,23.88
+ORD-2603,2024-05-22,North,Corporate,Electronics,Headphones,Same Day,2,305.59,0.0,611.18,244.47
+ORD-2604,2023-08-27,North,Consumer,Furniture,Tables,Standard,5,109.51,0.05,520.17,191.64
+ORD-2605,2023-10-03,North,Consumer,Groceries,Bakery,Express,4,12.58,0.05,47.8,17.61
+ORD-2606,2023-11-16,North,Corporate,Groceries,Snacks,Express,1,17.64,0.15,14.99,4.41
+ORD-2607,2024-06-06,South,Small Business,Furniture,Tables,Express,4,264.51,0.0,1058.04,423.22
+ORD-2608,2024-04-15,South,Consumer,Toys,Dolls,Express,2,25.63,0.0,51.26,20.5
+ORD-2609,2023-08-01,West,Consumer,Groceries,Bakery,Standard,3,12.15,0.05,34.63,12.76
+ORD-2610,2023-03-28,North,Consumer,Toys,Action Figures,Standard,7,34.49,0.05,229.36,84.5
+ORD-2611,2024-09-09,South,Consumer,Furniture,Tables,Standard,7,161.67,0.05,1075.11,396.1
+ORD-2612,2023-02-15,North,Consumer,Furniture,Chairs,Express,1,77.02,0.2,61.62,15.41
+ORD-2613,2023-10-23,East,Corporate,Clothing,Trousers,Standard,7,19.68,0.15,117.1,34.44
+ORD-2614,2024-10-01,West,Consumer,Toys,Board Games,Standard,6,10.55,0.0,63.3,25.32
+ORD-2615,2023-03-30,North,Corporate,Toys,Action Figures,Standard,1,34.34,0.1,30.91,10.31
+ORD-2616,2023-06-01,West,Consumer,Clothing,Trousers,Express,4,20.17,0.1,72.61,24.2
+ORD-2617,2024-03-18,East,Consumer,Electronics,Phones,Standard,4,174.84,0.05,664.39,244.77
+ORD-2618,2024-11-14,West,Consumer,Groceries,Snacks,Express,4,13.68,0.05,51.98,19.15
+ORD-2619,2023-04-16,North,Consumer,Furniture,Sofas,,1,155.95,0.05,148.15,54.58
+ORD-2620,2023-05-29,East,Consumer,Groceries,Snacks,Standard,3,17.54,0.2,42.1,10.53
+ORD-2621,2024-09-28,East,Small Business,Groceries,Beverages,Same Day,4,19.2,0.05,72.96,26.88
+ORD-2622,2024-01-11,North,Corporate,Groceries,Snacks,Express,3,10.66,0.15,27.18,7.99
+ORD-2623,2023-02-17,South,Corporate,Groceries,Dairy,Express,5,16.36,0.0,81.8,32.72
+ORD-2624,2024-01-23,East,Consumer,Toys,Board Games,Standard,3,15.72,0.1,42.44,14.14
+ORD-2625,2024-11-02,east,Consumer,Toys,Board Games,Express,2,28.13,0.1,50.63,16.87
+ORD-2626,2023-07-21,West,Consumer,Furniture,Tables,Standard,5,152.66,0.0,763.3,305.32
+ORD-2627,2024-09-07,South,Corporate,Toys,Board Games,Standard,6,38.96,0.1,210.38,70.12
+ORD-2628,2024-05-29,North,Consumer,Groceries,Beverages,Express,5,13.07,0.1,58.82,19.61
+ORD-2629,2024-08-21,East,Consumer,Electronics,Cameras,Standard,7,240.13,0.05,1596.86,588.31
+ORD-2630,2023-08-04,South,Consumer,Electronics,Phones,Express,3,226.43,0.0,679.29,271.72
+ORD-2631,2023-07-17,West,Consumer,Electronics,Phones,Standard,5,319.2,0.0,1596.0,638.4
+ORD-2632,2023-08-11,West,Consumer,Groceries,Dairy,Standard,7,13.68,0.0,95.76,38.3
+ORD-2633,2023-05-05,South,Small Business,Furniture,Chairs,Standard,7,177.08,0.05,1177.58,433.84
+ORD-2634,2024-06-17,South,Small Business,Electronics,Cameras,Express,1,216.88,0.0,216.88,86.75
+ORD-2635,2023-12-28,North,Corporate,Furniture,Beds,Standard,1,192.64,0.0,192.64,77.06
+ORD-2636,2023-07-26,West,Consumer,Furniture,Tables,Express,7,257.42,0.1,1621.75,540.59
+ORD-2637,2023-07-22,West,Consumer,Clothing,Shoes,Standard,6,17.68,0.0,106.08,42.43
+ORD-2638,2023-06-08,West,Corporate,Electronics,Laptops,Standard,4,259.05,0.1,932.58,310.86
+ORD-2639,2024-06-25,South,Corporate,Furniture,Sofas,Standard,3,236.38,0.05,673.68,248.2
+ORD-2640,2024-07-08,West,Corporate,Groceries,Snacks,Standard,3,16.3,0.1,44.01,14.67
+ORD-2641,2023-05-18,South,Consumer,Groceries,Snacks,Express,1,11.38,0.0,11.38,4.55
+ORD-2642,2024-02-15,North,Consumer,Furniture,Tables,Standard,6,129.11,0.05,735.93,271.13
+ORD-2643,2024-09-18,East,Small Business,Clothing,Shirts,Express,6,59.98,0.05,341.89,125.96
+ORD-2644,2023-11-25,South,Consumer,Toys,Dolls,Express,3,28.19,0.0,84.57,33.83
+ORD-2645,2023-04-27,South,Corporate,Furniture,Chairs,Express,3,158.15,0.0,474.45,189.78
+ORD-2646,2024-01-10,North,Consumer,Clothing,Shoes,Standard,7,44.47,0.0,311.29,124.52
+ORD-2647,2024-06-13,North,Consumer,Groceries,Beverages,Standard,7,17.57,0.1,110.69,36.9
+ORD-2648,2023-10-19,North,Small Business,Electronics,Headphones,Same Day,2,294.7,0.0,589.4,235.76
+ORD-2649,2023-04-30,South,Corporate,Clothing,Shoes,Express,3,43.74,0.05,124.66,45.93
+ORD-2650,2023-07-09,East,Consumer,Electronics,Headphones,Same Day,2,217.72,0.05,413.67,152.41
+ORD-2651,2023-07-04,West,Small Business,Furniture,Tables,Express,3,288.46,0.1,778.84,259.61
+ORD-2652,2023-10-28,East,Consumer,Electronics,Laptops,Standard,5,362.98,0.05,1724.16,635.22
+ORD-2653,2023-03-10,West,Consumer,Electronics,Laptops,Standard,6,230.32,0.05,1312.82,483.67
+ORD-2654,2024-06-16,North,Consumer,Clothing,Trousers,Standard,2,46.53,0.0,93.06,37.22
+ORD-2655,2023-05-11,North,Corporate,Groceries,Beverages,,6,17.04,0.1,92.02,30.68
+ORD-2656,2024-03-09,East,Corporate,Electronics,Laptops,Standard,7,223.38,0.0,1563.66,625.46
+ORD-2657,2024-05-24,South,Consumer,Clothing,Shirts,Express,1,69.53,0.1,62.58,20.86
+ORD-2658,2024-06-28,East,Small Business,Groceries,Snacks,Standard,3,18.64,0.0,55.92,22.37
+ORD-2659,2024-08-27,North,Consumer,Toys,Dolls,Standard,5,29.65,0.15,126.01,37.06
+ORD-2660,2024-07-28,North,Corporate,Clothing,Trousers,Standard,2,29.64,0.0,59.28,23.71
+ORD-2661,2024-05-27,South,Consumer,Electronics,Laptops,Standard,1,403.01,0.05,382.86,141.05
+ORD-2662,2023-03-08,West,Consumer,Electronics,Headphones,Standard,4,122.41,0.0,489.64,195.86
+ORD-2663,2023-04-25,South,Consumer,Groceries,Snacks,Standard,4,16.68,0.1,60.05,20.02
+ORD-2664,2023-10-21,South,Small Business,Toys,Action Figures,Standard,7,28.54,0.1,179.8,59.93
+ORD-2665,2023-03-06,North,Consumer,Electronics,Headphones,Express,6,233.5,0.0,1401.0,560.4
+ORD-2666,2024-01-01,east,Corporate,Groceries,Dairy,Same Day,7,21.53,0.1,135.64,45.21
+ORD-2667,2023-04-03,North,Consumer,Groceries,Snacks,Express,1,12.79,0.0,12.79,5.12
+ORD-2668,2024-08-20,North,Small Business,Furniture,Tables,Express,1,124.53,0.1,112.08,37.36
+ORD-2669,2024-08-09,East,Corporate,Clothing,Shoes,Express,4,20.79,0.0,83.16,33.26
+ORD-2670,2023-09-17,North,Consumer,Furniture,Tables,Standard,5,167.74,0.2,670.96,167.74
+ORD-2671,2024-05-04,South,Corporate,Clothing,Trousers,Standard,3,51.03,0.0,153.09,61.24
+ORD-2672,2024-03-28,South,Consumer,Clothing,Trousers,Express,4,37.05,0.0,148.2,59.28
+ORD-2673,2023-11-05,South,Corporate,Furniture,Beds,Standard,6,204.12,0.0,1224.72,489.89
+ORD-2674,2024-02-04,East,Consumer,Toys,Puzzles,Standard,7,29.41,0.15,174.99,51.47
+ORD-2675,2023-10-05,South,Consumer,Groceries,Bakery,Express,6,17.02,0.0,102.12,40.85
+ORD-2676,2023-12-09,East,Small Business,Electronics,Cameras,Same Day,7,193.7,0.05,1288.1,474.56
+ORD-2677,2023-08-14,North,Corporate,Clothing,Jackets,Standard,3,36.41,0.15,92.85,27.31
+ORD-2678,2023-09-12,West,Corporate,Clothing,Shoes,Standard,2,43.11,0.05,81.91,30.18
+ORD-2679,2024-11-22,South,Corporate,Furniture,Sofas,Standard,2,98.49,0.1,177.28,59.09
+ORD-2680,2024-09-08,West,Consumer,Groceries,Bakery,Express,1,16.27,0.05,15.46,5.7
+ORD-2681,2023-11-15,North,Consumer,Clothing,Shirts,Standard,1,36.44,0.0,36.44,14.58
+ORD-2682,2024-04-18,South,Consumer,Groceries,Dairy,Same Day,4,18.16,0.0,72.64,29.06
+ORD-2683,2024-12-28,north,Corporate,Electronics,Cameras,Express,1,116.97,0.1,105.27,35.09
+ORD-2684,2024-03-02,South,Small Business,Electronics,Phones,,1,340.18,0.0,340.18,136.07
+ORD-2685,2023-02-17,East,Corporate,Toys,Action Figures,Standard,2,14.88,0.2,23.81,5.95
+ORD-2686,2024-07-07,East,Consumer,Toys,Puzzles,Standard,6,15.12,0.2,72.58,18.15
+ORD-2687,2023-03-23,West,Consumer,Electronics,Headphones,Standard,1,285.21,0.1,256.69,85.56
+ORD-2688,2024-12-01,North,Small Business,Electronics,Phones,Express,2,286.42,0.05,544.2,200.5
+ORD-2689,2024-04-25,East,Corporate,Furniture,Tables,Standard,5,92.71,0.15,394.02,115.89
+ORD-2690,2024-12-29,East,Consumer,Groceries,Bakery,Standard,2,12.47,0.0,24.94,9.98
+ORD-2691,2024-01-23,East,Consumer,Toys,Action Figures,Standard,1,23.68,0.1,21.31,7.1
+ORD-2692,2023-08-17,South,Corporate,Furniture,Beds,,3,255.46,0.0,766.38,306.55
+ORD-2693,2024-01-17,South,Consumer,Electronics,Headphones,Standard,7,274.31,0.15,1632.14,480.04
+ORD-2694,2023-05-03,East,Consumer,Clothing,Shoes,Standard,4,41.87,0.05,159.11,58.62
+ORD-2695,2024-11-29,East,Consumer,Toys,Action Figures,Express,4,20.08,0.05,76.3,28.11
+ORD-2696,2023-05-03,South,Consumer,Furniture,Sofas,Standard,6,156.41,0.0,938.46,375.38
+ORD-2697,2023-01-26,North,Consumer,Electronics,Phones,Standard,6,247.09,0.0,1482.54,593.02
+ORD-2698,2024-07-21,North,Corporate,Groceries,Beverages,Standard,3,17.72,0.0,53.16,21.26
+ORD-2699,2023-07-23,South,Consumer,Toys,Puzzles,Same Day,7,34.25,0.05,227.76,83.91
+ORD-2700,2024-11-08,East,Consumer,Toys,Board Games,Standard,7,21.66,0.1,136.46,45.49
+ORD-2701,2023-03-19,South,Small Business,Toys,Dolls,Express,1,20.57,0.0,20.57,8.23
+ORD-2702,2023-04-21,North,Consumer,Clothing,Jackets,Same Day,1,26.53,0.0,26.53,10.61
+ORD-2703,2024-07-06,East,Consumer,Toys,Board Games,Standard,5,23.28,0.0,116.4,46.56
+ORD-2704,2024-11-15,North,Consumer,Groceries,Bakery,Standard,5,13.0,0.0,65.0,26.0
+ORD-2705,2024-10-14,West,Consumer,Groceries,Dairy,Standard,7,13.78,0.1,86.81,28.93
+ORD-2706,2023-01-26,north,Corporate,Furniture,Sofas,Express,5,255.78,0.05,1214.96,447.62
+ORD-2707,2024-01-22,South,Corporate,Clothing,Trousers,Express,5,45.2,0.15,192.1,56.5
+ORD-2708,2024-02-26,North,Consumer,Electronics,Headphones,Standard,3,156.23,0.0,468.69,187.48
+ORD-2709,2023-06-04,North,Consumer,Clothing,Shoes,Standard,7,40.17,0.1,253.07,84.36
+ORD-2710,2023-06-29,West,Corporate,Clothing,Jackets,Express,5,64.41,0.15,273.74,80.51
+ORD-2711,2023-06-19,South,Corporate,Toys,Puzzles,Standard,7,33.7,0.1,212.31,70.77
+ORD-2712,2023-02-17,West,Consumer,Groceries,Snacks,Standard,1,10.73,0.05,10.19,3.75
+ORD-2713,2024-10-18,West,Small Business,Electronics,Phones,Express,3,228.08,0.0,684.24,273.7
+ORD-2714,2024-08-28,South,Small Business,Electronics,Cameras,Standard,1,271.62,0.1,244.46,81.49
+ORD-2715,2023-09-22,East,Consumer,Groceries,Bakery,Standard,7,20.54,0.0,143.78,57.51
+ORD-2716,2024-05-27,North,Corporate,Toys,Action Figures,Standard,6,45.98,0.0,275.88,110.35
+ORD-2717,2023-08-04,North,Consumer,Toys,Action Figures,Express,5,32.77,0.0,163.85,65.54
+ORD-2718,2023-03-18,South,Consumer,Toys,Dolls,Express,1,28.29,0.0,28.29,11.32
+ORD-2719,2023-06-10,South,Consumer,Groceries,Dairy,Express,5,18.38,0.05,87.3,32.16
+ORD-2720,2023-11-04,East,Corporate,Furniture,Sofas,Express,4,142.42,0.0,569.68,227.87
+ORD-2721,2023-02-12,South,Consumer,Electronics,Phones,Standard,2,399.43,0.0,798.86,319.54
+ORD-2722,2023-10-21,West,Consumer,Electronics,Phones,Express,5,325.06,0.0,1625.3,650.12
+ORD-2723,2023-06-12,East,Consumer,Toys,Board Games,Express,3,22.96,0.0,68.88,27.55
+ORD-2724,2023-04-20,East,Consumer,Groceries,Bakery,Same Day,4,23.13,0.05,87.89,32.38
+ORD-2725,2024-12-24,East,Corporate,Furniture,Beds,Standard,2,209.88,0.1,377.78,125.92
+ORD-2726,2023-03-15,South,Corporate,Furniture,Sofas,Standard,6,187.08,0.0,1122.48,448.99
+ORD-2727,2023-07-21,South,Consumer,Toys,Board Games,Standard,1,25.17,0.05,23.91,8.81
+ORD-2728,2023-12-12,North,Consumer,Groceries,Snacks,Same Day,3,16.24,0.1,43.85,14.62
+ORD-2729,2024-08-24,West,Consumer,Furniture,Chairs,Standard,3,210.57,0.05,600.12,221.09
+ORD-2730,2023-04-15,West,Consumer,Clothing,Shoes,Express,1,58.3,0.15,49.56,14.58
+ORD-2731,2024-07-07,East,Consumer,Groceries,Snacks,Standard,4,16.65,0.1,59.94,19.98
+ORD-2732,2023-11-21,North,Corporate,Toys,Dolls,Express,1,31.57,0.0,31.57,12.63
+ORD-2733,2023-06-14,North,Consumer,Toys,Action Figures,Standard,3,48.73,0.05,138.88,51.17
+ORD-2734,2023-05-09,South,Corporate,Electronics,Headphones,Standard,6,337.88,0.05,1925.92,709.55
+ORD-2735,2024-05-12,South,Small Business,Furniture,Tables,Express,5,202.31,0.0,1011.55,404.62
+ORD-2736,2023-09-03,East,Consumer,Toys,Dolls,Standard,4,29.72,0.05,112.94,41.61
+ORD-2737,2023-12-31,North,Corporate,Electronics,Laptops,Standard,5,275.06,0.2,1100.24,275.06
+ORD-2738,2024-10-02,East,Corporate,Toys,Puzzles,Standard,5,23.96,0.1,107.82,35.94
+ORD-2739,2023-07-05,North,Consumer,Clothing,Trousers,Standard,6,41.07,0.1,221.78,73.93
+ORD-2740,2024-07-10,East,Consumer,Furniture,Sofas,Standard,6,178.33,0.05,1016.48,374.49
+ORD-2741,2023-08-12,West,Small Business,Electronics,Laptops,Same Day,6,259.04,0.1,1398.82,466.28
+ORD-2742,2023-11-02,West,Consumer,Groceries,Beverages,Standard,7,13.06,0.05,86.85,32.0
+ORD-2743,2023-03-08,South,Consumer,Groceries,Dairy,Standard,4,9.99,0.05,37.96,13.98
+ORD-2744,2023-02-18,West,Consumer,Clothing,Shirts,Standard,5,42.06,0.05,199.78,73.6
+ORD-2745,2023-01-30,East,Corporate,Electronics,Headphones,Standard,3,243.58,0.0,730.74,292.3
+ORD-2746,2023-12-24,East,Corporate,Clothing,Shoes,Express,4,34.33,0.0,137.32,54.93
+ORD-2747,2024-06-16,East,Consumer,Clothing,Jackets,Standard,1,44.43,0.0,44.43,17.77
+ORD-2748,2023-12-12,East,Consumer,Groceries,Bakery,Express,2,17.5,0.0,35.0,14.0
+ORD-2749,2023-11-24,North,Corporate,Furniture,Tables,Same Day,1,287.24,0.0,287.24,114.9
+ORD-2750,2023-07-21,South,Small Business,Electronics,Headphones,Express,7,267.52,0.1,1685.38,561.8
+ORD-2751,2024-09-15,South,Consumer,Groceries,Dairy,Express,3,24.53,0.15,62.55,18.4
+ORD-2752,2024-01-29,East,Consumer,Toys,Action Figures,Standard,1,43.09,0.05,40.94,15.09
+ORD-2753,2024-12-12,West,Small Business,Groceries,Snacks,Same Day,2,23.46,0.1,42.23,14.08
+ORD-2754,2023-12-12,West,Consumer,Clothing,Jackets,Standard,5,41.95,0.0,209.75,83.9
+ORD-2755,2023-02-22,East,Corporate,Furniture,Tables,Standard,4,201.35,0.0,805.4,322.16
+ORD-2756,2023-01-24,South,Corporate,Electronics,Phones,Standard,6,343.48,0.0,2060.88,824.35
+ORD-2757,2024-03-13,West,Consumer,Groceries,Beverages,Standard,7,9.26,0.1,58.34,19.45
+ORD-2758,2023-04-12,West,Consumer,Groceries,Dairy,Standard,3,16.53,0.05,47.11,17.36
+ORD-2759,2023-03-11,West,Consumer,Toys,Dolls,Standard,7,27.73,0.2,155.29,38.82
+ORD-2760,2023-10-25,North,Consumer,Groceries,Beverages,Same Day,7,10.89,0.05,72.42,26.68
+ORD-2761,2023-01-03,East,Small Business,Toys,Puzzles,Standard,5,33.33,0.1,149.98,49.99
+ORD-2762,2023-08-08,West,Corporate,Toys,Action Figures,Standard,4,22.71,0.0,90.84,36.34
+ORD-2763,2023-09-08,South,Consumer,Electronics,Headphones,Express,1,293.75,0.05,279.06,102.81
+ORD-2764,2024-11-05,East,Corporate,Furniture,Tables,Standard,1,179.45,0.2,143.56,35.89
+ORD-2765,2024-08-01,South,Consumer,Groceries,Bakery,Standard,6,16.27,0.2,78.1,19.53
+ORD-2766,2024-04-17,West,Corporate,Furniture,Beds,Standard,4,165.03,0.2,528.1,132.03
+ORD-2767,2024-09-24,West,Consumer,Clothing,Jackets,Standard,5,53.53,0.05,254.27,93.68
+ORD-2768,2023-11-26,East,Corporate,Furniture,Sofas,Standard,1,150.5,0.1,135.45,45.15
+ORD-2769,2023-05-09,East,Consumer,Electronics,Phones,Express,5,210.97,0.05,1002.11,369.2
+ORD-2770,2023-02-02,East,Corporate,Groceries,Dairy,Same Day,7,13.84,0.0,96.88,38.75
+ORD-2771,2023-03-30,South,Corporate,Furniture,Tables,Standard,5,243.63,0.05,1157.24,426.35
+ORD-2772,2024-08-01,West,Corporate,Furniture,Sofas,Standard,6,205.06,0.1,1107.32,369.1
+ORD-2773,2023-07-10,West,Small Business,Toys,Dolls,Standard,2,16.3,0.1,29.34,9.78
+ORD-2774,2023-05-14,West,Consumer,Clothing,Jackets,Standard,2,52.31,0.05,99.39,36.62
+ORD-2775,2023-08-16,East,Corporate,Toys,Puzzles,Express,6,30.71,0.0,184.26,73.7
+ORD-2776,2024-10-08,East,Small Business,Groceries,Beverages,Express,6,18.95,0.0,113.7,45.48
+ORD-2777,2024-08-27,South,Consumer,Groceries,Beverages,Standard,6,12.52,0.2,60.1,15.03
+ORD-2778,2024-08-25,North,Consumer,Groceries,Dairy,Express,2,14.32,0.0,28.64,11.46
+ORD-2779,2024-03-12,North,Corporate,Electronics,Cameras,Standard,3,215.61,0.1,582.15,194.05
+ORD-2780,2023-03-18,South,Consumer,Electronics,Phones,Standard,5,398.62,0.05,1893.44,697.58
+ORD-2781,2023-05-22,West,Corporate,Groceries,Beverages,Same Day,7,8.07,0.0,56.49,22.6
+ORD-2782,2024-07-31,North,Consumer,Electronics,Headphones,Standard,4,228.41,0.0,913.64,365.46
+ORD-2783,2023-09-11,South,Consumer,Furniture,Beds,Standard,1,233.91,0.2,187.13,46.78
+ORD-2784,2024-03-29,West,Consumer,Toys,Puzzles,Standard,6,11.15,0.1,60.21,20.07
+ORD-2785,2024-04-26,West,Corporate,Furniture,Chairs,Express,7,160.48,0.1,1011.02,337.0
+ORD-2786,2023-06-21,East,Consumer,Toys,Action Figures,Standard,6,50.14,0.15,255.71,75.21
+ORD-2787,2023-11-20,South,Consumer,Electronics,Cameras,Standard,2,84.66,0.05,160.85,59.26
+ORD-2788,2024-03-23,South,Small Business,Toys,Puzzles,Standard,7,42.78,0.05,284.49,104.81
+ORD-2789,2023-04-25,north,Consumer,Toys,Dolls,Express,5,48.27,0.05,229.28,84.47
+ORD-2790,2024-11-25,West,Consumer,Toys,Action Figures,Standard,5,39.47,0.05,187.48,69.07
+ORD-2791,2023-08-09,West,Small Business,Electronics,Headphones,Same Day,3,265.6,0.0,796.8,318.72
+ORD-2792,2024-03-23,South,Consumer,Groceries,Snacks,Standard,5,11.53,0.05,54.77,20.18
+ORD-2793,2023-06-15,South,Consumer,Electronics,Headphones,Standard,6,347.71,0.1,1877.63,625.87
+ORD-2794,2024-07-20,South,Consumer,Toys,Dolls,Express,2,23.93,0.05,45.47,16.75
+ORD-2795,2024-11-22,South,Corporate,Electronics,Headphones,Standard,4,265.79,0.0,1063.16,425.26
+ORD-2796,2023-01-10,South,Consumer,Furniture,Tables,Standard,2,208.45,0.0,416.9,166.76
+ORD-2797,2024-10-24,North,Consumer,Groceries,Beverages,Express,1,7.51,0.0,7.51,3.0
+ORD-2798,2023-10-17,North,Consumer,Electronics,Phones,Express,6,253.61,0.0,1521.66,608.66
+ORD-2799,2023-01-17,North,Corporate,Furniture,Beds,Standard,1,218.91,0.0,218.91,87.56
+ORD-2800,2024-01-26,West,Small Business,Groceries,Bakery,Standard,3,14.62,0.1,39.47,13.15
+ORD-2801,2023-07-04,South,Small Business,Groceries,Dairy,Standard,5,12.93,0.05,61.42,22.63
+ORD-2802,2023-12-16,West,Small Business,Groceries,Beverages,Standard,3,20.03,0.05,57.09,21.04
+ORD-2803,2024-09-27,North,Consumer,Toys,Board Games,Standard,1,27.66,0.05,26.28,9.68
+ORD-2804,2024-10-21,West,Small Business,Toys,Board Games,Standard,2,21.13,0.15,35.92,10.56
+ORD-2805,2024-01-19,South,Corporate,Furniture,Tables,Same Day,7,138.22,0.1,870.79,290.27
+ORD-2806,2024-08-14,South,Consumer,Furniture,Chairs,Standard,7,247.35,0.0,1731.45,692.58
+ORD-2807,2024-05-30,East,Consumer,Furniture,Chairs,Standard,4,187.32,0.05,711.82,262.25
+ORD-2808,2024-09-15,North,Consumer,Toys,Dolls,Standard,5,29.14,0.1,131.13,43.71
+ORD-2809,2024-11-18,North,Corporate,Electronics,Laptops,Same Day,2,144.09,0.1,259.36,86.45
+ORD-2810,2023-10-18,North,Corporate,Clothing,Jackets,Express,3,63.4,0.05,180.69,66.57
+ORD-2811,2024-02-05,North,Corporate,Electronics,Phones,Express,5,216.86,0.15,921.66,271.08
+ORD-2812,2024-06-01,East,Consumer,Toys,Board Games,Standard,2,31.95,0.0,63.9,25.56
+ORD-2813,2024-04-08,South,Small Business,Groceries,Beverages,Standard,3,20.75,0.15,52.91,15.56
+ORD-2814,2023-12-03,West,Consumer,Electronics,Laptops,Express,2,143.53,0.0,287.06,114.82
+ORD-2815,2024-06-23,West,Consumer,Furniture,Tables,Express,5,205.92,0.1,926.64,308.88
+ORD-2816,2024-05-20,North,Consumer,Toys,Puzzles,Express,2,40.13,0.05,76.25,28.09
+ORD-2817,2023-10-06,North,Small Business,Furniture,Tables,Standard,2,189.51,0.0,379.02,151.61
+ORD-2818,2023-11-26,North,Consumer,Clothing,Trousers,Express,5,45.58,0.1,205.11,68.37
+ORD-2819,2023-12-17,North,Corporate,Electronics,Cameras,Standard,1,163.42,0.05,155.25,57.2
+ORD-2820,2023-10-22,West,Small Business,Electronics,Laptops,Express,2,213.46,0.05,405.57,149.42
+ORD-2821,2023-04-08,South,Consumer,Electronics,Headphones,Express,5,83.68,0.05,397.48,146.44
+ORD-2822,2023-06-13,North,Consumer,Toys,Action Figures,Standard,5,30.78,0.15,130.82,38.48
+ORD-2823,2024-05-15,North,Corporate,Toys,Dolls,Express,3,46.0,0.0,138.0,55.2
+ORD-2824,2023-09-23,South,Consumer,Toys,Dolls,Express,7,17.48,0.0,122.36,48.94
+ORD-2825,2024-04-13,East,Consumer,Electronics,Phones,Standard,6,271.22,0.05,1545.95,569.56
+ORD-2826,2024-06-30,North,Small Business,Furniture,Tables,Express,5,200.18,0.1,900.81,300.27
+ORD-2827,2023-05-23,North,Corporate,Furniture,Tables,Standard,4,165.82,0.15,563.79,165.82
+ORD-2828,2023-06-09,South,Corporate,Toys,Puzzles,Standard,6,25.63,0.0,153.78,61.51
+ORD-2829,2024-02-12,South,Consumer,Electronics,Laptops,Standard,2,166.79,0.05,316.9,116.75
+ORD-2830,2023-06-23,East,Consumer,Clothing,Shirts,Standard,1,34.48,0.15,29.31,8.62
+ORD-2831,2023-03-23,South,Corporate,Furniture,Sofas,Standard,2,178.49,0.15,303.43,89.24
+ORD-2832,2023-03-08,South,Consumer,Electronics,Cameras,Express,7,222.79,0.05,1481.55,545.83
+ORD-2833,2023-03-04,East,Corporate,Electronics,Phones,Standard,4,135.44,0.1,487.58,162.52
+ORD-2834,2024-06-16,West,Corporate,Clothing,Shoes,Standard,3,41.09,0.1,110.94,36.98
+ORD-2835,2024-02-27,South,Small Business,Groceries,Beverages,Standard,4,18.39,0.1,66.2,22.06
+ORD-2836,2023-08-05,West,Small Business,Clothing,Shoes,Standard,3,32.75,0.2,78.6,19.65
+ORD-2837,2023-06-25,North,Corporate,Furniture,Chairs,Standard,4,95.28,0.0,381.12,152.45
+ORD-2838,2024-01-15,South,Small Business,Clothing,Trousers,Standard,7,21.07,0.0,147.49,59.0
+ORD-2839,2023-03-22,East,Consumer,Furniture,Sofas,Standard,2,134.09,0.05,254.77,93.86
+ORD-2840,2024-12-20,North,Corporate,Furniture,Sofas,Express,1,143.3,0.15,121.8,35.82
+ORD-2841,2024-03-26,North,Consumer,Furniture,Beds,Express,7,201.63,0.15,1199.7,352.85
+ORD-2842,2023-10-10,West,Corporate,Toys,Dolls,Standard,5,23.36,0.1,105.12,35.04
+ORD-2843,2023-04-27,East,Corporate,Furniture,Beds,Same Day,7,181.35,0.05,1205.98,444.31
+ORD-2844,2024-10-21,South,Corporate,Clothing,Trousers,Express,4,51.18,0.1,184.25,61.42
+ORD-2845,2023-09-08,West,Consumer,Clothing,Shoes,Express,5,24.39,0.0,121.95,48.78
+ORD-2846,2024-04-26,South,Consumer,Groceries,Beverages,Standard,6,13.04,0.0,78.24,31.3
+ORD-2847,2023-07-12,South,Corporate,Electronics,Cameras,Express,5,139.15,0.0,695.75,278.3
+ORD-2848,2024-07-16,North,Consumer,Toys,Board Games,Standard,7,26.52,0.15,157.79,46.41
+ORD-2849,2023-10-04,South,Consumer,Clothing,Shoes,Express,5,39.92,0.1,179.64,59.88
+ORD-2850,2023-09-25,West,Corporate,Groceries,Snacks,Same Day,7,8.84,0.05,58.79,21.66
+ORD-2851,2023-05-03,West,Corporate,Furniture,Beds,Standard,6,142.57,0.05,812.65,299.4
+ORD-2852,2023-02-09,West,Consumer,Groceries,Dairy,Standard,4,16.84,0.1,60.62,20.2
+ORD-2853,2024-03-22,South,Consumer,Furniture,Sofas,Express,5,131.22,0.05,623.29,229.63
+ORD-2854,2023-01-15,South,Consumer,Clothing,Trousers,Standard,1,39.88,0.1,35.89,11.96
+ORD-2855,2023-01-28,North,Consumer,Toys,Board Games,Standard,4,10.91,0.05,41.46,15.28
+ORD-2856,2024-10-30,east,Consumer,Furniture,Beds,Express,6,213.52,0.0,1281.12,512.45
+ORD-2857,2024-04-02,South,Consumer,Clothing,Trousers,Standard,5,22.88,0.15,97.24,28.6
+ORD-2858,2024-02-02,South,Consumer,Electronics,Headphones,Same Day,5,96.17,0.0,480.85,192.34
+ORD-2859,2024-09-18,East,Corporate,Furniture,Tables,Standard,7,231.14,0.05,1537.08,566.29
+ORD-2860,2024-10-06,South,Consumer,Furniture,Sofas,Same Day,1,230.25,0.05,218.74,80.59
+ORD-2861,2024-09-16,East,Consumer,Furniture,Tables,Express,5,144.31,0.0,721.55,288.62
+ORD-2862,2023-12-01,North,Small Business,Groceries,Dairy,Standard,2,21.74,0.05,41.31,15.22
+ORD-2863,2023-08-02,West,Small Business,Electronics,Headphones,Standard,7,285.45,0.1,1798.33,599.44
+ORD-2864,2024-09-12,East,Consumer,Electronics,Phones,Standard,2,199.77,0.0,399.54,159.82
+ORD-2865,2024-11-19,North,Consumer,Toys,Dolls,Same Day,6,39.32,0.05,224.12,82.57
+ORD-2866,2023-06-14,North,Consumer,Electronics,Cameras,Same Day,5,301.38,0.05,1431.56,527.42
+ORD-2867,2023-07-22,South,Corporate,Furniture,Sofas,Standard,5,227.74,0.1,1024.83,341.61
+ORD-2868,2023-09-20,West,Consumer,Furniture,Tables,Express,2,159.26,0.0,318.52,127.41
+ORD-2869,2024-05-13,South,Consumer,Electronics,Headphones,Same Day,4,188.95,0.1,680.22,226.74
+ORD-2870,2024-02-04,East,Consumer,Furniture,Sofas,Standard,5,177.3,0.05,842.18,310.28
+ORD-2871,2024-02-18,East,Consumer,Toys,Dolls,Standard,2,43.25,0.1,77.85,25.95
+ORD-2872,2024-10-13,East,Small Business,Electronics,Headphones,Standard,2,354.78,0.15,603.13,177.39
+ORD-2873,2023-08-22,South,Consumer,Furniture,Tables,Standard,7,197.85,0.1,1246.46,415.49
+ORD-2874,2024-02-15,East,Consumer,Electronics,Phones,Express,5,271.47,0.2,1085.88,271.47
+ORD-2875,2024-01-09,South,Small Business,Furniture,Tables,Standard,6,128.86,0.0,773.16,309.26
+ORD-2876,2023-09-25,East,Consumer,Electronics,Laptops,Standard,3,199.22,0.05,567.78,209.18
+ORD-2877,2024-08-17,East,Consumer,Electronics,Cameras,Standard,2,221.92,0.0,443.84,177.54
+ORD-2878,2023-01-18,West,Small Business,Groceries,Snacks,Standard,4,8.54,0.0,34.16,13.66
+ORD-2879,2023-08-15,West,Consumer,Groceries,Dairy,Standard,4,17.48,0.05,66.42,24.47
+ORD-2880,2023-02-15,South,Consumer,Electronics,Phones,Standard,3,191.25,0.0,573.75,229.5
+ORD-2881,2023-08-15,West,Consumer,Electronics,Laptops,Express,5,303.57,0.1,1366.06,455.35
+ORD-2882,2024-04-13,East,Consumer,Clothing,Shirts,Standard,1,48.24,0.0,48.24,19.3
+ORD-2883,2024-06-29,East,Consumer,Groceries,Dairy,Standard,2,13.21,0.15,22.46,6.61
+ORD-2884,2023-09-04,North,Consumer,Toys,Action Figures,Same Day,7,29.03,0.05,193.05,71.12
+ORD-2885,2023-02-07,North,Consumer,Clothing,Shirts,Same Day,3,36.67,0.1,99.01,33.0
+ORD-2886,2023-08-02,East,Consumer,Clothing,Trousers,Express,6,36.68,0.0,220.08,88.03
+ORD-2887,2023-09-30,West,Corporate,Electronics,Laptops,Express,1,216.65,0.1,194.98,64.99
+ORD-2888,2023-01-25,West,Corporate,Groceries,Beverages,Standard,3,13.4,0.05,38.19,14.07
+ORD-2889,2023-08-04,West,Consumer,Toys,Action Figures,Standard,1,25.09,0.0,25.09,10.04
+ORD-2890,2024-02-28,North,Corporate,Furniture,Sofas,Standard,3,230.99,0.05,658.32,242.54
+ORD-2891,2024-01-23,North,Small Business,Electronics,Laptops,Standard,6,264.64,0.0,1587.84,635.14
+ORD-2892,2024-09-16,South,Consumer,Furniture,Chairs,Same Day,7,172.84,0.05,1149.39,423.46
+ORD-2893,2024-09-25,South,Small Business,Electronics,Headphones,Express,3,255.33,0.0,765.99,306.4
+ORD-2894,2023-03-30,North,Small Business,Groceries,Bakery,Standard,5,12.8,0.1,57.6,19.2
+ORD-2895,2023-10-01,East,Consumer,Toys,Dolls,Standard,1,27.61,0.15,23.47,6.9
+ORD-2896,2023-10-14,West,Consumer,Clothing,Jackets,Express,1,30.1,0.0,30.1,12.04
+ORD-2897,2023-10-06,West,Small Business,Clothing,Shirts,Standard,4,54.54,0.05,207.25,76.35
+ORD-2898,2024-04-02,East,Corporate,Groceries,Dairy,Express,2,20.48,0.1,36.86,12.28
+ORD-2899,2023-08-22,East,Corporate,Electronics,Phones,Standard,3,189.39,0.1,511.35,170.45
+ORD-2900,2024-12-12,North,Corporate,Furniture,Sofas,Express,5,200.27,0.0,1001.35,400.54
+ORD-2901,2024-08-26,West,Consumer,Clothing,Jackets,Standard,4,29.64,0.15,100.78,29.64
+ORD-2902,2024-08-24,West,Corporate,Electronics,Laptops,Standard,7,268.99,0.0,1882.93,753.17
+ORD-2903,2023-04-07,West,Small Business,Toys,Action Figures,Express,7,23.84,0.1,150.19,50.06
+ORD-2904,2024-11-08,East,Consumer,Electronics,Laptops,Same Day,5,273.15,0.0,1365.75,546.3
+ORD-2905,2024-12-23,West,Consumer,Clothing,Shoes,Standard,6,35.93,0.0,215.58,86.23
+ORD-2906,2023-06-10,North,Corporate,Furniture,Sofas,Express,6,204.02,0.05,1162.91,428.44
+ORD-2907,2023-10-29,North,Consumer,Furniture,Tables,Standard,2,97.58,0.05,185.4,68.3
+ORD-2908,2024-01-14,East,Consumer,Electronics,Laptops,Standard,1,366.8,0.0,366.8,146.72
+ORD-2909,2023-10-05,East,Consumer,Toys,Board Games,Express,2,20.62,0.1,37.12,12.38
+ORD-2910,2024-01-13,North,Consumer,Furniture,Beds,Standard,3,163.26,0.0,489.78,195.91
+ORD-2911,2024-03-24,East,Consumer,Toys,Dolls,Same Day,2,35.53,0.1,63.95,21.31
+ORD-2912,2024-05-14,West,Consumer,Electronics,Headphones,Standard,7,289.15,0.2,1619.24,404.81
+ORD-2913,2024-08-24,West,Corporate,Furniture,Beds,Standard,5,150.67,0.0,753.35,301.34
+ORD-2914,2024-08-26,East,Small Business,Electronics,Laptops,Express,1,286.56,0.05,272.23,100.29
+ORD-2915,2024-08-12,South,Consumer,Toys,Dolls,Standard,3,45.34,0.1,122.42,40.81
+ORD-2916,2023-12-09,East,Corporate,Toys,Board Games,Standard,5,28.78,0.0,143.9,57.56
+ORD-2917,2023-07-01,East,Corporate,Electronics,Laptops,Standard,3,105.9,0.2,254.16,63.54
+ORD-2918,2023-02-02,West,Consumer,Clothing,Jackets,Standard,7,36.61,0.1,230.64,76.88
+ORD-2919,2024-02-10,North,Consumer,Electronics,Laptops,Standard,2,125.35,0.1,225.63,75.21
+ORD-2920,2023-12-02,South,Corporate,Groceries,Dairy,Standard,6,15.26,0.05,86.98,32.04
+ORD-2921,2024-08-17,east,Consumer,Clothing,Shirts,Standard,7,21.5,0.0,150.5,60.2
+ORD-2922,2023-06-28,East,Corporate,Furniture,Chairs,Express,2,194.15,0.1,349.47,116.49
+ORD-2923,2024-09-16,North,Corporate,Groceries,Bakery,Standard,1,19.2,0.0,19.2,7.68
+ORD-2924,2023-02-12,North,Consumer,Electronics,Laptops,Standard,4,325.25,0.0,1301.0,520.4
+ORD-2925,2024-10-17,South,Corporate,Toys,Action Figures,Standard,7,34.94,0.0,244.58,97.83
+ORD-2926,2023-10-26,South,Consumer,Electronics,Laptops,Standard,5,286.29,0.15,1216.73,357.86
+ORD-2927,2024-08-30,North,Consumer,Clothing,Jackets,Standard,6,39.49,0.0,236.94,94.78
+ORD-2928,2023-12-21,West,Corporate,Groceries,Snacks,Express,1,9.51,0.05,9.03,3.32
+ORD-2929,2023-10-05,West,Consumer,Furniture,Tables,Standard,3,314.9,0.15,802.99,236.17
+ORD-2930,2024-10-20,South,Consumer,Clothing,Shoes,Express,5,41.93,0.2,167.72,41.93
+ORD-2931,2024-05-11,East,Small Business,Clothing,Shoes,Standard,2,53.54,0.0,107.08,42.83
+ORD-2932,2024-02-29,North,Consumer,Clothing,Shirts,Standard,2,54.78,0.15,93.13,27.39
+ORD-2933,2023-09-23,South,Consumer,Clothing,Trousers,Express,7,31.54,0.15,187.66,55.19
+ORD-2934,2023-11-25,East,Consumer,Clothing,Trousers,Express,4,40.64,0.0,162.56,65.02
+ORD-2935,2024-09-30,North,Corporate,Furniture,Chairs,Express,4,109.14,0.0,436.56,174.62
+ORD-2936,2023-09-09,West,Consumer,Furniture,Tables,Standard,4,174.37,0.1,627.73,209.24
+ORD-2937,2023-04-25,East,Consumer,Clothing,Jackets,Express,2,55.45,0.05,105.36,38.82
+ORD-2938,2023-05-30,West,Consumer,Toys,Action Figures,Standard,3,24.96,0.1,67.39,22.46
+ORD-2939,2023-10-24,West,Corporate,Electronics,Cameras,Express,5,210.22,0.05,998.54,367.88
+ORD-2940,2024-09-01,East,Small Business,Clothing,Shoes,Express,6,49.55,0.0,297.3,118.92
+ORD-2941,2023-12-09,South,Consumer,Furniture,Chairs,Standard,1,139.13,0.0,139.13,55.65
+ORD-2942,2024-03-08,North,Consumer,Furniture,Tables,Express,3,295.31,0.0,885.93,354.37
+ORD-2943,2023-07-21,West,Corporate,Electronics,Headphones,Standard,2,224.76,0.05,427.04,157.33
+ORD-2944,2024-05-02,West,Small Business,Clothing,Shoes,Express,4,38.73,0.0,154.92,61.97
+ORD-2945,2024-10-30,East,Small Business,Groceries,Dairy,Standard,5,13.2,0.0,66.0,26.4
+ORD-2946,2024-11-24,South,Consumer,Furniture,Sofas,Standard,6,137.44,0.1,742.18,247.4
+ORD-2947,2024-07-03,South,Consumer,Electronics,Cameras,Express,4,170.65,0.2,546.08,136.52
+ORD-2948,2024-04-11,West,Consumer,Electronics,Cameras,Express,7,335.97,0.1,2116.61,705.54
+ORD-2949,2023-06-24,West,Corporate,Clothing,Jackets,Standard,2,36.89,0.0,73.78,29.51
+ORD-2950,2023-05-03,East,Corporate,Furniture,Sofas,Express,7,216.82,0.05,1441.85,531.21
+ORD-2951,2024-02-20,West,Consumer,Clothing,Jackets,Same Day,5,40.44,0.1,181.98,60.66
+ORD-2952,2024-09-23,South,Small Business,Toys,Puzzles,Express,4,34.14,0.05,129.73,47.79
+ORD-2953,2023-02-18,West,Consumer,Clothing,Jackets,Standard,1,50.96,0.15,43.32,12.74
+ORD-2954,2023-07-20,North,Corporate,Electronics,Laptops,Express,4,272.63,0.05,1035.99,381.68
+ORD-2955,2024-08-23,West,Small Business,Toys,Puzzles,Standard,7,41.85,0.0,292.95,117.18
+ORD-2956,2024-12-21,North,Consumer,Electronics,Laptops,Standard,1,215.63,0.0,215.63,86.25
+ORD-2957,2023-08-26,West,Corporate,Groceries,Snacks,Standard,5,7.73,0.05,36.72,13.53
+ORD-2958,2023-10-28,South,Corporate,Furniture,Chairs,Standard,2,157.95,0.0,315.9,126.36
+ORD-2959,2023-08-01,West,Consumer,Toys,Dolls,Standard,5,23.66,0.05,112.38,41.4
+ORD-2960,2024-07-31,East,Corporate,Groceries,Dairy,Standard,3,13.86,0.1,37.42,12.47
+ORD-2961,2024-10-26,East,Consumer,Groceries,Beverages,Standard,6,9.44,0.05,53.81,19.83
+ORD-2962,2023-11-19,West,Consumer,Furniture,Beds,Same Day,7,205.86,0.05,1368.97,504.36
+ORD-2963,2023-03-07,West,Corporate,Toys,Action Figures,Express,6,29.76,0.0,178.56,71.42
+ORD-2964,2024-08-07,East,Corporate,Toys,Board Games,Express,6,36.13,0.0,216.78,86.71
+ORD-2965,2024-08-17,South,Consumer,Clothing,Trousers,Standard,3,42.44,0.05,120.95,44.56
+ORD-2966,2023-11-02,North,Consumer,Furniture,Sofas,Standard,2,186.39,0.0,372.78,149.11
+ORD-2967,2024-06-18,East,Small Business,Clothing,Shirts,Express,1,30.36,0.0,30.36,12.14
+ORD-2968,2024-07-05,West,Corporate,Toys,Board Games,Standard,5,31.66,0.1,142.47,47.49
+ORD-2969,2024-02-07,West,Consumer,Groceries,Bakery,Express,5,13.35,0.0,66.75,26.7
+ORD-2970,2023-05-11,West,Small Business,Electronics,Phones,Same Day,6,317.71,0.0,1906.26,762.5
+ORD-2971,2023-04-24,West,Consumer,Groceries,Beverages,Standard,3,12.9,0.15,32.9,9.68
+ORD-2972,2024-05-26,South,Corporate,Groceries,Snacks,Standard,5,12.49,0.0,62.45,24.98
+ORD-2973,2023-03-08,South,Corporate,Toys,Dolls,Express,5,9.66,0.2,38.64,9.66
+ORD-2974,2023-10-31,North,Consumer,Electronics,Headphones,Standard,5,147.87,0.0,739.35,295.74
+ORD-2975,2023-05-15,East,Consumer,Furniture,Beds,Standard,6,244.62,0.0,1467.72,587.09
+ORD-2976,2024-08-01,North,Small Business,Groceries,Bakery,Express,4,15.2,0.05,57.76,21.28
+ORD-2977,2023-09-19,North,Corporate,Electronics,Cameras,Express,2,272.33,0.1,490.19,163.39
+ORD-2978,2023-08-10,West,Corporate,Furniture,Tables,Standard,4,76.12,0.15,258.81,76.12
+ORD-2979,2024-02-17,South,Consumer,Groceries,Bakery,Standard,1,9.41,0.0,9.41,3.76
+ORD-2980,2024-02-06,South,Consumer,Furniture,Chairs,Standard,1,256.34,0.0,256.34,102.54
+ORD-2981,2023-09-27,North,Consumer,Furniture,Chairs,Express,3,157.85,0.2,378.84,94.71
+ORD-2982,2024-04-02,East,Corporate,Groceries,Dairy,Standard,6,14.05,0.0,84.3,33.72
+ORD-2983,2023-08-13,West,Consumer,Groceries,Snacks,Standard,7,10.68,0.15,63.55,18.69
+ORD-2984,2024-07-13,East,Corporate,Furniture,Tables,Express,3,234.45,0.2,562.68,140.67
+ORD-2985,2023-11-24,east,Consumer,Toys,Action Figures,Standard,4,30.85,0.05,117.23,43.19
+ORD-2986,2024-02-21,East,Corporate,Electronics,Phones,Standard,7,271.75,0.05,1807.14,665.79
+ORD-2987,2024-08-19,North,Consumer,Groceries,Bakery,Standard,3,16.77,0.0,50.31,20.12
+ORD-2988,2023-05-25,East,Corporate,Toys,Board Games,Express,5,24.23,0.05,115.09,42.4
+ORD-2989,2024-06-08,West,Consumer,Toys,Dolls,Standard,7,40.0,0.15,238.0,70.0
+ORD-2990,2023-10-20,East,Consumer,Clothing,Trousers,Same Day,4,45.16,0.0,180.64,72.26
+ORD-2991,2024-09-22,West,Consumer,Furniture,Tables,Standard,6,207.46,0.15,1058.05,311.19
+ORD-2992,2023-11-18,West,Consumer,Furniture,Tables,Express,4,184.18,0.05,699.88,257.85
+ORD-2993,2023-10-22,South,Corporate,Furniture,Sofas,Standard,2,145.89,0.1,262.6,87.53
+ORD-2994,2023-07-18,West,Corporate,Clothing,Shoes,Express,7,53.09,0.0,371.63,148.65
+ORD-2995,2024-08-06,East,Consumer,Toys,Dolls,Same Day,2,26.92,0.05,51.15,18.85
+ORD-2996,2024-05-25,South,Small Business,Electronics,Laptops,Standard,2,127.24,0.1,229.03,76.34
+ORD-2997,2024-03-29,North,Consumer,Clothing,Shirts,Standard,2,70.28,0.2,112.45,28.11
+ORD-2998,2024-09-15,East,Consumer,Electronics,Cameras,Standard,2,189.67,0.0,379.34,151.74
+ORD-2999,2024-10-26,North,Corporate,Toys,Dolls,Standard,7,32.03,0.15,190.58,56.05
+ORD-1674,2024-07-14,West,Consumer,Groceries,Beverages,Express,5,20.14,0.0,100.7,40.28
+ORD-2699,2023-07-23,South,Consumer,Toys,Puzzles,Same Day,7,34.25,0.05,227.76,83.91
+ORD-2282,2024-03-08,West,Consumer,Electronics,Phones,Standard,1,284.6,0.0,284.6,113.84
+ORD-2315,2023-08-09,East,Consumer,Toys,Action Figures,Same Day,2,19.48,0.1,35.06,11.68
+ORD-2210,2023-01-16,West,Corporate,Groceries,Beverages,Express,4,12.16,0.0,48.64,19.46
+ORD-2636,2023-07-26,West,Consumer,Furniture,Tables,Express,7,257.42,0.1,1621.75,540.59
+ORD-1613,2023-08-09,East,Corporate,Clothing,Jackets,Standard,1,52.89,0.05,50.25,18.52
+ORD-1447,2023-03-03,West,Corporate,Electronics,Phones,Standard,7,220.35,0.0,1542.45,616.98
+ORD-2131,2023-08-31,East,Corporate,Clothing,Trousers,Express,3,35.88,0.0,107.64,43.06
+ORD-1808,2024-02-09,East,Consumer,Clothing,Shoes,Express,7,51.46,0.1,324.2,108.07
+ORD-2496,2023-11-04,South,Consumer,Groceries,Bakery,Express,5,19.36,0.05,91.96,33.88
+ORD-2468,2023-06-03,West,Consumer,Furniture,Sofas,Express,6,105.89,0.0,635.34,254.14
+ORD-2682,2024-04-18,South,Consumer,Groceries,Dairy,Same Day,4,18.16,0.0,72.64,29.06
+ORD-2149,2023-12-14,North,Consumer,Electronics,Laptops,Standard,6,205.65,0.15,1048.82,308.48
+ORD-1442,2024-08-20,West,Consumer,Electronics,Headphones,Express,2,151.06,0.05,287.01,105.74
